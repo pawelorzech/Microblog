@@ -1,0 +1,650 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Paweł Orzech",
+	"icon": "https://micro.blog/pawel/avatar.jpg",
+	"home_page_url": "https://pnut.pl/",
+	"feed_url": "https://pnut.pl/feed.json",
+	"items": [
+		
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/20/one-day-im.html",
+				
+				"content_html": "<p>One day I&rsquo;m gonna come back to the idea of hosting my own Mastodon instance, especially when I&rsquo;m finding something like that: <a href=\"https://github.com/cloudflare/wildebeest\">github.com/cloudflar&hellip;</a></p>\n<p>It&rsquo;s too soon yet to do a production-ready stuff on the wildebeest, but it is really interesting!</p>\n",
+				"content_text": "One day I'm gonna come back to the idea of hosting my own Mastodon instance, especially when I'm finding something like that: [github.com/cloudflar...](https://github.com/cloudflare/wildebeest)\r\n\r\nIt's too soon yet to do a production-ready stuff on the wildebeest, but it is really interesting! \n",
+				"date_published": "2023-01-20T16:51:41+01:00",
+				"url": "https://pnut.pl/2023/01/20/one-day-im.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/20/today-im-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>👨‍🚒 Today I'm the fireman. I'm trying to extinguish fires.</p>\n",
+				"date_published": "2023-01-20T13:05:51+01:00",
+				"url": "https://pnut.pl/2023/01/20/today-im-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/19/the-last-of.html",
+				
+				"content_html": "<p>📺 <a href=\"https://www.themoviedb.org/tv/100088\">The Last of Us (2023)</a> - ★★★★★</p>\n",
+				"content_text": "📺 [The Last of Us (2023)](https://www.themoviedb.org/tv/100088) - ★★★★★\n",
+				"date_published": "2023-01-19T20:26:02+01:00",
+				"url": "https://pnut.pl/2023/01/19/the-last-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/19/cant-wait-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💤 Can't wait for the weekend to finally sleep for 12 hours without regrets.</p>\n",
+				"date_published": "2023-01-19T12:36:21+01:00",
+				"url": "https://pnut.pl/2023/01/19/cant-wait-for.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/18/coming-back-from.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥴 Coming back from holidays is a bit hard. Hard in terms of hitting you with a brick in a face hard. </p>\n",
+				"date_published": "2023-01-18T11:11:48+01:00",
+				"url": "https://pnut.pl/2023/01/18/coming-back-from.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/17/being-able-to.html",
+				
+				"content_html": "<p>Being able to just steal a couple of warm days in the January is something else. So grateful to be able to do it!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Being able to just steal a couple of warm days in the January is something else. So grateful to be able to do it!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/9b9e131f30.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-01-18T00:12:40+01:00",
+				"url": "https://pnut.pl/2023/01/17/being-able-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/16/014645.html",
+				
+				"content_html": "<p>🌊</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🌊\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/af5c973a79.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-16T02:46:45+01:00",
+				"url": "https://pnut.pl/2023/01/16/014645.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/15/twitters-actions-also.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/\">Twitter’s actions also show a total lack of respect for the role that third-party apps have played in the development and success of the service from its earliest days.</a></p>\n</blockquote>\n<p>Once again - Twitter under Elon Musk behaves in the worst way possible. Yet another nail in the coffin!</p>\n",
+				"content_text": "> [Twitter’s actions also show a total lack of respect for the role that third-party apps have played in the development and success of the service from its earliest days.](https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/)\r\n\r\nOnce again - Twitter under Elon Musk behaves in the worst way possible. Yet another nail in the coffin!\n",
+				"date_published": "2023-01-15T17:03:46+01:00",
+				"url": "https://pnut.pl/2023/01/15/twitters-actions-also.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/14/we-are-using.html",
+				
+				"content_html": "<p>We are using the smallest possible dice for our MagicTheGathering games.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We are using the smallest possible dice for our MagicTheGathering games. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/e51ebe6734.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-14T23:46:24+01:00",
+				"url": "https://pnut.pl/2023/01/14/we-are-using.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/14/also-dont-get.html",
+				
+				"content_html": "<p>Also don’t get me wrong, this Ivory for Mastodon is great. Really great. But Gluon for micro.blog is better for my brain and I can’t just wait for micro.blog to add mass follow for mastodon!</p>\n<p><a href=\"https://help.micro.blog/t/mass-follow/1467\">help.micro.blog/t/mass-fo&hellip;</a></p>\n",
+				"content_text": "Also don’t get me wrong, this Ivory for Mastodon is great. Really great. But Gluon for micro.blog is better for my brain and I can’t just wait for micro.blog to add mass follow for mastodon!\n\n[help.micro.blog/t/mass-fo...](https://help.micro.blog/t/mass-follow/1467)\n",
+				"date_published": "2023-01-14T18:32:32+01:00",
+				"url": "https://pnut.pl/2023/01/14/also-dont-get.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/14/oh-ignorance-is.html",
+				
+				"content_html": "<p>Oh, ignorance is bliss - it feels great to not look at the internet for most of the time. Just wanted to have a mental note of it. BRB, going back to that offline for a little bit, once again!</p>\n",
+				"content_text": "Oh, ignorance is bliss - it feels great to not look at the internet for most of the time. Just wanted to have a mental note of it. BRB, going back to that offline for a little bit, once again!\n",
+				"date_published": "2023-01-14T17:35:20+01:00",
+				"url": "https://pnut.pl/2023/01/14/oh-ignorance-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/13/seems-to-me.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🏝️ Seems to me like a paradise!</p>\n",
+				"date_published": "2023-01-13T00:32:42+01:00",
+				"url": "https://pnut.pl/2023/01/13/seems-to-me.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/11/very-happy-with.html",
+				
+				"content_html": "<p>Very happy with what&rsquo;s coming to Micro.blog: <a href=\"https://help.micro.blog/t/mass-follow/1467/4\">help.micro.blog/t/mass-fo&hellip;</a></p>\n<p>Can&rsquo;t wait! I&rsquo;m gonna probably move more of my stuff to my micro.blog account (for those of you reading on the Mastodon, don&rsquo;t you worry, everything is seamless)!</p>\n",
+				"content_text": "Very happy with what's coming to Micro.blog: [help.micro.blog/t/mass-fo...](https://help.micro.blog/t/mass-follow/1467/4)\r\n\r\nCan't wait! I'm gonna probably move more of my stuff to my micro.blog account (for those of you reading on the Mastodon, don't you worry, everything is seamless)!\n",
+				"date_published": "2023-01-11T17:58:49+01:00",
+				"url": "https://pnut.pl/2023/01/11/very-happy-with.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/11/bought-myself-a.html",
+				
+				"content_html": "<p>Bought myself a PowerBank <a href=\"https://allegro.pl/oferta/battery-pack-powerbank-magsafe-usb-c-do-iphone-14-12869088597\">(Baseus with MagSafe)</a>. Holy&hellip; This MagSafe is really great and I&rsquo;m so happy to finally experience this whole ecosystem of addons!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bought myself a PowerBank [(Baseus with MagSafe)](https://allegro.pl/oferta/battery-pack-powerbank-magsafe-usb-c-do-iphone-14-12869088597). Holy... This MagSafe is really great and I'm so happy to finally experience this whole ecosystem of addons! \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/68fdb40e66.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-11T15:20:13+01:00",
+				"url": "https://pnut.pl/2023/01/11/bought-myself-a.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/11/putting-my-money.html",
+				
+				"content_html": "<p>Putting my money where my mouth is. Micro.blog is great centre of my own universe right now and I did what I should have done!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Putting my money where my mouth is. Micro.blog is great centre of my own universe right now and I did what I should have done!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/a34800627e.jpg\" width=\"600\" height=\"150\" alt=\"\">\n",
+				"date_published": "2023-01-11T14:54:46+01:00",
+				"url": "https://pnut.pl/2023/01/11/putting-my-money.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/10/i-need-to.html",
+				
+				"content_html": "<p>I need to find a way to automatically follow everyone using my micro.blog account cause using Gluon is actually more fun than Ivory. Feels less like serious social media and I’m all for it.</p>\n",
+				"content_text": "I need to find a way to automatically follow everyone using my micro.blog account cause using Gluon is actually more fun than Ivory. Feels less like serious social media and I’m all for it. \n",
+				"date_published": "2023-01-10T23:30:03+01:00",
+				"url": "https://pnut.pl/2023/01/10/i-need-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/10/better-call-saul.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📺 Better Call Saul</p>\n",
+				"date_published": "2023-01-10T21:57:32+01:00",
+				"url": "https://pnut.pl/2023/01/10/better-call-saul.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/10/for-the-first.html",
+				
+				"content_html": "<p>For the first time ever I’m using 5G on my personal phone. Feels nice. Isn’t much different from my own Wi-Fi, but still - nice to have it!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For the first time ever I’m using 5G on my personal phone. Feels nice. Isn’t much different from my own Wi-Fi, but still - nice to have it!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/2f0e3880bb.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-10T12:20:57+01:00",
+				"url": "https://pnut.pl/2023/01/10/for-the-first.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/09/couple-hours-after.html",
+				
+				"content_html": "<p>Couple hours after surgery, she did a teleconference, on video, shown herself, her scar and addressed everyone so everyone knew what’s going on. She’s a beast.</p>\n",
+				"content_text": "Couple hours after surgery, she did a teleconference, on video, shown herself, her scar and addressed everyone so everyone knew what’s going on. She’s a beast. \n",
+				"date_published": "2023-01-09T18:46:17+01:00",
+				"url": "https://pnut.pl/2023/01/09/couple-hours-after.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/09/mom-woke-up.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😌 Mom woke up from the surgery, we don't know everything just yet, but it's a good sign. Thank you for crossing your fingers for us. So much stress relieved in a single phone call.</p>\n",
+				"date_published": "2023-01-09T16:01:25+01:00",
+				"url": "https://pnut.pl/2023/01/09/mom-woke-up.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/09/ive-decided-against.html",
+				
+				"content_html": "<p>I&rsquo;ve decided against buying an older phone (13 Pro) and I&rsquo;m unable to spend that amount of money to get 14 Pro. I wanted to have better battery so 14 Plus it is. My wife is gonna get my 11 Pro (she has SE, so that&rsquo;s an upgrade). In case of great September I&rsquo;m still open:)</p>\n",
+				"content_text": "I've decided against buying an older phone (13 Pro) and I'm unable to spend that amount of money to get 14 Pro. I wanted to have better battery so 14 Plus it is. My wife is gonna get my 11 Pro (she has SE, so that's an upgrade). In case of great September I'm still open:)\n",
+				"date_published": "2023-01-09T11:40:53+01:00",
+				"url": "https://pnut.pl/2023/01/09/ive-decided-against.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/09/yesterday-i-did.html",
+				
+				"content_html": "<p>Yesterday I did a thing. This thing is called iPhone 14 Plus and it&rsquo;s going to be here tomorrow. Welp.</p>\n",
+				"content_text": "Yesterday I did a thing. This thing is called iPhone 14 Plus and it's going to be here tomorrow. Welp.\n",
+				"date_published": "2023-01-09T10:54:39+01:00",
+				"url": "https://pnut.pl/2023/01/09/yesterday-i-did.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/08/my-mom-is.html",
+				
+				"content_html": "<p>My mom is going to have a serious medical procedure in the morning, if you can - please keep fingers crossed. I’d really appreciate it.</p>\n",
+				"content_text": "My mom is going to have a serious medical procedure in the morning, if you can - please keep fingers crossed. I’d really appreciate it. \n",
+				"date_published": "2023-01-08T21:08:21+01:00",
+				"url": "https://pnut.pl/2023/01/08/my-mom-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/08/exploring-new-blogs.html",
+				
+				"content_html": "<p>Exploring new blogs to broaden my bubble is exciting. If you have a #blog - let me know. Brag about it! I want to see and read it.</p>\n",
+				"content_text": "Exploring new blogs to broaden my bubble is exciting. If you have a #blog - let me know. Brag about it! I want to see and read it. \n",
+				"date_published": "2023-01-08T13:14:08+01:00",
+				"url": "https://pnut.pl/2023/01/08/exploring-new-blogs.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/08/dolby-atmos-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🎶 Dolby Atmos is darn good.</p>\n",
+				"date_published": "2023-01-08T01:15:11+01:00",
+				"url": "https://pnut.pl/2023/01/08/dolby-atmos-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/07/the-ultimatum-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💔 The Ultimatum on Netflix. I mean - it’s bad but I can’t stop watching it.</p>\n",
+				"date_published": "2023-01-07T21:23:06+01:00",
+				"url": "https://pnut.pl/2023/01/07/the-ultimatum-on.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/07/i-like-trains.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🚅 I like trains and this one is actually pretty fine. Also thank god for noise cancelling headphones.</p>\n",
+				"date_published": "2023-01-07T17:15:59+01:00",
+				"url": "https://pnut.pl/2023/01/07/i-like-trains.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/07/ive-started-journaling.html",
+				
+				"content_html": "<p>I&rsquo;ve started journaling for the sake of journaling. My entries look really bad, but even though it&rsquo;s only a couple of days I already appreciate it. It&rsquo;s good to be able to reftect on what&rsquo;s going on without having to obfuscate my feelings.</p>\n",
+				"content_text": "I've started journaling for the sake of journaling. My entries look really bad, but even though it's only a couple of days I already appreciate it. It's good to be able to reftect on what's going on without having to obfuscate my feelings. \n",
+				"date_published": "2023-01-07T17:14:44+01:00",
+				"url": "https://pnut.pl/2023/01/07/ive-started-journaling.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/06/snowy-evening.html",
+				
+				"content_html": "<p>Snowy evening.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Snowy evening. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/1fb5bac676.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/749cd0045e.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-06T21:07:13+01:00",
+				"url": "https://pnut.pl/2023/01/06/snowy-evening.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/06/couple-days-ago.html",
+				
+				"content_html": "<p>Couple days ago it was nearly 20*C and people were wearing shorts. Today it’s snowing again. The climate is definitely fine and not fucked in any way.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Couple days ago it was nearly 20*C and people were wearing shorts. Today it’s snowing again. The climate is definitely fine and not fucked in any way. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/7ef9c37a3d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-06T20:20:19+01:00",
+				"url": "https://pnut.pl/2023/01/06/couple-days-ago.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/06/im-unbelievable-happy.html",
+				
+				"content_html": "<p>I’m unbelievable happy with my move to micro.blog. So there’s something good that came out from Space Karen!</p>\n",
+				"content_text": "I’m unbelievable happy with my move to micro.blog. So there’s something good that came out from Space Karen!\n",
+				"date_published": "2023-01-06T20:16:15+01:00",
+				"url": "https://pnut.pl/2023/01/06/im-unbelievable-happy.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/06/this-is-something.html",
+				
+				"content_html": "<p>This is something for my Polish audience.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is something for my Polish audience.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/f161231fed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-06T18:20:47+01:00",
+				"url": "https://pnut.pl/2023/01/06/this-is-something.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/05/hoping-that-future.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💆‍♂️ Hoping that future is even brighter but being prepared for it to actually suck.</p>\n",
+				"date_published": "2023-01-05T15:12:21+01:00",
+				"url": "https://pnut.pl/2023/01/05/hoping-that-future.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/05/won-another-battle.html",
+				
+				"content_html": "<p>Won another battle with my ADHD - I&rsquo;ve registered for my annual blood tests. It only took TWO MONTHS of seeing this task and moving it for another day.</p>\n",
+				"content_text": "Won another battle with my ADHD - I've registered for my annual blood tests. It only took TWO MONTHS of seeing this task and moving it for another day. \n",
+				"date_published": "2023-01-05T14:32:13+01:00",
+				"url": "https://pnut.pl/2023/01/05/won-another-battle.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/05/i-need-to.html",
+				
+				"content_html": "<p>I need to do something with these icons. It might be too much.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I need to do something with these icons. It might be too much.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/4feb0eb5cb.png\" width=\"600\" height=\"8\" alt=\"\">\n",
+				"date_published": "2023-01-05T00:11:18+01:00",
+				"url": "https://pnut.pl/2023/01/05/i-need-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/04/i-always-thought.html",
+				
+				"content_html": "<p>I always thought that I’m gonna have some sensory issues while wearing wedding ring and here we are - I’m rarely even taking it off and I sleep in it.</p>\n",
+				"content_text": "I always thought that I’m gonna have some sensory issues while wearing wedding ring and here we are - I’m rarely even taking it off and I sleep in it. \n",
+				"date_published": "2023-01-04T23:36:52+01:00",
+				"url": "https://pnut.pl/2023/01/04/i-always-thought.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/04/113829.html",
+				
+				"content_html": "<p><a href=\"https://collabfund.com/blog/100-little-ideas/\">collabfund.com/blog/100-&hellip;</a></p>\n<p>Interesting, bookmarked. Cool read.</p>\n",
+				"content_text": "[collabfund.com/blog/100-...](https://collabfund.com/blog/100-little-ideas/)\n\nInteresting, bookmarked. Cool read.\n",
+				"date_published": "2023-01-04T11:38:29+01:00",
+				"url": "https://pnut.pl/2023/01/04/113829.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/04/because-of-how.html",
+				
+				"content_html": "<p>Because of how Mastodon works with data, it&rsquo;s unsustainable for me to run my own Mastodon instance. It&rsquo;s just either getting pricey with S3 or with hosting provider. And I&rsquo;m already fine with micro.blog and social.lol instance. Bye, bye!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Because of how Mastodon works with data, it's unsustainable for me to run my own Mastodon instance. It's just either getting pricey with S3 or with hosting provider. And I'm already fine with micro.blog and social.lol instance. Bye, bye! \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/d5329e078e.png\" width=\"600\" height=\"523\" alt=\"\">\n",
+				"date_published": "2023-01-04T10:52:38+01:00",
+				"url": "https://pnut.pl/2023/01/04/because-of-how.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/04/my-own-socialorzechme.html",
+				
+				"content_html": "<p>My own (social.Orzech.me) instance of Mastodon is becoming really, really big. Without my input it grew to 8GB of disk space. That’s… not optimistic. Not sure if I’m gonna keep it around then. I might try Pleroma or Misskey instead so it’s a bit lighter on resources?</p>\n",
+				"content_text": "My own (social.Orzech.me) instance of Mastodon is becoming really, really big. Without my input it grew to 8GB of disk space. That’s… not optimistic. Not sure if I’m gonna keep it around then. I might try Pleroma or Misskey instead so it’s a bit lighter on resources?\n",
+				"date_published": "2023-01-04T02:25:53+01:00",
+				"url": "https://pnut.pl/2023/01/04/my-own-socialorzechme.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/04/untapin-is-the.html",
+				
+				"content_html": "<p>Untap.in is THE best place to play #MagicTheGathering online with friends. We just had&hellip; 7 hour session, online, on two continents, five people. It&rsquo;s unreal how good it is.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Untap.in is THE best place to play #MagicTheGathering online with friends. We just had... 7 hour session, online, on two continents, five people. It's unreal how good it is.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/d7ade6ed2a.png\" width=\"600\" height=\"341\" alt=\"\">\n",
+				"date_published": "2023-01-04T00:52:57+01:00",
+				"url": "https://pnut.pl/2023/01/04/untapin-is-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/03/just-for-the.html",
+				
+				"content_html": "<p>Just for the record, my timeline looks weird because I&rsquo;ve imported all of my statuses from status.lol. From now on they are gonna be shown on my profile!</p>\n",
+				"content_text": "Just for the record, my timeline looks weird because I've imported all of my statuses from status.lol. From now on they are gonna be shown on my profile!\n",
+				"date_published": "2023-01-03T22:43:11+01:00",
+				"url": "https://pnut.pl/2023/01/03/just-for-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/03/sometimes-this-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🧗 Sometimes this is how it feels to do stuff. I'm doing stuff.</p>\n",
+				"date_published": "2023-01-03T13:13:47+01:00",
+				"url": "https://pnut.pl/2023/01/03/sometimes-this-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/03/the-time-of.html",
+				
+				"content_html": "<p>The time of cheap flights is definitely over &ndash; said out loud whenever I&rsquo;m looking at flights to cool holiday destinations.</p>\n",
+				"content_text": "The time of cheap flights is definitely over -- said out loud whenever I'm looking at flights to cool holiday destinations.\n",
+				"date_published": "2023-01-03T10:51:26+01:00",
+				"url": "https://pnut.pl/2023/01/03/the-time-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/02/i-left-my.html",
+				
+				"content_html": "<p>I left my Hellshite account to rot there (and to prevent anybody to take my username) but I find it very relaxing to go there, unfollow more people and see that people I&rsquo;m unfollowing aren&rsquo;t already using Twitter and they&rsquo;re on Mastodon.</p>\n",
+				"content_text": "I left my Hellshite account to rot there (and to prevent anybody to take my username) but I find it very relaxing to go there, unfollow more people and see that people I'm unfollowing aren't already using Twitter and they're on Mastodon. \n",
+				"date_published": "2023-01-02T16:59:05+01:00",
+				"url": "https://pnut.pl/2023/01/02/i-left-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/02/httpsgetbloggingorg-get-blogging.html",
+				
+				"content_html": "<p><a href=\"https://getblogging.org/\">getblogging.org</a></p>\n<p>Get Blogging! - I stand by this message (as someone who just recently came back to blogging).</p>\n",
+				"content_text": "[getblogging.org](https://getblogging.org/)\n\nGet Blogging! - I stand by this message (as someone who just recently came back to blogging).\n",
+				"date_published": "2023-01-02T11:38:53+01:00",
+				"url": "https://pnut.pl/2023/01/02/httpsgetbloggingorg-get-blogging.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/02/one-day-whatsapp.html",
+				
+				"content_html": "<p>One day #WhatsApp will not take a whole couple of minutes to load. Today was not that day though.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One day #WhatsApp will not take a whole couple of minutes to load. Today was not that day though.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/55140368df.png\" width=\"600\" height=\"424\" alt=\"\">\n",
+				"date_published": "2023-01-02T11:05:17+01:00",
+				"url": "https://pnut.pl/2023/01/02/one-day-whatsapp.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/01/after-a-walk.html",
+				
+				"content_html": "<p>After a walk, spent quite some time in cleaning up my internet services. Most were not needed and redundant. And I think I don&rsquo;t need this level of redundancy at this point in my life.</p>\n",
+				"content_text": "After a walk, spent quite some time in cleaning up my internet services. Most were not needed and redundant. And I think I don't need this level of redundancy at this point in my life.\n",
+				"date_published": "2023-01-01T18:45:17+01:00",
+				"url": "https://pnut.pl/2023/01/01/after-a-walk.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/01/til-i-can.html",
+				
+				"content_html": "<p>TIL: I can follow people from Mastodon on Micro.blog. Delightful!</p>\n",
+				"content_text": "TIL: I can follow people from Mastodon on Micro.blog. Delightful! \n",
+				"date_published": "2023-01-01T14:58:23+01:00",
+				"url": "https://pnut.pl/2023/01/01/til-i-can.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/01/01/theroom-is-something.html",
+				
+				"content_html": "<p>#TheRoom is something else.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#TheRoom is something else. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2022/b0a343b6b2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-01T00:57:35+01:00",
+				"url": "https://pnut.pl/2023/01/01/theroom-is-something.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/ok-see-you.html",
+				
+				"content_html": "<p>Ok, see you in 2023 soon! Let’s hope this one is better than 2022!</p>\n",
+				"content_text": "Ok, see you in 2023 soon! Let’s hope this one is better than 2022!\n",
+				"date_published": "2022-12-31T23:58:42+01:00",
+				"url": "https://pnut.pl/2022/12/31/ok-see-you.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/wow.html",
+				
+				"content_html": "<p>Wow.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Wow. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2022/faced43067.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2022/6559f92ab6.jpg\" width=\"277\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2022/aecd221bba.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-31T21:59:27+01:00",
+				"url": "https://pnut.pl/2022/12/31/wow.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/sometimes-you-just.html",
+				
+				"content_html": "<p>Sometimes you just have to. I mean, you can’t be more Polish.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sometimes you just have to. I mean, you can’t be more Polish. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2022/1a28a51104.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-31T21:15:34+01:00",
+				"url": "https://pnut.pl/2022/12/31/sometimes-you-just.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/happy-new-year.html",
+				
+				"content_html": "<p>Happy New Year folks. This one was&hellip; eventful. Lots of ups and couple of downs, but overall wouldn&rsquo;t change a thing.</p>\n<p>Here&rsquo;s for the next one!</p>\n",
+				"content_text": "Happy New Year folks. This one was... eventful. Lots of ups and couple of downs, but overall wouldn't change a thing.\n\nHere's for the next one! \n",
+				"date_published": "2022-12-31T19:08:42+01:00",
+				"url": "https://pnut.pl/2022/12/31/happy-new-year.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/someone-on-httpsforumyeswaspl.html",
+				
+				"content_html": "<p>Someone on <a href=\"https://forum.yeswas.pl\">forum.yeswas.pl</a> (beware, it&rsquo;s Polish!) recommended this game and unfortunately I have sunk in it.</p>\n<p><a href=\"https://faedine.com/games/crank/b39/\">faedine.com/games/cra&hellip;</a></p>\n",
+				"content_text": "Someone on [forum.yeswas.pl](https://forum.yeswas.pl) (beware, it's Polish!) recommended this game and unfortunately I have sunk in it.\n\n[faedine.com/games/cra...](https://faedine.com/games/crank/b39/)\n",
+				"date_published": "2022-12-31T18:28:00+01:00",
+				"url": "https://pnut.pl/2022/12/31/someone-on-httpsforumyeswaspl.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/microblog-meta-it.html",
+				
+				"content_html": "<p>Micro.blog meta: It would be nice if this new post window from mac app could be invoked with some global shortcut. It would make posting much, much easier.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Micro.blog meta: It would be nice if this new post window from mac app could be invoked with some global shortcut. It would make posting much, much easier.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2022/e921ee9331.png\" width=\"600\" height=\"514\" alt=\"\">\n",
+				"date_published": "2022-12-31T15:34:29+01:00",
+				"url": "https://pnut.pl/2022/12/31/microblog-meta-it.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/interesting-times-when.html",
+				
+				"content_html": "<p>Interesting times when most of my non- apps are from TestFlight.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Interesting times when most of my non- apps are from TestFlight. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2022/a0da979e97.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-31T14:19:20+01:00",
+				"url": "https://pnut.pl/2022/12/31/interesting-times-when.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/im-gonna-be.html",
+				
+				"content_html": "<p>I’m gonna be so fucked in the morning but I did - from my phone - moved my blog from Wordpress to Micro.blog, added custom domain, configured all of the cross-posts and did basically everything to have this punt.pl be the centre of my universe. Once again. Because I remember how it went like two weeks ago.</p>\n<p>Feels great.</p>\n",
+				"content_text": "I’m gonna be so fucked in the morning but I did - from my phone - moved my blog from Wordpress to Micro.blog, added custom domain, configured all of the cross-posts and did basically everything to have this punt.pl be the centre of my universe. Once again. Because I remember how it went like two weeks ago. \n\nFeels great. \n",
+				"date_published": "2022-12-31T02:56:09+01:00",
+				"url": "https://pnut.pl/2022/12/31/im-gonna-be.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/ready-for-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥱 Ready for The Sleep.</p>\n",
+				"date_published": "2022-12-31T02:46:29+01:00",
+				"url": "https://pnut.pl/2022/12/31/ready-for-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/31/ok-everything-works.html",
+				
+				"content_html": "<p>Ok. Everything works. Great! Ready to sleep then.</p>\n<p>PS. Hello micro.blog!</p>\n",
+				"content_text": "Ok. Everything works. Great! Ready to sleep then. \n\nPS. Hello micro.blog!\n",
+				"date_published": "2022-12-31T02:31:39+01:00",
+				"url": "https://pnut.pl/2022/12/31/ok-everything-works.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/24/im-ready-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥟 I’m ready for Christmas.</p>\n",
+				"date_published": "2022-12-24T13:08:17+01:00",
+				"url": "https://pnut.pl/2022/12/24/im-ready-for.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/12/i-know-its.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🫥 I know it’s only a start but I do hope it’s gonna be fine soon. Also it’s about the weekday ahead.</p>\n",
+				"date_published": "2022-12-12T01:12:26+01:00",
+				"url": "https://pnut.pl/2022/12/12/i-know-its.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/11/it-wasnt-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥴 It wasn't the best of days.</p>\n",
+				"date_published": "2022-12-11T01:52:57+01:00",
+				"url": "https://pnut.pl/2022/12/11/it-wasnt-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/09/friday.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥳 Friday.</p>\n",
+				"date_published": "2022-12-09T11:56:01+01:00",
+				"url": "https://pnut.pl/2022/12/09/friday.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/09/it-was-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💤 It was a good day today</p>\n",
+				"date_published": "2022-12-09T01:39:49+01:00",
+				"url": "https://pnut.pl/2022/12/09/it-was-a.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/08/work-doing-work.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🦸 @ work. Doing work things.</p>\n",
+				"date_published": "2022-12-08T12:50:34+01:00",
+				"url": "https://pnut.pl/2022/12/08/work-doing-work.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/07/christmas-tree-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🎄 Christmas Tree is up! 🥰</p>\n",
+				"date_published": "2022-12-07T20:39:43+01:00",
+				"url": "https://pnut.pl/2022/12/07/christmas-tree-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/07/workin.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🫠 Workin’</p>\n",
+				"date_published": "2022-12-07T13:31:19+01:00",
+				"url": "https://pnut.pl/2022/12/07/workin.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/06/work-work-work.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🧑‍💻 Work, work, work.</p>\n",
+				"date_published": "2022-12-06T10:10:20+01:00",
+				"url": "https://pnut.pl/2022/12/06/work-work-work.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/06/good-morning-not.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>💤 Good morning! Not sure if I’m at the energy level of exclamation points, but let’s see</p>\n",
+				"date_published": "2022-12-06T09:36:56+01:00",
+				"url": "https://pnut.pl/2022/12/06/good-morning-not.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/03/i-think-ive.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🍰 I think I’ve found the limit. It is time to lay down for a second…</p>\n",
+				"date_published": "2022-12-03T17:06:17+01:00",
+				"url": "https://pnut.pl/2022/12/03/i-think-ive.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/03/its-a-snow.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>❄️ It’s a snow day today! </p>\n",
+				"date_published": "2022-12-03T11:16:14+01:00",
+				"url": "https://pnut.pl/2022/12/03/its-a-snow.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/02/at-work-but.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>👨🏻‍💻 At work, but I’m gonna weekend hard this weekend. You haven’t seen people so hard weekending as I’m gonna weekend it.</p>\n",
+				"date_published": "2022-12-02T12:12:52+01:00",
+				"url": "https://pnut.pl/2022/12/02/at-work-but.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/12/01/my-spotify-wrapped.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🎧 My Spotify Wrapped 2022 is actually pretty fire (even though I’m not actively using Spotify, I’m more of an Apple Music guy right now)</p>\n",
+				"date_published": "2022-12-01T14:37:24+01:00",
+				"url": "https://pnut.pl/2022/12/01/my-spotify-wrapped.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/11/30/mornin.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>☕️ Mornin’…</p>\n",
+				"date_published": "2022-11-30T10:23:22+01:00",
+				"url": "https://pnut.pl/2022/11/30/mornin.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/11/30/chillin.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🌚 Chillin’.</p>\n",
+				"date_published": "2022-11-30T00:05:14+01:00",
+				"url": "https://pnut.pl/2022/11/30/chillin.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/11/29/finally-off-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>⭐️ Finally off for today. Seems to me like it took AGES!</p>\n",
+				"date_published": "2022-11-29T17:59:43+01:00",
+				"url": "https://pnut.pl/2022/11/29/finally-off-for.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/11/18/at-least-its.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥴 At least it's friday.</p>\n",
+				"date_published": "2022-11-18T11:03:30+01:00",
+				"url": "https://pnut.pl/2022/11/18/at-least-its.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/11/15/tooting-from-telegram.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😎  Tooting from Telegram!</p>\n",
+				"date_published": "2022-11-15T16:48:36+01:00",
+				"url": "https://pnut.pl/2022/11/15/tooting-from-telegram.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/10/31/working-hard-or.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥸 Working hard or hardly working? I'm gonna find out in the next couple of hours!</p>\n",
+				"date_published": "2022-10-31T12:28:39+01:00",
+				"url": "https://pnut.pl/2022/10/31/working-hard-or.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2022/10/30/hi-trying-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😅 Hi. Trying to figure out what happens next after Twitter has been bought by Melon Tusk.</p>\n",
+				"date_published": "2022-10-30T18:17:21+01:00",
+				"url": "https://pnut.pl/2022/10/30/hi-trying-to.html"
+			}
+	]
+}
