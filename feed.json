@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/02/11/happy-to-wake.html",
+				
+				"content_html": "<p>Happy to wake up (in general, but also) and caps on B2 are not immediately used. Which means I probably didn&rsquo;t fuck it up too much in terms of configuration!</p>\n",
+				"content_text": "Happy to wake up (in general, but also) and caps on B2 are not immediately used. Which means I probably didn't fuck it up too much in terms of configuration!\n",
+				"date_published": "2023-02-11T12:33:45+01:00",
+				"url": "https://pnut.pl/2023/02/11/happy-to-wake.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/10/great-evening-full.html",
+				
+				"content_html": "<p>Great evening, full of coding and administrative work. I&rsquo;ve finally moved all of the images from forum.yeswas.pl onto B2&rsquo;s Backblaze. And I gave Mastodon on my own another go, this time from source and works flawlessly! This is&hellip; promissing?</p>\n",
+				"content_text": "Great evening, full of coding and administrative work. I've finally moved all of the images from forum.yeswas.pl onto B2's Backblaze. And I gave Mastodon on my own another go, this time from source and works flawlessly! This is... promissing? \n",
+				"date_published": "2023-02-10T23:58:28+01:00",
+				"url": "https://pnut.pl/2023/02/10/great-evening-full.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/10/or-when-your.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🙈 Or when your plans for the whole weekend are being cancelled and now you have an empty weekend, at home, to do whatever you’d like to. It’s like a gift from an universe. Don’t get me wrong, I’d love to do the plans, but this isn’t that bad.</p>\n",
+				"date_published": "2023-02-10T13:06:15+01:00",
+				"url": "https://pnut.pl/2023/02/10/or-when-your.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/09/oh-wow.html",
+				
+				"content_html": "<p>Oh wow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh wow. \n\n<img src=\"uploads/2023/05be6217bf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-09T21:54:04+01:00",
+				"url": "https://pnut.pl/2023/02/09/oh-wow.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/09/replenishing-supplies.html",
+				
+				"content_html": "<p>Replenishing supplies.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Replenishing supplies. \n\n<img src=\"uploads/2023/a268b05806.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-09T10:10:52+01:00",
+				"url": "https://pnut.pl/2023/02/09/replenishing-supplies.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/08/keep-it-classy.html",
+				
+				"content_html": "<p>Keep it classy, Facebook. Nobody expects anything more from you.</p>\n<p><a href=\"https://mjtsai.com/blog/2023/02/06/facebook-negative-testing/\">mjtsai.com/blog/2023&hellip;</a></p>\n",
+				"content_text": "Keep it classy, Facebook. Nobody expects anything more from you.\r\n\r\n[mjtsai.com/blog/2023...](https://mjtsai.com/blog/2023/02/06/facebook-negative-testing/)\n",
+				"date_published": "2023-02-08T14:25:19+01:00",
+				"url": "https://pnut.pl/2023/02/08/keep-it-classy.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/08/its-called-iphone.html",
+				
+				"content_html": "<p>It&rsquo;s called iPhone Mount with MagSafe for Mac Notebooks. Not the easiest name to say but accurate.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "It's called iPhone Mount with MagSafe for Mac Notebooks. Not the easiest name to say but accurate. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/9e343d622c.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/c5be2539cb.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/443ac28a3a.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/93249be7a4.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-02-08T14:23:42+01:00",
+				"url": "https://pnut.pl/2023/02/08/its-called-iphone.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/08/got-this-belkin.html",
+				
+				"content_html": "<p>Got this Belkin thing (thanks Kamil!) to put your phone on your Mac so it acts like a Webcam. First of all - it weights a bit so can easily move screen back - it has to be in a certain spot to works. But when it works&hellip; Works like a charm. Quality is excellent.</p>\n",
+				"content_text": "Got this Belkin thing (thanks Kamil!) to put your phone on your Mac so it acts like a Webcam. First of all - it weights a bit so can easily move screen back - it has to be in a certain spot to works. But when it works... Works like a charm. Quality is excellent. \n",
+				"date_published": "2023-02-08T14:04:37+01:00",
+				"url": "https://pnut.pl/2023/02/08/got-this-belkin.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/07/hogwarts-legacy-is.html",
+				
+				"content_html": "<p>Hogwarts Legacy is great for a Potterheads. Having lots of fun!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hogwarts Legacy is great for a Potterheads. Having lots of fun!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/45639c2d60.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-07T22:27:20+01:00",
+				"url": "https://pnut.pl/2023/02/07/hogwarts-legacy-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/06/i-really-liked.html",
+				
+				"content_html": "<p>I really like(d?) Telegram so news like these aren&rsquo;t great to hear.</p>\n<p><a href=\"https://www.wired.com/story/the-kremlin-has-entered-the-chat/\">https://www.wired.com/story/the-kremlin-has-entered-the-chat/</a></p>\n",
+				"content_text": "I really like(d?) Telegram so news like these aren't great to hear. \n\n[https://www.wired.com/story/the-kremlin-has-entered-the-chat/](https://www.wired.com/story/the-kremlin-has-entered-the-chat/)\n",
+				"date_published": "2023-02-06T22:25:18+01:00",
+				"url": "https://pnut.pl/2023/02/06/i-really-liked.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/06/new-dbrand-in.html",
+				
+				"content_html": "<p>New dbrand in the house. I know that it protects the phone really good but I just can&rsquo;t stop using my leather case. It feels so nice. I&rsquo;ve got it in case of trip or holidays. Much gripper and feels safer in my hand.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New dbrand in the house. I know that it protects the phone really good but I just can't stop using my leather case. It feels so nice. I've got it in case of trip or holidays. Much gripper and feels safer in my hand. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/4f1f0e5372.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-06T22:19:38+01:00",
+				"url": "https://pnut.pl/2023/02/06/new-dbrand-in.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/06/got-all-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😎 Got all of my medical results back - in these terms I'm doing pretty fine and everything is clear! </p>\n",
+				"date_published": "2023-02-06T11:35:20+01:00",
+				"url": "https://pnut.pl/2023/02/06/got-all-of.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/02/06/i-did-spend.html",
 				
 				"content_html": "<p>I did spend nearly my whole weekend trying to set up a pleroma instance, then mastodon instance for podcast community and failed miserably. I think I&rsquo;m gonna give it a couple of months and see then if it&rsquo;s easier. Ain&rsquo;t nobody got time for that.</p>\n",
@@ -42,7 +138,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/02/04/throwback-saturday-i.html",
 				
 				"content_html": "<p>Throwback Saturday I guess?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Throwback Saturday I guess?\n\n<img src=\"uploads/2023/438d28d195.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Throwback Saturday I guess?\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/438d28d195.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-04T12:21:04+01:00",
 				"url": "https://pnut.pl/2023/02/04/throwback-saturday-i.html"
 			},
