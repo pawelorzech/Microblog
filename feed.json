@@ -7,10 +7,98 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/02/22/every-so-often.html",
+				
+				"content_html": "<blockquote>\n<p>Every so often, Spotify releases features that tempts me away from Apple Music. AI DJ is another one.\n🔗: <a href=\"https://heydingus.net/blog/2023/2/spotifys-ai-dj-will-let-the-recommendation-engine-explain-itself\">https://heydingus.net</a></p>\n</blockquote>\n<p>I wish they would add real high quality to the app. Atmos and lossless would be great.</p>\n",
+				"content_text": "> Every so often, Spotify releases features that tempts me away from Apple Music. AI DJ is another one.\r\n🔗: [https://heydingus.net](https://heydingus.net/blog/2023/2/spotifys-ai-dj-will-let-the-recommendation-engine-explain-itself)\r\n\r\nI wish they would add real high quality to the app. Atmos and lossless would be great.\n",
+				"date_published": "2023-02-22T23:57:22+01:00",
+				"url": "https://pnut.pl/2023/02/22/every-so-often.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/21/fuck-cancer.html",
+				
+				"content_html": "<p>Fuck cancer.</p>\n",
+				"content_text": "Fuck cancer. \n",
+				"date_published": "2023-02-21T22:39:27+01:00",
+				"url": "https://pnut.pl/2023/02/21/fuck-cancer.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/20/couple-pics-from.html",
+				
+				"content_html": "<p>Couple pics from previous trips. Poznań, London and Tenerife. Busy January it was.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Couple pics from previous trips. Poznań, London and Tenerife. Busy January it was.\n\n<img src=\"uploads/2023/ef81eb100f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/4440b6ce87.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/6300d61b53.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/c9502159b5.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-20T23:37:27+01:00",
+				"url": "https://pnut.pl/2023/02/20/couple-pics-from.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/20/that-seems-useful.html",
+				
+				"content_html": "<p>That seems&hellip; useful. New USB-C Monitor Stand from Anker.</p>\n<p>🔗: <a href=\"https://9to5toys.com/2023/02/20/anker-usb-c-monitor-stand/\">9to5toys.com/2023/02/2&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "That seems... useful. New USB-C Monitor Stand from Anker.\n\n🔗: [9to5toys.com/2023/02/2...](https://9to5toys.com/2023/02/20/anker-usb-c-monitor-stand/)\n\n<img src=\"uploads/2023/df504ccb8b.jpg\" width=\"600\" height=\"300\" alt=\"\">\n",
+				"date_published": "2023-02-20T23:26:36+01:00",
+				"url": "https://pnut.pl/2023/02/20/that-seems-useful.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/20/national-gallery-pozna.html",
+				
+				"content_html": "<p>National Gallery @ Poznań. Couple of art pieces I liked.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "National Gallery @ Poznań. Couple of art pieces I liked.\n\n<img src=\"uploads/2023/0ff109629a.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/c99ef302be.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/775c4b8b26.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/87c319d961.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-20T11:08:34+01:00",
+				"url": "https://pnut.pl/2023/02/20/national-gallery-pozna.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/19/antman-and-the.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/640146\">Ant-Man and the Wasp: Quantumania (2023)</a> - ★★★★☆</p>\n<p>It&rsquo;s a Marvel movie. Ant-Man. Another one.</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg\" alt=\"Ant-Man and the Wasp: Quantumania poster\"></p>\n",
+				"content_text": "🍿 [Ant-Man and the Wasp: Quantumania (2023)](https://www.themoviedb.org/movie/640146) - ★★★★☆\r\n\r\nIt's a Marvel movie. Ant-Man. Another one. \r\n\r\n![Ant-Man and the Wasp: Quantumania poster](https://image.tmdb.org/t/p/w780/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg)\n",
+				"date_published": "2023-02-19T23:50:59+01:00",
+				"url": "https://pnut.pl/2023/02/19/antman-and-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/18/poznan-kimchicken.html",
+				
+				"content_html": "<p>🍗 Poznan, Kimchicken.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🍗 Poznan, Kimchicken. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/bfe3ad5b75.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-18T14:23:34+01:00",
+				"url": "https://pnut.pl/2023/02/18/poznan-kimchicken.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/18/breakfast-in-hotel.html",
+				
+				"content_html": "<p>Breakfast in hotel is designed for someone that will wake up before 11. I&rsquo;m not a person that&rsquo;s waking up before 11.</p>\n",
+				"content_text": "Breakfast in hotel is designed for someone that will wake up before 11. I'm not a person that's waking up before 11. \n",
+				"date_published": "2023-02-18T10:42:43+01:00",
+				"url": "https://pnut.pl/2023/02/18/breakfast-in-hotel.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/17/this-is-scary.html",
+				
+				"content_html": "<p>This is scary.</p>\n<p>🔗: <a href=\"https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan\">The Guardian</a></p>\n",
+				"content_text": "This is scary.\n\n🔗: [The Guardian](https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan)\n",
+				"date_published": "2023-02-17T15:30:59+01:00",
+				"url": "https://pnut.pl/2023/02/17/this-is-scary.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/17/i-was-looking.html",
+				
+				"content_html": "<p>I was looking for a Mastodon client that would do the algorithm thing to my timeline and found <a href=\"https://phanpy.social\">Phanpy.Social</a>. Check it out, because it works really well as an added algorithm layer on top of non-algorithmic Mastodon&rsquo;s timeline.</p>\n",
+				"content_text": "I was looking for a Mastodon client that would do the algorithm thing to my timeline and found [Phanpy.Social](https://phanpy.social). Check it out, because it works really well as an added algorithm layer on top of non-algorithmic Mastodon's timeline.\n",
+				"date_published": "2023-02-17T12:21:55+01:00",
+				"url": "https://pnut.pl/2023/02/17/i-was-looking.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/17/we-as-a.html",
+				
+				"content_html": "<p>We (as a social network) kind of made it?!</p>\n<p>iOS 16.4: iMessage now supports rich content previews for Mastodon posts\n🔗: <a href=\"https://9to5mac.com/2023/02/16/ios-16-4-imessage-rich-previews-for-mastodon-posts/?utm_source=dlvr.it&amp;utm_medium=mastodon\">https://9to5mac.com/2023/02/16/ios-16-4-imessage-rich-previews-for-mastodon-posts</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We (as a social network) kind of made it?!\n\niOS 16.4: iMessage now supports rich content previews for Mastodon posts \n🔗: [https://9to5mac.com/2023/02/16/ios-16-4-imessage-rich-previews-for-mastodon-posts](https://9to5mac.com/2023/02/16/ios-16-4-imessage-rich-previews-for-mastodon-posts/?utm_source=dlvr.it&utm_medium=mastodon)\n\n<img src=\"uploads/2023/c4b2bb41e2.jpg\" width=\"600\" height=\"300\" alt=\"\">\n",
+				"date_published": "2023-02-17T12:17:26+01:00",
+				"url": "https://pnut.pl/2023/02/17/we-as-a.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/02/16/sleepy-cat.html",
 				
 				"content_html": "<p>Sleepy #cat.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sleepy #cat. \n\n<img src=\"uploads/2023/c30e0257fe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Sleepy #cat. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/c30e0257fe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-16T23:27:28+01:00",
 				"url": "https://pnut.pl/2023/02/16/sleepy-cat.html"
 			},
@@ -242,7 +330,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/02/03/got-my-analog.html",
 				
 				"content_html": "<p>Got my analog photos back, from the new camera. This shit is good.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got my analog photos back, from the new camera. This shit is good. \n\n<img src=\"uploads/2023/b9f436e4ce.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Got my analog photos back, from the new camera. This shit is good. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/b9f436e4ce.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T22:39:48+01:00",
 				"url": "https://pnut.pl/2023/02/03/got-my-analog.html"
 			},
@@ -338,7 +426,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/01/28/even-though-it.html",
 				
 				"content_html": "<p>Even though it looks like it - I&rsquo;m not stealing this peanut from this chunky boi.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Even though it looks like it - I'm not stealing this peanut from this chunky boi. \n\n<img src=\"uploads/2023/57c273c463.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
+				"content_text": "Even though it looks like it - I'm not stealing this peanut from this chunky boi. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/57c273c463.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
 				"date_published": "2023-01-28T15:42:45+01:00",
 				"url": "https://pnut.pl/2023/01/28/even-though-it.html"
 			},
