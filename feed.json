@@ -7,6 +7,110 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/03/05/returned-to-old.html",
+				
+				"content_html": "<p>Returned to old habit of intentionally looking for new music and I&rsquo;m very glad I did. This feeling of finding an absolute gem is just something else.</p>\n<p>Here, listen to it: <a href=\"https://m.youtube.com/watch?v=kHTsRZ46Skg\">m.youtube.com/watch</a></p>\n",
+				"content_text": "Returned to old habit of intentionally looking for new music and I'm very glad I did. This feeling of finding an absolute gem is just something else. \n\nHere, listen to it: [m.youtube.com/watch](https://m.youtube.com/watch?v=kHTsRZ46Skg)\n",
+				"date_published": "2023-03-05T21:00:29+01:00",
+				"url": "https://pnut.pl/2023/03/05/returned-to-old.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/04/one-might-say.html",
+				
+				"content_html": "<p>One might say that this pic is a&hellip; ~vibe~</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One might say that this pic is a... ~vibe~\n\n<img src=\"uploads/2023/c72a120e15.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-04T20:33:27+01:00",
+				"url": "https://pnut.pl/2023/03/04/one-might-say.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/03/melting-from-overload.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🫠 Melting from overload. This weekend is going to be great, but the next one is going to be perfect.</p>\n",
+				"date_published": "2023-03-03T15:56:42+01:00",
+				"url": "https://pnut.pl/2023/03/03/melting-from-overload.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/03/castro-for-podcasts.html",
+				
+				"content_html": "<p>Castro for podcasts is one of my fav apps, nothing ever was as joyful and pleasant to use as Castro is. It wasn&rsquo;t updated for a long, long time, and today&hellip; It&rsquo;s alive!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Castro for podcasts is one of my fav apps, nothing ever was as joyful and pleasant to use as Castro is. It wasn't updated for a long, long time, and today... It's alive!\n\n<img src=\"uploads/2023/b4c8aeff3c.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-03T13:25:03+01:00",
+				"url": "https://pnut.pl/2023/03/03/castro-for-podcasts.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/03/got-a-suggestion.html",
+				
+				"content_html": "<p>Got a suggestion to re-pair my Apple Watch and it did fix the battery drain issue. Just FYI.</p>\n",
+				"content_text": "Got a suggestion to re-pair my Apple Watch and it did fix the battery drain issue. Just FYI.\n",
+				"date_published": "2023-03-03T13:07:22+01:00",
+				"url": "https://pnut.pl/2023/03/03/got-a-suggestion.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/03/there-has-to.html",
+				
+				"content_html": "<p>There has to be something wrong with my Apple Watch. This battery usage seems off.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "There has to be something wrong with my Apple Watch. This battery usage seems off. \n\n<img src=\"uploads/2023/4a1b6238de.jpg\" width=\"368\" height=\"448\" alt=\"\">\n",
+				"date_published": "2023-03-03T00:42:47+01:00",
+				"url": "https://pnut.pl/2023/03/03/there-has-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/02/im-reading-merlin.html",
+				
+				"content_html": "<p>I&rsquo;m reading <a href=\"https://github.com/merlinmann/wisdom/blob/master/wisdom.md\">Merlin Mann&rsquo;s Wisdom</a> document everyday finding what works for me and I have found this gem that is very much true:</p>\n<blockquote>\n<p>Never argue on the internet. No one will remember whether you won or lost the argument; they&rsquo;ll just remember that you are the sort of person who argues on the internet.</p>\n</blockquote>\n",
+				"content_text": "I'm reading [Merlin Mann's Wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md) document everyday finding what works for me and I have found this gem that is very much true:\r\n\r\n>Never argue on the internet. No one will remember whether you won or lost the argument; they'll just remember that you are the sort of person who argues on the internet.\n",
+				"date_published": "2023-03-02T11:48:28+01:00",
+				"url": "https://pnut.pl/2023/03/02/im-reading-merlin.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/01/mastodon-is-just.html",
+				
+				"content_html": "<p>Mastodon is just better than Twitter. It took two months since my birdsite departure to get to this point.</p>\n",
+				"content_text": "Mastodon is just better than Twitter. It took two months since my birdsite departure to get to this point. \n",
+				"date_published": "2023-03-01T13:55:13+01:00",
+				"url": "https://pnut.pl/2023/03/01/mastodon-is-just.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/01/notes-from-selfhosting.html",
+				
+				"content_html": "<p>Notes from selfhosting Mastodon instance: with 50 users, a couple of relays, it&rsquo;s taking more than 50 gigs of space on Backblaze already. Glad that hosting is pennies but if you&rsquo;re wondering how much space Mastodon could eat - yeah, a lot.</p>\n",
+				"content_text": "Notes from selfhosting Mastodon instance: with 50 users, a couple of relays, it's taking more than 50 gigs of space on Backblaze already. Glad that hosting is pennies but if you're wondering how much space Mastodon could eat - yeah, a lot. \n",
+				"date_published": "2023-03-01T11:49:24+01:00",
+				"url": "https://pnut.pl/2023/03/01/notes-from-selfhosting.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/01/dbrand-grip-case.html",
+				
+				"content_html": "<p>Dbrand Grip Case. If you could have only one case per phone, this is the one I&rsquo;m recommending and getting myself. Grippy, feels safe and looks pretty fine if you ask me. That thing on the back, the pixel grid, is a sticker so you can have a different one or none at all.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Dbrand Grip Case. If you could have only one case per phone, this is the one I'm recommending and getting myself. Grippy, feels safe and looks pretty fine if you ask me. That thing on the back, the pixel grid, is a sticker so you can have a different one or none at all. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/f7884a5b69.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/172be25631.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/0667eb3857.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/896508287f.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-03-01T11:40:00+01:00",
+				"url": "https://pnut.pl/2023/03/01/dbrand-grip-case.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/03/01/testing-a-thing.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Testing a thing.</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/944/854/439/949/909/original/f67fc078fb258e38.jpeg\">\n",
+				"date_published": "2023-03-01T00:02:29+01:00",
+				"url": "https://pnut.pl/2023/03/01/testing-a-thing.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/28/102605.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>As always, first world’s problem: Spotify’s app is just easier to use and thousand times faster (especially on a Mac), but sound quality (especially on proper sound system like Sonos) is so freaking bad that I immediately miss Apple Music. Being in a pickle is where I am.</p>\n",
+				"date_published": "2023-02-28T10:26:05+01:00",
+				"url": "https://pnut.pl/2023/02/28/102605.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/28/great-tool-if.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Great tool if you&#39;d like to fetch content from RSS feed to Mastodon account: <a href=\"https://mastofeed.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"\">mastofeed.org</span><span class=\"invisible\"></span></a></p>\n",
+				"date_published": "2023-02-28T10:21:30+01:00",
+				"url": "https://pnut.pl/2023/02/28/great-tool-if.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/02/28/as-always-first.html",
 				
 				"content_html": "<p>As always, first world&rsquo;s problem: Spotify&rsquo;s app is just easier to use and thousand times faster (especially on a Mac), but sound quality (especially on proper sound system like Sonos) is so freaking bad that I immediately miss Apple Music. Being in a pickle is where I am.</p>\n",
@@ -15,36 +119,60 @@
 				"url": "https://pnut.pl/2023/02/28/as-always-first.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/27/london-with-wifey.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/28/jeli-suchacie-yeswaspodcast.html",
 				
-				"content_html": "<p>London with wifey ❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "London with wifey ❤️\n\n<img src=\"uploads/2023/1ef8b7810f.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-02-27T21:56:01+01:00",
-				"url": "https://pnut.pl/2023/02/27/london-with-wifey.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Jeśli słuchacie <a href=\"https://social.yeswas.pl/tags/YesWasPodcast\" class=\"mention hashtag\" rel=\"tag\">#<span>YesWasPodcast</span></a> to możecie obserwować konta powiadamiające o nowych odcinkach.</p><p>Albo to: <span class=\"h-card\"><a href=\"https://social.yeswas.pl/@yeswas\" class=\"u-url mention\">@<span>yeswas</span></a></span> <br />Albo to: <span class=\"h-card\"><a href=\"https://yeswas.pl/author/yeswaspodcast/\" class=\"u-url mention\">@<span>yeswaspodcast</span></a></span> </p><p>Oba wrzucają to samo, więc możecie sobie wybrać obojętnie które :)</p>\n",
+				"date_published": "2023-02-28T10:16:39+01:00",
+				"url": "https://pnut.pl/2023/02/28/jeli-suchacie-yeswaspodcast.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/27/whats-a-computer.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/27/221926.html",
 				
-				"content_html": "<p>What&rsquo;s a computer?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What's a computer?\n\n<img src=\"uploads/2023/5a7995130f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-27T19:30:00+01:00",
-				"url": "https://pnut.pl/2023/02/27/whats-a-computer.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>London with wifey ❤️</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/938/787/145/687/676/original/57f2aea739fefc43.jpg\">\n",
+				"date_published": "2023-02-27T22:19:26+01:00",
+				"url": "https://pnut.pl/2023/02/27/221926.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/27/got-back-photos.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/27/194611.html",
 				
-				"content_html": "<p>Got back photos from our trip to London. Kyoto Gardens are just the best.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got back photos from our trip to London. Kyoto Gardens are just the best.\n\n<img src=\"uploads/2023/aa11980f64.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-27T18:47:55+01:00",
-				"url": "https://pnut.pl/2023/02/27/got-back-photos.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>What’s a computer?</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/938/184/486/348/111/original/10a831eef8dd7d82.jpg\">\n",
+				"date_published": "2023-02-27T19:46:11+01:00",
+				"url": "https://pnut.pl/2023/02/27/194611.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/27/grandma-is-doing.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/27/184824.html",
 				
-				"content_html": "<p>Grandma is doing great things with food.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Grandma is doing great things with food.\n\n<img src=\"uploads/2023/5ed5dc8799.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-02-27T12:38:50+01:00",
-				"url": "https://pnut.pl/2023/02/27/grandma-is-doing.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Got back photos from our trip to London. Kyoto Gardens are just the best.</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/937/957/308/098/008/original/dd6559188e470c22.jpg\">\n",
+				"date_published": "2023-02-27T18:48:24+01:00",
+				"url": "https://pnut.pl/2023/02/27/184824.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/27/hey-heres-an.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>hey, here’s an invite to Arc, the browser I was telling you about!</p><p><a href=\"https://arc.net/gift/6271c9c2\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"\">arc.net/gift/6271c9c2</span><span class=\"invisible\"></span></a></p>\n",
+				"date_published": "2023-02-27T13:48:30+01:00",
+				"url": "https://pnut.pl/2023/02/27/hey-heres-an.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/27/124838.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Grandma is doing great things with food.</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/936/542/560/654/104/original/81bbab4af5c7f4ae.jpg\">\n",
+				"date_published": "2023-02-27T12:48:38+01:00",
+				"url": "https://pnut.pl/2023/02/27/124838.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/27/httpwisdomlimo-everybody-likes.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"http://wisdom.limo/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">http://</span><span class=\"\">wisdom.limo/</span><span class=\"invisible\"></span></a></p><p>“Everybody likes being given a glass of water.”</p>\n",
+				"date_published": "2023-02-27T12:03:20+01:00",
+				"url": "https://pnut.pl/2023/02/27/httpwisdomlimo-everybody-likes.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/02/27/wisdomlimo-everybody-likes.html",
@@ -55,20 +183,28 @@
 				"url": "https://pnut.pl/2023/02/27/wisdomlimo-everybody-likes.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/24/just-one-additional.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/26/dla-moich-wspaniaych.html",
 				
-				"content_html": "<p>Just one additional note - I have a keyboard without touchpad and I really miss it. That&rsquo;s why I&rsquo;m taking my MX Master with me - because then it feels more like a proper device to <em>do stuff</em>.</p>\n",
-				"content_text": "Just one additional note - I have a keyboard without touchpad and I really miss it. That's why I'm taking my MX Master with me - because then it feels more like a proper device to *do stuff*.\n",
-				"date_published": "2023-02-24T11:16:07+01:00",
-				"url": "https://pnut.pl/2023/02/24/just-one-additional.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Dla moich wspaniałych internautów na social.yeswas.pl: w odkrywaj oraz w global znajdziecie więcej osób do obserwowania. </p><p>Połączyłem nasz serwer z przekaźnikami, dzięki czemu widzimy więcej fediverse z naszej instancji :) Miłego obserwowania!</p>\n",
+				"date_published": "2023-02-26T20:56:29+01:00",
+				"url": "https://pnut.pl/2023/02/26/dla-moich-wspaniaych.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/24/im-not-taking.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/24/111610.html",
 				
-				"content_html": "<p>I&rsquo;m not taking my M1 Air with me whenever I&rsquo;m traveling and I&rsquo;m settling on bringing iPad Air and honestly it&rsquo;s been very refreshing. It&rsquo;s not the same, I can&rsquo;t do everything on it, but having LTE, great screen and my fav iOS apps is good enough to leave Mac at home.</p>\n",
-				"content_text": "I'm not taking my M1 Air with me whenever I'm traveling and I'm settling on bringing iPad Air and honestly it's been very refreshing. It's not the same, I can't do everything on it, but having LTE, great screen and my fav iOS apps is good enough to leave Mac at home. \n",
-				"date_published": "2023-02-24T11:11:28+01:00",
-				"url": "https://pnut.pl/2023/02/24/im-not-taking.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Just one additional note - I have a keyboard without touchpad and I really miss it. That’s why I’m taking my MX Master with me - because then it feels more like a proper device to do stuff.</p>\n",
+				"date_published": "2023-02-24T11:16:10+01:00",
+				"url": "https://pnut.pl/2023/02/24/111610.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/24/111135.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I’m not taking my M1 Air with me whenever I’m traveling and I’m settling on bringing iPad Air and honestly it’s been very refreshing. It’s not the same, I can’t do everything on it, but having LTE, great screen and my fav iOS apps is good enough to leave Mac at home.</p>\n",
+				"date_published": "2023-02-24T11:11:35+01:00",
+				"url": "https://pnut.pl/2023/02/24/111135.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/02/23/if-thats-not.html",
@@ -79,44 +215,60 @@
 				"url": "https://pnut.pl/2023/02/23/if-thats-not.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/23/g-is-such.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/23/is-anyone-here.html",
 				
-				"content_html": "<p>5G is such a great innovation that I&rsquo;ve literally turned it off on my first day and then never turned it on again</p>\n",
-				"content_text": "5G is such a great innovation that I've literally turned it off on my first day and then never turned it on again \n",
-				"date_published": "2023-02-23T01:15:47+01:00",
-				"url": "https://pnut.pl/2023/02/23/g-is-such.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Is anyone here good at <a href=\"https://social.yeswas.pl/tags/Discourse\" class=\"mention hashtag\" rel=\"tag\">#<span>Discourse</span></a>? I&#39;m having issues with migration to S3 and nobody seems to be able to help me. Thread is here: <a href=\"https://meta.discourse.org/t/1-of-16551-uploads-are-not-migrated-to-s3-s3-migration-failed-for-db-default/255772/12\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">meta.discourse.org/t/1-of-1655</span><span class=\"invisible\">1-uploads-are-not-migrated-to-s3-s3-migration-failed-for-db-default/255772/12</span></a></p>\n",
+				"date_published": "2023-02-23T11:53:34+01:00",
+				"url": "https://pnut.pl/2023/02/23/is-anyone-here.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/22/every-so-often.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/23/011548.html",
 				
-				"content_html": "<blockquote>\n<p>Every so often, Spotify releases features that tempts me away from Apple Music. AI DJ is another one.</p>\n</blockquote>\n<p>🔗: <a href=\"https://heydingus.net/blog/2023/2/spotifys-ai-dj-will-let-the-recommendation-engine-explain-itself\">https://heydingus.net</a></p>\n<p>I wish they would add real high quality to the app. Atmos and lossless would be great.</p>\n",
-				"content_text": "> Every so often, Spotify releases features that tempts me away from Apple Music. AI DJ is another one.\n\n🔗: [https://heydingus.net](https://heydingus.net/blog/2023/2/spotifys-ai-dj-will-let-the-recommendation-engine-explain-itself)\n\nI wish they would add real high quality to the app. Atmos and lossless would be great.\n",
-				"date_published": "2023-02-22T23:57:22+01:00",
-				"url": "https://pnut.pl/2023/02/22/every-so-often.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>5G is such a great innovation that I’ve literally turned it off on my first day and then never turned it on again</p>\n",
+				"date_published": "2023-02-23T01:15:48+01:00",
+				"url": "https://pnut.pl/2023/02/23/011548.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/21/fuck-cancer.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/23/every-so-often.html",
 				
-				"content_html": "<p>Fuck cancer.</p>\n",
-				"content_text": "Fuck cancer. \n",
-				"date_published": "2023-02-21T22:39:27+01:00",
-				"url": "https://pnut.pl/2023/02/21/fuck-cancer.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>&quot;Every so often, Spotify releases features that tempts me away from Apple Music. AI DJ is another one.&quot;</p><p>🔗: <a href=\"https://heydingus.net/blog/2023/2/spotifys-ai-dj-will-let-the-recommendation-engine-explain-itself\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heydingus.net/blog/2023/2/spot</span><span class=\"invisible\">ifys-ai-dj-will-let-the-recommendation-engine-explain-itself</span></a></p><p>I wish they would add real high quality to the app. Atmos and lossless would be great.</p>\n",
+				"date_published": "2023-02-23T00:05:04+01:00",
+				"url": "https://pnut.pl/2023/02/23/every-so-often.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/20/couple-pics-from.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/21/225202.html",
 				
-				"content_html": "<p>Couple pics from previous trips. Poznań, London and Tenerife. Busy January it was.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Couple pics from previous trips. Poznań, London and Tenerife. Busy January it was.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/ef81eb100f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/4440b6ce87.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/6300d61b53.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/c9502159b5.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-20T23:37:27+01:00",
-				"url": "https://pnut.pl/2023/02/20/couple-pics-from.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Fuck cancer.</p>\n",
+				"date_published": "2023-02-21T22:52:02+01:00",
+				"url": "https://pnut.pl/2023/02/21/225202.html"
 			},
 			{
-				"id": "http://pawelorzech.micro.blog/2023/02/20/that-seems-useful.html",
+				"id": "http://pawelorzech.micro.blog/2023/02/20/234711.html",
 				
-				"content_html": "<p>That seems&hellip; useful. New USB-C Monitor Stand from Anker.</p>\n<p>🔗: <a href=\"https://9to5toys.com/2023/02/20/anker-usb-c-monitor-stand/\">9to5toys.com/2023/02/2&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That seems... useful. New USB-C Monitor Stand from Anker.\n\n🔗: [9to5toys.com/2023/02/2...](https://9to5toys.com/2023/02/20/anker-usb-c-monitor-stand/)\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/df504ccb8b.jpg\" width=\"600\" height=\"300\" alt=\"\">\n",
-				"date_published": "2023-02-20T23:26:36+01:00",
-				"url": "https://pnut.pl/2023/02/20/that-seems-useful.html"
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Couple pics from previous trips. Poznań, London and Tenerife. Busy January it was.</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/899/495/003/166/583/original/0a13c3b421c6d7b7.jpg\">\n",
+				"date_published": "2023-02-20T23:47:11+01:00",
+				"url": "https://pnut.pl/2023/02/20/234711.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/20/232706.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>That seems… useful. New USB-C Monitor Stand from Anker.</p><p>🔗: <a href=\"https://9to5toys.com/2023/02/20/anker-usb-c-monitor-stand/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">9to5toys.com/2023/02/20/anker-</span><span class=\"invisible\">usb-c-monitor-stand/</span></a></p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/899/417/087/321/328/original/33852a1c9d9b60fd.jpg\">\n",
+				"date_published": "2023-02-20T23:27:06+01:00",
+				"url": "https://pnut.pl/2023/02/20/232706.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/02/20/the-golden-trio.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The golden trio of iOS Mastodon apps: <span class=\"h-card\"><a href=\"https://tapbots.social/@ivory\" class=\"u-url mention\">@<span>ivory</span></a></span> / @icecubesapp@mastodon.cloud / <span class=\"h-card\"><a href=\"https://mastodon.social/@MonaApp\" class=\"u-url mention\">@<span>MonaApp</span></a></span></p>\n",
+				"date_published": "2023-02-20T11:15:22+01:00",
+				"url": "https://pnut.pl/2023/02/20/the-golden-trio.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/02/20/national-gallery-pozna.html",
