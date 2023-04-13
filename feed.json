@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/04/13/about-last-night.html",
+				
+				"content_html": "<p>About last night?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "About last night?\n\n<img src=\"uploads/2023/ea6589ea40.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-13T10:27:56+02:00",
+				"url": "https://pnut.pl/2023/04/13/about-last-night.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/12/got-my-dna.html",
+				
+				"content_html": "<p>Got my DNA results back. Seems like I&rsquo;m pretty ordinary in a really good way, nothing is weird and that&rsquo;s a good thing to hear!</p>\n",
+				"content_text": "Got my DNA results back. Seems like I'm pretty ordinary in a really good way, nothing is weird and that's a good thing to hear!\n",
+				"date_published": "2023-04-12T11:40:27+02:00",
+				"url": "https://pnut.pl/2023/04/12/got-my-dna.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/12/ugh-bought-couple.html",
+				
+				"content_html": "<p>Ugh, bought couple of these reddit avatars and managed to snag the nyan cat one. I think it&rsquo;s&hellip; fine?</p>\n",
+				"content_text": "Ugh, bought couple of these reddit avatars and managed to snag the nyan cat one. I think it's... fine?\n",
+				"date_published": "2023-04-12T00:23:51+02:00",
+				"url": "https://pnut.pl/2023/04/12/ugh-bought-couple.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/11/spent-some-time.html",
+				
+				"content_html": "<p>Spent some time yesterday getting Linux up on my old Air so my mom could use it. After failing to install ChromeOS Flex I decided to go with Ubuntu. I think it&rsquo;s the easiest and most maintained OS I could get on it. Unfortunately MacOS is EOL for Mid 2013 Air, so I had to pick something else.</p>\n",
+				"content_text": "Spent some time yesterday getting Linux up on my old Air so my mom could use it. After failing to install ChromeOS Flex I decided to go with Ubuntu. I think it's the easiest and most maintained OS I could get on it. Unfortunately MacOS is EOL for Mid 2013 Air, so I had to pick something else. \n",
+				"date_published": "2023-04-11T08:30:00+02:00",
+				"url": "https://pnut.pl/2023/04/11/spent-some-time.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/09/tetris-it-started.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/726759\">Tetris (2023)</a> - ★★★☆☆</p>\n<p>It started well but ended on a weird note. Welp.</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg\" alt=\"Tetris poster\"></p>\n",
+				"content_text": "🍿 [Tetris (2023)](https://www.themoviedb.org/movie/726759) - ★★★☆☆\r\n\r\nIt started well but ended on a weird note. Welp. \r\n\r\n![Tetris poster](https://image.tmdb.org/t/p/w780/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg)\n",
+				"date_published": "2023-04-09T23:29:08+02:00",
+				"url": "https://pnut.pl/2023/04/09/tetris-it-started.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/09/203927.html",
+				
+				"content_html": "<p>Two stages of AI usage.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Two stages of AI usage.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/e7ff1c0a70.png\" width=\"567\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-09T20:39:27+02:00",
+				"url": "https://pnut.pl/2023/04/09/203927.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/09/just-wait-till.html",
+				
+				"content_html": "<p>Just wait till Tumblr gets ActivityPub support and the fediverse is going to get wild and weird and I’m here for it. Heck - I might even consider moving to it at some point. Fingers crossed Tumblr!</p>\n",
+				"content_text": "Just wait till Tumblr gets ActivityPub support and the fediverse is going to get wild and weird and I’m here for it. Heck - I might even consider moving to it at some point. Fingers crossed Tumblr!\n",
+				"date_published": "2023-04-09T11:17:22+02:00",
+				"url": "https://pnut.pl/2023/04/09/just-wait-till.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/09/pizza-night-with.html",
+				
+				"content_html": "<p>Pizza Night with wifey 🥰</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pizza Night with wifey 🥰\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/09912bc9d3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-09T01:11:07+02:00",
+				"url": "https://pnut.pl/2023/04/09/pizza-night-with.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/08/my-old-macbook.html",
+				
+				"content_html": "<p>My old Macbook Air from 2013 is gonna get second life soon. I&rsquo;m thinking about putting a Chrome OS or Ubuntu on it so my mom could use it as her computer. She&rsquo;s using really old and end-of-life chromebook so she&rsquo;s due already. I&rsquo;m actually looking forward to making it work again!</p>\n",
+				"content_text": "My old Macbook Air from 2013 is gonna get second life soon. I'm thinking about putting a Chrome OS or Ubuntu on it so my mom could use it as her computer. She's using really old and end-of-life chromebook so she's due already. I'm actually looking forward to making it work again!\n",
+				"date_published": "2023-04-08T01:48:30+02:00",
+				"url": "https://pnut.pl/2023/04/08/my-old-macbook.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/04/07/bose-qc-are.html",
 				
 				"content_html": "<p>Bose QC45 are coming in on Tuesday. I just can&rsquo;t stand how uncomfortable AirPods Pro are. I hate when something has to be INSIDE of my ear, no way. Wife&rsquo;s happy with the upgrade and I&rsquo;m gonna enjoy that mindblowing ANC.</p>\n",
@@ -26,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/04/05/never-change-youtube.html",
 				
 				"content_html": "<p>Never change youtube</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Never change youtube \n\n<img src=\"uploads/2023/98506d3d89.jpg\" />\n",
+				"content_text": "Never change youtube \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/98506d3d89.jpg\" />\n",
 				"date_published": "2023-04-05T21:44:04+02:00",
 				"url": "https://pnut.pl/2023/04/05/never-change-youtube.html"
 			},
@@ -42,7 +114,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/04/05/small-polish-city.html",
 				
 				"content_html": "<p>Small, Polish city, in the middle of nowhere.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Small, Polish city, in the middle of nowhere. \n\n<img src=\"uploads/2023/edbeeb283c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Small, Polish city, in the middle of nowhere. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/edbeeb283c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-04-05T18:58:25+02:00",
 				"url": "https://pnut.pl/2023/04/05/small-polish-city.html"
 			},
