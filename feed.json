@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/04/19/ive-learned-to.html",
+				
+				"content_html": "<p>I&rsquo;ve learned to drink coffee with oat milk. It&rsquo;s actually pretty decent, yet another step in being animal-free in terms of food!</p>\n",
+				"content_text": "I've learned to drink coffee with oat milk. It's actually pretty decent, yet another step in being animal-free in terms of food! \n",
+				"date_published": "2023-04-19T10:42:59+02:00",
+				"url": "https://pnut.pl/2023/04/19/ive-learned-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/17/yesterday-ive-nearly.html",
+				
+				"content_html": "<p>Yesterday I&rsquo;ve nearly moved social.yeswas.pl to the new server but Mastodon&rsquo;s docs aren&rsquo;t really that helpful - there&rsquo;s nothing about moving lets encrypt and restoring Mastodon from backup. Eh.</p>\n",
+				"content_text": "Yesterday I've nearly moved social.yeswas.pl to the new server but Mastodon's docs aren't really that helpful - there's nothing about moving lets encrypt and restoring Mastodon from backup. Eh. \n",
+				"date_published": "2023-04-17T00:51:38+02:00",
+				"url": "https://pnut.pl/2023/04/17/yesterday-ive-nearly.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/17/warsaws-becoming-pretty.html",
+				
+				"content_html": "<p>Warsaw’s becoming pretty.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Warsaw’s becoming pretty. \n\n<img src=\"uploads/2023/e96d69c599.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-17T00:06:21+02:00",
+				"url": "https://pnut.pl/2023/04/17/warsaws-becoming-pretty.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/14/is-that-an.html",
+				
+				"content_html": "<blockquote>\n<p>Is that an RussiaWatch on our wrist? When you binge TV series, do you watch Ruflix on a Russian TV set, sitting on a sofa made by the world famous furniture company, RUSKEA?</p>\n</blockquote>\n<p>Living in Russia is hell 🔗: <a href=\"https://eastsplaining.substack.com/p/living-in-russia-is-hell\">eastsplaining.substack.com/p/living-&hellip;</a></p>\n",
+				"content_text": ">Is that an RussiaWatch on our wrist? When you binge TV series, do you watch Ruflix on a Russian TV set, sitting on a sofa made by the world famous furniture company, RUSKEA?\r\n\r\nLiving in Russia is hell 🔗: [eastsplaining.substack.com/p/living-...](https://eastsplaining.substack.com/p/living-in-russia-is-hell)\n",
+				"date_published": "2023-04-14T10:21:50+02:00",
+				"url": "https://pnut.pl/2023/04/14/is-that-an.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/14/today-new-post.html",
+				
+				"content_html": "<p>Today new Post Malone&rsquo;s single came out: <a href=\"https://www.youtube.com/watch?v=IzPQ_jA00bk\">https://www.youtube.com/watch?v=IzPQ_jA00bk</a></p>\n<p>And I&rsquo;m very, very happy with it. Can&rsquo;t wait for the rest of the album, it&rsquo;s going to be awesome! Also when you&rsquo;re surprised that Posty can sing as in not rap but singing, <a href=\"https://www.youtube.com/watch?v=IzPQ_jA00bk\">check this one out</a>.</p>\n",
+				"content_text": "Today new Post Malone's single came out: https://www.youtube.com/watch?v=IzPQ_jA00bk\r\n\r\nAnd I'm very, very happy with it. Can't wait for the rest of the album, it's going to be awesome! Also when you're surprised that Posty can sing as in not rap but singing, [check this one out](https://www.youtube.com/watch?v=IzPQ_jA00bk). \n",
+				"date_published": "2023-04-14T10:02:31+02:00",
+				"url": "https://pnut.pl/2023/04/14/today-new-post.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/14/oh-i-understand.html",
+				
+				"content_html": "<p>Oh, I understand now, the one I like is Link’s Awakening. It’s really good and playable - even the first version in monochrome. I wish BoTW had pulled me so much, but I just can’t find myself enjoying it. I’ve tried, but apart from sightseeing, everything else I just loathe.</p>\n",
+				"content_text": "Oh, I understand now, the one I like is Link’s Awakening. It’s really good and playable - even the first version in monochrome. I wish BoTW had pulled me so much, but I just can’t find myself enjoying it. I’ve tried, but apart from sightseeing, everything else I just loathe. \n",
+				"date_published": "2023-04-14T00:38:17+02:00",
+				"url": "https://pnut.pl/2023/04/14/oh-i-understand.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/14/couple-months-ago.html",
+				
+				"content_html": "<p>Couple months ago got myself game&amp;watch from Nintendo with Zelda on it. I’ve tried with first two Zelda games but couldn’t stick, and then, the last one seems to be something I’d like to explore. Interesting. Also this device is just the cutest.</p>\n",
+				"content_text": "Couple months ago got myself game&watch from Nintendo with Zelda on it. I’ve tried with first two Zelda games but couldn’t stick, and then, the last one seems to be something I’d like to explore. Interesting. Also this device is just the cutest. \n",
+				"date_published": "2023-04-14T00:25:57+02:00",
+				"url": "https://pnut.pl/2023/04/14/couple-months-ago.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/13/i-wish-microblog.html",
+				
+				"content_html": "<p>I wish micro.blog official app on Mac supported global shortcuts. So I can do CMD+SHIFT+T and create new post window from everywhere. MarsEdit does it but it doesn&rsquo;t support drag &amp; drop for images (maybe that&rsquo;s the way to go though and pray for this feature here?)</p>\n",
+				"content_text": "I wish micro.blog official app on Mac supported global shortcuts. So I can do CMD+SHIFT+T and create new post window from everywhere. MarsEdit does it but it doesn't support drag & drop for images (maybe that's the way to go though and pray for this feature here?)\n",
+				"date_published": "2023-04-13T16:21:14+02:00",
+				"url": "https://pnut.pl/2023/04/13/i-wish-microblog.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/13/oh-yes-this.html",
+				
+				"content_html": "<p>Oh, yes, this one is really good!</p>\n<p>🔗: <a href=\"https://mattbrown.dev/mastodon/\">How to talk to your relatives about Mastodon</a></p>\n",
+				"content_text": "Oh, yes, this one is really good!\n\n🔗: [How to talk to your relatives about Mastodon](https://mattbrown.dev/mastodon/)\n",
+				"date_published": "2023-04-13T16:09:22+02:00",
+				"url": "https://pnut.pl/2023/04/13/oh-yes-this.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/04/13/about-last-night.html",
 				
 				"content_html": "<p>About last night?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "About last night?\n\n<img src=\"uploads/2023/ea6589ea40.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "About last night?\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/ea6589ea40.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-13T10:27:56+02:00",
 				"url": "https://pnut.pl/2023/04/13/about-last-night.html"
 			},
