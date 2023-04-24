@@ -7,6 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/04/24/current-status.html",
+				
+				"content_html": "<p>Current status.</p>\n",
+				"content_text": "Current status. \n",
+				"date_published": "2023-04-24T20:39:51+02:00",
+				"url": "https://pnut.pl/2023/04/24/current-status.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/24/i-love-when.html",
+				
+				"content_html": "<p>I love when Apple Watch just decides to die</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love when Apple Watch just decides to die\n\n<img src=\"uploads/2023/b0133300a8.jpg\" width=\"368\" height=\"448\" alt=\"\">\n",
+				"date_published": "2023-04-24T01:04:49+02:00",
+				"url": "https://pnut.pl/2023/04/24/i-love-when.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/23/i-wish-ivory.html",
+				
+				"content_html": "<p>I wish Ivory would group notifications like Mona does.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I wish Ivory would group notifications like Mona does. \n\n<img src=\"uploads/2023/8fe38c978b.jpg\" width=\"277\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a9f12b3bff.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-23T02:31:44+02:00",
+				"url": "https://pnut.pl/2023/04/23/i-wish-ivory.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/23/it-took-me.html",
+				
+				"content_html": "<p>It took me nearly 1,5 hours but I&rsquo;ve successfully moved <a href=\"https://social.yeswas.pl\">social.yeswas.pl</a> to a new, twice as fast, machine. It&rsquo;s gonna also be 50% cheaper, so that&rsquo;s great! Now I only need to move <a href=\"https://forum.yeswas.pl\">forum.yeswas.pl</a> to new server in the next two months.</p>\n",
+				"content_text": "It took me nearly 1,5 hours but I've successfully moved [social.yeswas.pl](https://social.yeswas.pl) to a new, twice as fast, machine. It's gonna also be 50% cheaper, so that's great! Now I only need to move [forum.yeswas.pl](https://forum.yeswas.pl) to new server in the next two months.\n",
+				"date_published": "2023-04-23T02:11:37+02:00",
+				"url": "https://pnut.pl/2023/04/23/it-took-me.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/22/ive-asked-chatgpt.html",
+				
+				"content_html": "<p>I&rsquo;ve asked #ChatGPT to write me a detailed plan for migrating my own Mastodon instance from one machine to another and <a href=\"https://paste.lol/pawel/mastodon_migrate_chatgpt\">this</a> is what it came up with. I&rsquo;m not sure if it&rsquo;s gonna work, but for sure I&rsquo;m gonna try it.</p>\n",
+				"content_text": "I've asked #ChatGPT to write me a detailed plan for migrating my own Mastodon instance from one machine to another and [this](https://paste.lol/pawel/mastodon_migrate_chatgpt) is what it came up with. I'm not sure if it's gonna work, but for sure I'm gonna try it.\n",
+				"date_published": "2023-04-22T23:50:32+02:00",
+				"url": "https://pnut.pl/2023/04/22/ive-asked-chatgpt.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/22/forest.html",
+				
+				"content_html": "<p>Forest.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Forest.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/7997db3eee.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/1bc6644b08.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/8a8f203785.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/09ed47029e.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-22T20:05:23+02:00",
+				"url": "https://pnut.pl/2023/04/22/forest.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/21/i-think-im.html",
+				
+				"content_html": "<p>I think I&rsquo;m gonna migrate all of you - my dear followers - into my micro.blog account. Then each response would be a comment on a blog, each post could unfold into great discussion in the comments and overall I think it would be easier to use. Too late in the evening to make a switch, but tomorrow?</p>\n",
+				"content_text": "I think I'm gonna migrate all of you - my dear followers - into my micro.blog account. Then each response would be a comment on a blog, each post could unfold into great discussion in the comments and overall I think it would be easier to use. Too late in the evening to make a switch, but tomorrow?\n",
+				"date_published": "2023-04-21T23:41:47+02:00",
+				"url": "https://pnut.pl/2023/04/21/i-think-im.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/21/also-i-didnt.html",
+				
+				"content_html": "<p>Also - I didn&rsquo;t want to do any web admin stuff for a long time now and I suddenly feel the urge to ~do stuff~. I&rsquo;m not gonna cause it&rsquo;s late and eyes are already sore, but boy oh boy, the next few days are gonna be interesting. I might finally move everything to it&rsquo;s new home?!</p>\n",
+				"content_text": "Also - I didn't want to do any web admin stuff for a long time now and I suddenly feel the urge to ~do stuff~. I'm not gonna cause it's late and eyes are already sore, but boy oh boy, the next few days are gonna be interesting. I might finally move everything to it's new home?!\n",
+				"date_published": "2023-04-21T23:36:07+02:00",
+				"url": "https://pnut.pl/2023/04/21/also-i-didnt.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/21/first-order-of.html",
+				
+				"content_html": "<p>First order of being off-business for a couple of weeks - disconnected the big mac screen. Now I&rsquo;m using only laptop&rsquo;s screen and it does trick brain into being off work already!</p>\n",
+				"content_text": "First order of being off-business for a couple of weeks - disconnected the big mac screen. Now I'm using only laptop's screen and it does trick brain into being off work already!\n",
+				"date_published": "2023-04-21T23:26:29+02:00",
+				"url": "https://pnut.pl/2023/04/21/first-order-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/21/two-weeks-of.html",
+				
+				"content_html": "<p>🏖️ Two weeks of sweet nothing.</p>\n",
+				"content_text": "🏖️ Two weeks of sweet nothing. \n",
+				"date_published": "2023-04-21T14:05:09+02:00",
+				"url": "https://pnut.pl/2023/04/21/two-weeks-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/21/flowers.html",
+				
+				"content_html": "<p>#flowers</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#flowers \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/3c753065c8.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-04-21T01:53:01+02:00",
+				"url": "https://pnut.pl/2023/04/21/flowers.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/21/smoke.html",
+				
+				"content_html": "<p>#smoke</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#smoke\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/bb3772956f.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-21T01:52:25+02:00",
+				"url": "https://pnut.pl/2023/04/21/smoke.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/20/warsaw-is-becoming.html",
+				
+				"content_html": "<p>#Warsaw is becoming very pretty, very quickly!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Warsaw is becoming very pretty, very quickly!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/bb8e7a8348.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-20T14:58:54+02:00",
+				"url": "https://pnut.pl/2023/04/20/warsaw-is-becoming.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/04/19/google-calendar-removing.html",
+				
+				"content_html": "<p>Google Calendar removing Google Meet by default made the whole product thousand times less convenient.</p>\n",
+				"content_text": "Google Calendar removing Google Meet by default made the whole product thousand times less convenient. \n",
+				"date_published": "2023-04-19T16:00:18+02:00",
+				"url": "https://pnut.pl/2023/04/19/google-calendar-removing.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/04/19/ive-learned-to.html",
 				
 				"content_html": "<p>I&rsquo;ve learned to drink coffee with oat milk. It&rsquo;s actually pretty decent, yet another step in being animal-free in terms of food!</p>\n",
@@ -26,7 +138,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/04/17/warsaws-becoming-pretty.html",
 				
 				"content_html": "<p>Warsaw’s becoming pretty.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Warsaw’s becoming pretty. \n\n<img src=\"uploads/2023/e96d69c599.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Warsaw’s becoming pretty. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/e96d69c599.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-17T00:06:21+02:00",
 				"url": "https://pnut.pl/2023/04/17/warsaws-becoming-pretty.html"
 			},
