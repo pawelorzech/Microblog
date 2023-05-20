@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/05/20/its-nice.html",
+				
+				"content_html": "<p>It&rsquo;s nice.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's nice.\n\n<img src=\"uploads/2023/2a1e21aa8c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-05-20T13:28:12+02:00",
+				"url": "https://orzech.me/2023/05/20/its-nice.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/19/not-from-today.html",
+				
+				"content_html": "<p>Not from today, but it will hopefully be like this tomorrow!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not from today, but it will hopefully be like this tomorrow!\n\n<img src=\"uploads/2023/8ede8691a3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-19T21:20:17+02:00",
+				"url": "https://orzech.me/2023/05/19/not-from-today.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/18/im-gonna-stay.html",
+				
+				"content_html": "<p>I&rsquo;m gonna stay on micro.blog but I think Calckey is overall better than Mastodon. To each they own, of course, but for me - Calckey just feels better.</p>\n",
+				"content_text": "I'm gonna stay on micro.blog but I think Calckey is overall better than Mastodon. To each they own, of course, but for me - Calckey just feels better. \n",
+				"date_published": "2023-05-18T00:47:22+02:00",
+				"url": "https://orzech.me/2023/05/18/im-gonna-stay.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/18/im-jumping-around.html",
+				
+				"content_html": "<p>I&rsquo;m jumping around with cases on my phone and going from no case to leather case to dbrand&rsquo;s grip and I know I&rsquo;m gonna probably regret it one day but going with leather case because it just feels so good that my autism is doing brrrr (in a good way!).</p>\n",
+				"content_text": "I'm jumping around with cases on my phone and going from no case to leather case to dbrand's grip and I know I'm gonna probably regret it one day but going with leather case because it just feels so good that my autism is doing brrrr (in a good way!).\n",
+				"date_published": "2023-05-18T00:18:33+02:00",
+				"url": "https://orzech.me/2023/05/18/im-jumping-around.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/17/but-back-to.html",
+				
+				"content_html": "<p>But back to the going out of the walled garden - I&rsquo;d love to be able to do it. Just so we aren&rsquo;t as dependent on what Apple is doing as we are now. On other hand - only Apple is being serious with their smart home division, because Google&rsquo;s Home app is just plain bad.</p>\n",
+				"content_text": "But back to the going out of the walled garden - I'd love to be able to do it. Just so we aren't as dependent on what Apple is doing as we are now. On other hand - only Apple is being serious with their smart home division, because Google's Home app is just plain bad. \n",
+				"date_published": "2023-05-17T16:35:27+02:00",
+				"url": "https://orzech.me/2023/05/17/but-back-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/17/just-saw-the.html",
+				
+				"content_html": "<p>Just saw the announcement of new <a href=\"https://www.theverge.com/2023/5/17/23726684/amazon-echo-pop-smart-speaker-new-show-5-display-price\">Echo Pop</a> speaker. In - Apple only - household I&rsquo;d be pretty keen to jump over to a different ecosystem if they would finally bring support for Polish. Siri is a teenager and still can&rsquo;t speak Polish. Bummer.</p>\n",
+				"content_text": "Just saw the announcement of new [Echo Pop](https://www.theverge.com/2023/5/17/23726684/amazon-echo-pop-smart-speaker-new-show-5-display-price) speaker. In - Apple only - household I'd be pretty keen to jump over to a different ecosystem if they would finally bring support for Polish. Siri is a teenager and still can't speak Polish. Bummer.\n",
+				"date_published": "2023-05-17T16:34:15+02:00",
+				"url": "https://orzech.me/2023/05/17/just-saw-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/16/zelda-is-great.html",
+				
+				"content_html": "<p>#Zelda is great. Just wanted to say that. I&rsquo;m enjoying it very much and there&rsquo;s always something cool to do even when you&rsquo;re not progressing main story.</p>\n",
+				"content_text": "#Zelda is great. Just wanted to say that. I'm enjoying it very much and there's always something cool to do even when you're not progressing main story. \n",
+				"date_published": "2023-05-16T23:17:52+02:00",
+				"url": "https://orzech.me/2023/05/16/zelda-is-great.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/15/warsaw-was-pretty.html",
+				
+				"content_html": "<p>#Warsaw was pretty today!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#Warsaw was pretty today!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/9277cc0870.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-05-15T00:31:08+02:00",
+				"url": "https://orzech.me/2023/05/15/warsaw-was-pretty.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/15/homescreen-may.html",
+				
+				"content_html": "<p>Homescreen, May 2023.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Homescreen, May 2023. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/98dedd738d.jpg\" width=\"571\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-15T00:25:33+02:00",
+				"url": "https://orzech.me/2023/05/15/homescreen-may.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/15/new-zelda-is.html",
+				
+				"content_html": "<p>New #Zelda is also great. I had a chance to play BOTW these six years ago but it didn&rsquo;t stick. I grabbed physical copy of new one to just try it out and boy oh boy I&rsquo;m having fun. I haven&rsquo;t tackled the main quests a lot yet, but getting there!</p>\n",
+				"content_text": "New #Zelda is also great. I had a chance to play BOTW these six years ago but it didn't stick. I grabbed physical copy of new one to just try it out and boy oh boy I'm having fun. I haven't tackled the main quests a lot yet, but getting there!\n",
+				"date_published": "2023-05-15T00:12:46+02:00",
+				"url": "https://orzech.me/2023/05/15/new-zelda-is.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/05/15/upgraded-calckeypl-server.html",
 				
 				"content_html": "<p>Upgraded <a href=\"https://calckey.pl\">calckey.pl</a> server a bit today - basically doubled its parameters. So it&rsquo;s now on 4 vCPU, 8GB of ram and 80GB of SSD and I have to say that it works great. I mean, it&rsquo;s probably going to be slow again after reaching 100-120 active accounts, but it&rsquo;s good for now!</p>\n",
