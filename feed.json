@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/06/16/apple-leather-case.html",
+				
+				"content_html": "<p>Apple Leather case after six months of use. Not sure it looks better with age unfortunately&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Apple Leather case after six months of use. Not sure it looks better with age unfortunately...\n\n<img src=\"uploads/2023/5c1ba4f157.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-16T09:09:29+02:00",
+				"url": "https://orzech.me/2023/06/16/apple-leather-case.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/15/oh-wow-succession.html",
+				
+				"content_html": "<p>Oh wow. Succession is really that good! 😳</p>\n",
+				"content_text": "Oh wow. Succession is really that good! 😳\n",
+				"date_published": "2023-06-15T21:38:59+02:00",
+				"url": "https://orzech.me/2023/06/15/oh-wow-succession.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/12/todays-mission-to.html",
+				
+				"content_html": "<p>Today’s mission to configure server wasn’t successful but I’ll get to that. Yunohost without internet isn’t really working and DietPi… I’ve plugged out USB drive during installation by accident. Seems like it’s not my day to succeed with it! Gonna give it a go later.</p>\n",
+				"content_text": "Today’s mission to configure server wasn’t successful but I’ll get to that. Yunohost without internet isn’t really working and DietPi… I’ve plugged out USB drive during installation by accident. Seems like it’s not my day to succeed with it! Gonna give it a go later. \n",
+				"date_published": "2023-06-12T23:42:15+02:00",
+				"url": "https://orzech.me/2023/06/12/todays-mission-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/12/installing-yunohost-on.html",
+				
+				"content_html": "<p>Installing Yunohost on machine without access to the internets is so painful I retreated to DietPi. My RPi400 works on it for a very long time, so why mess with perfection?</p>\n",
+				"content_text": "Installing Yunohost on machine without access to the internets is so painful I retreated to DietPi. My RPi400 works on it for a very long time, so why mess with perfection?\n",
+				"date_published": "2023-06-12T21:28:25+02:00",
+				"url": "https://orzech.me/2023/06/12/installing-yunohost-on.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/12/not-only-prices.html",
+				
+				"content_html": "<p>Not only prices of everything are going up (hi there, Netflix) but those big entities are closing themselves (hi reddit). Selfhosting is the way forward then - just got my HP T630 and I&rsquo;m gonna selfhost the entire internets.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not only prices of everything are going up (hi there, Netflix) but those big entities are closing themselves (hi reddit). Selfhosting is the way forward then - just got my HP T630 and I'm gonna selfhost the entire internets. \n\n<img src=\"uploads/2023/e992e4b4e9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-12T10:53:20+02:00",
+				"url": "https://orzech.me/2023/06/12/not-only-prices.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/06/11/020425.html",
 				
 				"content_html": "<p>✨</p>\n<!-- raw HTML omitted -->\n",
