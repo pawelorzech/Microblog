@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/06/22/red-hot-chilli.html",
+				
+				"content_html": "<p>Red Hot Chilli Peppers. Great show!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Red Hot Chilli Peppers. Great show!\n\n<img src=\"uploads/2023/bffbee6aac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-22T09:00:08+02:00",
+				"url": "https://orzech.me/2023/06/22/red-hot-chilli.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/19/just-finished-second.html",
+				
+				"content_html": "<p>Just finished second season of Succession. Holy fuck.</p>\n",
+				"content_text": "Just finished second season of Succession. Holy fuck. \n",
+				"date_published": "2023-06-19T23:41:00+02:00",
+				"url": "https://orzech.me/2023/06/19/just-finished-second.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/19/adhd-meds-are.html",
+				
+				"content_html": "<p>ADHD meds are cool and stuff but unfortunately having heart at 140BPM is not something I&rsquo;m fan of. Damn.</p>\n",
+				"content_text": "ADHD meds are cool and stuff but unfortunately having heart at 140BPM is not something I'm fan of. Damn. \n",
+				"date_published": "2023-06-19T18:04:49+02:00",
+				"url": "https://orzech.me/2023/06/19/adhd-meds-are.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/18/two-months-this.html",
+				
+				"content_html": "<p>Two months - this is how long it took me from being Calckey fan to being a doubter. It’s just too unstable - both in terms of official server performance and software that runs on it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Two months - this is how long it took me from being Calckey fan to being a doubter. It’s just too unstable - both in terms of official server performance and software that runs on it. \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"410\" alt=\"\">\n",
+				"date_published": "2023-06-18T00:12:31+02:00",
+				"url": "https://orzech.me/2023/06/18/two-months-this.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/06/17/have-to-say.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://mastodon.social/@dansup/110559711143771753\">(&hellip;) I have to say, how Mastodon internals work in terms of performance and scalability are top notch and sets the bar for other projects.\nIt&rsquo;s not the language that matters, the database is the bottleneck, and more importantly how you manage the data schema and structures!</a></p>\n</blockquote>\n<p>Mastodon &gt; Calckey in terms of performance 🤷🏻‍♂️</p>\n",
+				"content_text": ">[(...) I have to say, how Mastodon internals work in terms of performance and scalability are top notch and sets the bar for other projects.\nIt's not the language that matters, the database is the bottleneck, and more importantly how you manage the data schema and structures!](https://mastodon.social/@dansup/110559711143771753)\n\nMastodon > Calckey in terms of performance 🤷🏻‍♂️\n",
+				"date_published": "2023-06-17T15:13:03+02:00",
+				"url": "https://orzech.me/2023/06/17/have-to-say.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/06/16/apple-leather-case.html",
 				
 				"content_html": "<p>Apple Leather case after six months of use. Not sure it looks better with age unfortunately&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Apple Leather case after six months of use. Not sure it looks better with age unfortunately...\n\n<img src=\"uploads/2023/5c1ba4f157.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Apple Leather case after six months of use. Not sure it looks better with age unfortunately...\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/5c1ba4f157.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-16T09:09:29+02:00",
 				"url": "https://orzech.me/2023/06/16/apple-leather-case.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/06/12/not-only-prices.html",
 				
 				"content_html": "<p>Not only prices of everything are going up (hi there, Netflix) but those big entities are closing themselves (hi reddit). Selfhosting is the way forward then - just got my HP T630 and I&rsquo;m gonna selfhost the entire internets.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not only prices of everything are going up (hi there, Netflix) but those big entities are closing themselves (hi reddit). Selfhosting is the way forward then - just got my HP T630 and I'm gonna selfhost the entire internets. \n\n<img src=\"uploads/2023/e992e4b4e9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not only prices of everything are going up (hi there, Netflix) but those big entities are closing themselves (hi reddit). Selfhosting is the way forward then - just got my HP T630 and I'm gonna selfhost the entire internets. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/e992e4b4e9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-12T10:53:20+02:00",
 				"url": "https://orzech.me/2023/06/12/not-only-prices.html"
 			},
@@ -50,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/06/11/020425.html",
 				
 				"content_html": "<p>✨</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "✨\n\n<img src=\"uploads/2023/94703940f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "✨\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/94703940f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-11T02:04:25+02:00",
 				"url": "https://orzech.me/2023/06/11/020425.html"
 			},
@@ -58,23 +98,15 @@
 				"id": "http://pawelorzech.micro.blog/2023/06/10/couple-more-from.html",
 				
 				"content_html": "<p>Couple more from the seaside. Feels nice.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Couple more from the seaside. Feels nice. \n\n<img src=\"uploads/2023/0853a8eb0f.jpg\" width=\"600\" height=\"309\" alt=\"\"><img src=\"uploads/2023/8ac3d4bb58.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/d894b2f8e1.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/3a7fbf6ad8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Couple more from the seaside. Feels nice. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/0853a8eb0f.jpg\" width=\"600\" height=\"309\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/8ac3d4bb58.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/d894b2f8e1.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/3a7fbf6ad8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-10T00:13:09+02:00",
 				"url": "https://orzech.me/2023/06/10/couple-more-from.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/06/09/even-when-im.html",
-				
-				"content_html": "<p>Even when I&rsquo;m not playing the Zelda, I&rsquo;m playing Zelda.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Even when I'm not playing the Zelda, I'm playing Zelda. \n\n<img src=\"uploads/2023/42d4409769.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-09T23:56:01+02:00",
-				"url": "https://orzech.me/2023/06/09/even-when-im.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/06/09/221519.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/34020992dd.jpg\" width=\"600\" height=\"255\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/34020992dd.jpg\" width=\"600\" height=\"255\" alt=\"\">\n",
 				"date_published": "2023-06-09T22:15:19+02:00",
 				"url": "https://orzech.me/2023/06/09/221519.html"
 			},
@@ -82,7 +114,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/06/09/polish-seaside-weather.html",
 				
 				"content_html": "<p>Polish seaside weather is&hellip; Let&rsquo;s say its suboptimal.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Polish seaside weather is... Let's say its suboptimal. \n\n<img src=\"uploads/2023/6914a90bbd.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/53f865d30e.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/235d768e3f.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Polish seaside weather is... Let's say its suboptimal. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/6914a90bbd.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/53f865d30e.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/235d768e3f.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-09T18:13:11+02:00",
 				"url": "https://orzech.me/2023/06/09/polish-seaside-weather.html"
 			},
@@ -202,7 +234,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/06/04/210821.html",
 				
 				"content_html": "<p>🌆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌆\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/932bef51e2.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "🌆\n\n<img src=\"uploads/2023/932bef51e2.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-06-04T21:08:21+02:00",
 				"url": "https://orzech.me/2023/06/04/210821.html"
 			},
@@ -210,7 +242,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/06/03/niedenthals-photos-are.html",
 				
 				"content_html": "<p>Niedenthal&rsquo;s photos are sooo good.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Niedenthal's photos are sooo good. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/7604754e21.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/ce1d25d69f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/8574b2cb06.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Niedenthal's photos are sooo good. \n\n<img src=\"uploads/2023/7604754e21.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/ce1d25d69f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/8574b2cb06.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-03T19:44:02+02:00",
 				"url": "https://orzech.me/2023/06/03/niedenthals-photos-are.html"
 			},
@@ -229,62 +261,6 @@
 				"content_text": "On my #WWDC23 wish-list I've got only one thing: let me turn off/on e-sim with shortcuts. I'd like to be able to turn on my business phone everyday at ~9 and turn it off after work. This would be amazing.\n",
 				"date_published": "2023-06-02T12:34:09+02:00",
 				"url": "https://orzech.me/2023/06/02/on-my-wwdc.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/06/02/ive-got-cutest.html",
-				
-				"content_html": "<p>I&rsquo;ve got cutest work profile wallpaper and ain&rsquo;t nobody can tell me otherwise.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've got cutest work profile wallpaper and ain't nobody can tell me otherwise. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/5b93beedf1.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-02T12:26:51+02:00",
-				"url": "https://orzech.me/2023/06/02/ive-got-cutest.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/06/02/got-tickets-to.html",
-				
-				"content_html": "<p>Got tickets to see new, animated Spiderman (Spider-man? Spider man? whatever) in IMAX quite soon. I just can&rsquo;t wait, this is going to be so big and so unbelievably beautiful. Watched the first one couple of times and every time I was amazed how perfected this image is. Highly recommended!</p>\n",
-				"content_text": "Got tickets to see new, animated Spiderman (Spider-man? Spider man? whatever) in IMAX quite soon. I just can't wait, this is going to be so big and so unbelievably beautiful. Watched the first one couple of times and every time I was amazed how perfected this image is. Highly recommended! \n",
-				"date_published": "2023-06-02T11:47:43+02:00",
-				"url": "https://orzech.me/2023/06/02/got-tickets-to.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/06/02/first-day-of.html",
-				
-				"content_html": "<p>First day of ADHD meds. Let&rsquo;s go!</p>\n",
-				"content_text": "First day of ADHD meds. Let's go!\n",
-				"date_published": "2023-06-02T09:32:28+02:00",
-				"url": "https://orzech.me/2023/06/02/first-day-of.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/05/31/reddit-really-wants.html",
-				
-				"content_html": "<p>Reddit really wants to see how Twitter&rsquo;s downfall felt? I know they don&rsquo;t, this pricing is anything but serious and fair. If they wanted to kill 3rd party apps - just own it.</p>\n<p><a href=\"https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/\">https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/</a></p>\n",
-				"content_text": "Reddit really wants to see how Twitter's downfall felt? I know they don't, this pricing is anything but serious and fair. If they wanted to kill 3rd party apps - just own it. \n\n[https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/](https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)\n",
-				"date_published": "2023-05-31T23:14:35+02:00",
-				"url": "https://orzech.me/2023/05/31/reddit-really-wants.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/05/31/windows.html",
-				
-				"content_html": "<p>Window(s?).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Window(s?). \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/acb7c89571.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-05-31T14:34:22+02:00",
-				"url": "https://orzech.me/2023/05/31/windows.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/05/29/magic-is-the.html",
-				
-				"content_html": "<p>Magic is the best.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Magic is the best. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/151d783ed4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-29T23:29:29+02:00",
-				"url": "https://orzech.me/2023/05/29/magic-is-the.html"
-			},
-			{
-				"id": "http://pawelorzech.micro.blog/2023/05/29/youre-drinking-coffee.html",
-				
-				"content_html": "<p>You&rsquo;re drinking coffee because you want to wake up in the morning, I drink coffee because I don&rsquo;t use meds for my ADHD and this is one of the easiest and quickest ways to get myself to focus on stuff. We are not the same (or we are, not sure who is reading that).</p>\n",
-				"content_text": "You're drinking coffee because you want to wake up in the morning, I drink coffee because I don't use meds for my ADHD and this is one of the easiest and quickest ways to get myself to focus on stuff. We are not the same (or we are, not sure who is reading that).\n",
-				"date_published": "2023-05-29T11:08:02+02:00",
-				"url": "https://orzech.me/2023/05/29/youre-drinking-coffee.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/05/29/had-a-minor.html",
@@ -346,7 +322,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/05/20/its-nice.html",
 				
 				"content_html": "<p>It&rsquo;s nice.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's nice.\n\n<img src=\"uploads/2023/2a1e21aa8c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "It's nice.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/2a1e21aa8c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-05-20T13:28:12+02:00",
 				"url": "https://orzech.me/2023/05/20/its-nice.html"
 			},
@@ -354,7 +330,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/05/19/not-from-today.html",
 				
 				"content_html": "<p>Not from today, but it will hopefully be like this tomorrow!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not from today, but it will hopefully be like this tomorrow!\n\n<img src=\"uploads/2023/8ede8691a3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not from today, but it will hopefully be like this tomorrow!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/8ede8691a3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-19T21:20:17+02:00",
 				"url": "https://orzech.me/2023/05/19/not-from-today.html"
 			},
@@ -434,7 +410,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/05/12/yeah-lets-do.html",
 				
 				"content_html": "<p>Yeah let&rsquo;s do it</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yeah let's do it \n\n<img src=\"uploads/2023/cb066d5269.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Yeah let's do it \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/cb066d5269.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-05-12T19:40:22+02:00",
 				"url": "https://orzech.me/2023/05/12/yeah-lets-do.html"
 			},
@@ -442,7 +418,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/05/12/thank-you-the.html",
 				
 				"content_html": "<p>Thank you the cache gods for the blessing of the free storage</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Thank you the cache gods for the blessing of the free storage \n\n<img src=\"uploads/2023/cda474aad7.jpg\" width=\"600\" height=\"342\" alt=\"\"><img src=\"uploads/2023/6e923e037d.jpg\" width=\"600\" height=\"344\" alt=\"\">\n",
+				"content_text": "Thank you the cache gods for the blessing of the free storage \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/cda474aad7.jpg\" width=\"600\" height=\"342\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/6e923e037d.jpg\" width=\"600\" height=\"344\" alt=\"\">\n",
 				"date_published": "2023-05-12T14:16:56+02:00",
 				"url": "https://orzech.me/2023/05/12/thank-you-the.html"
 			},
@@ -458,7 +434,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/05/11/doggo.html",
 				
 				"content_html": "<p>Doggo.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Doggo.\n\n<img src=\"uploads/2023/76a8ada323.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Doggo.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/76a8ada323.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-11T12:30:01+02:00",
 				"url": "https://orzech.me/2023/05/11/doggo.html"
 			},
@@ -469,6 +445,14 @@
 				"content_text": "🦆\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/bd06343dc0.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-05-10T23:40:47+02:00",
 				"url": "https://orzech.me/2023/05/10/234047.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/05/09/i-meant-this.html",
+				
+				"content_html": "<p>I meant this part of evening. Grass was just looking funky.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I meant this part of evening. Grass was just looking funky. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/1384bbd32f.jpg\" width=\"600\" height=\"255\" alt=\"\">\n",
+				"date_published": "2023-05-09T20:16:07+02:00",
+				"url": "https://orzech.me/2023/05/09/i-meant-this.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/05/09/evenings-are-prettier.html",
@@ -1602,7 +1586,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/02/27/194611.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>What’s a computer?</p><p><img src=\"https://cdn.uploads.micro.blog/96132/2023/5a7995130f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "<p>What’s a computer?</p><p><img src=\"https://s3.us-west-002.backblazeb2.com/mastodon-orzech/media_attachments/files/109/938/184/486/348/111/original/10a831eef8dd7d82.jpg\">\n",
 				"date_published": "2023-02-27T20:46:11+02:00",
 				"url": "https://orzech.me/2023/02/27/194611.html"
 			},
