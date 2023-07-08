@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/07/09/wifey.html",
+				
+				"content_html": "<p>Wifey!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wifey!\n\n<img src=\"uploads/2023/d476b39904.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-09T00:49:13+02:00",
+				"url": "https://orzech.me/2023/07/09/wifey.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/07/hometown.html",
+				
+				"content_html": "<p>Hometown!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Hometown!\n\n<img src=\"uploads/2023/b34c87eb30.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/35d453dbdc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ade590997b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-07T20:30:22+02:00",
+				"url": "https://orzech.me/2023/07/07/hometown.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/07/any-good-ios.html",
+				
+				"content_html": "<p>Any good iOS and MacOS apps that support chatgpt 4 api? Petey/GeePeeTee unfortunately doesn&rsquo;t.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Any good iOS and MacOS apps that support chatgpt 4 api? Petey/GeePeeTee unfortunately doesn't. \n\n<img src=\"uploads/2023/6915c7101e.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-07T10:36:35+02:00",
+				"url": "https://orzech.me/2023/07/07/any-good-ios.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/06/thanks-i-would.html",
+				
+				"content_html": "<p>Thanks, I would like my right to privacy more than having an access to another Facebook&rsquo;s services though. I knew Gruber was doing more and more bad takes recently, but he&rsquo;s just becoming unreadable.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thanks, I would like my right to privacy more than having an access to another Facebook's services though. I knew Gruber was doing more and more bad takes recently, but he's just becoming unreadable. \n\n<img src=\"uploads/2023/screenshot-zdbl71ln-from-ivory-2023-07-06-at-22.04.382x.png\" width=\"600\" height=\"304\" alt=\"\">\n",
+				"date_published": "2023-07-06T22:06:22+02:00",
+				"url": "https://orzech.me/2023/07/06/thanks-i-would.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/06/thats-bonkers.html",
+				
+				"content_html": "<p>That&rsquo;s bonkers.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "That's bonkers. \n\n<img src=\"uploads/2023/1218d118051cb654.jpeg\" width=\"600\" height=\"361\" alt=\"\">\n",
+				"date_published": "2023-07-06T12:36:13+02:00",
+				"url": "https://orzech.me/2023/07/06/thats-bonkers.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/05/double-down-so.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/260928\">Double Down (2005)</a> - ★☆☆☆☆</p>\n<p>So bad it’s good but also really bad.</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/bEQR0beEICfxNDBcyiQQguR0YdF.jpg\" alt=\"Double Down poster\"></p>\n",
+				"content_text": "🍿 [Double Down (2005)](https://www.themoviedb.org/movie/260928) - ★☆☆☆☆\r\n\r\nSo bad it’s good but also really bad. \r\n\r\n![Double Down poster](https://image.tmdb.org/t/p/w780/bEQR0beEICfxNDBcyiQQguR0YdF.jpg)\n",
+				"date_published": "2023-07-05T22:58:42+02:00",
+				"url": "https://orzech.me/2023/07/05/double-down-so.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/04/for-the-past.html",
+				
+				"content_html": "<p>For the past ~8 years I&rsquo;m selfhosting rss reader for myself and about 30 other folks. So if you always wanted to try and never had a chance - <a href=\"https://rss.wspanialy.eu\">feel free to create account and read stuff</a>. Also if you do - Reeder on macOS and iOS is just unbelievably good.</p>\n",
+				"content_text": "For the past ~8 years I'm selfhosting rss reader for myself and about 30 other folks. So if you always wanted to try and never had a chance - [feel free to create account and read stuff](https://rss.wspanialy.eu). Also if you do - Reeder on macOS and iOS is just unbelievably good. \n",
+				"date_published": "2023-07-04T23:48:44+02:00",
+				"url": "https://orzech.me/2023/07/04/for-the-past.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/04/i-was-wondering.html",
+				
+				"content_html": "<p>I was wondering why Threads weren&rsquo;t available in Poland but apparently that&rsquo;s be design. <a href=\"https://www.independent.ie/business/technology/no-instagram-threads-app-in-the-eu-irish-dpc-says-metas-new-twitter-rival-wont-be-launched-here/a1927220337.html\">Actually the entire EU will be excluded from Threads. </a></p>\n",
+				"content_text": "I was wondering why Threads weren't available in Poland but apparently that's be design. [Actually the entire EU will be excluded from Threads. ](https://www.independent.ie/business/technology/no-instagram-threads-app-in-the-eu-irish-dpc-says-metas-new-twitter-rival-wont-be-launched-here/a1927220337.html)\n",
+				"date_published": "2023-07-04T20:30:07+02:00",
+				"url": "https://orzech.me/2023/07/04/i-was-wondering.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/04/looking-for-a.html",
+				
+				"content_html": "<p>Looking for a Notes app with AI support that&rsquo;s not Notion. Anyone have any ideas? I&rsquo;m on macOS and iOS, so it would be cool if it would run on both. Notion is just to messy overall for me - i don&rsquo;t think like Notion system does.</p>\n",
+				"content_text": "Looking for a Notes app with AI support that's not Notion. Anyone have any ideas? I'm on macOS and iOS, so it would be cool if it would run on both. Notion is just to messy overall for me - i don't think like Notion system does. \n",
+				"date_published": "2023-07-04T20:27:08+02:00",
+				"url": "https://orzech.me/2023/07/04/looking-for-a.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/07/03/by-pure-accident.html",
 				
 				"content_html": "<p>By pure accident I&rsquo;ve found myself in the dark bathroom, with a camera and portable light. New profile picture appeared!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "By pure accident I've found myself in the dark bathroom, with a camera and portable light. New profile picture appeared! \n\n<img src=\"uploads/2023/avatar.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "By pure accident I've found myself in the dark bathroom, with a camera and portable light. New profile picture appeared! \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/avatar.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-03T18:40:29+02:00",
 				"url": "https://orzech.me/2023/07/03/by-pure-accident.html"
 			},
@@ -26,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/01/180653.html",
 				
 				"content_html": "<p>Good pics day two!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Good pics day two!\n\n<img src=\"uploads/2023/1bfe0691c5.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/6d905ae281.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/fb9f849743.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/e57bceaa20.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Good pics day two!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/1bfe0691c5.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/6d905ae281.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/fb9f849743.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/e57bceaa20.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-07-01T18:06:53+02:00",
 				"url": "https://orzech.me/2023/07/01/180653.html"
 			},
@@ -42,7 +114,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/01/good-pics-day.html",
 				
 				"content_html": "<p>Good pics day. 🤙</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Good pics day. 🤙\n\n<img src=\"uploads/2023/4490527af9.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/84c28a566c.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/2cf64c9b39.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/69a479821a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Good pics day. 🤙\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/4490527af9.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/84c28a566c.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/2cf64c9b39.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/69a479821a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-01T00:39:52+02:00",
 				"url": "https://orzech.me/2023/07/01/good-pics-day.html"
 			},
