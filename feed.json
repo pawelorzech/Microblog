@@ -7,10 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/07/15/today-and-tomorrow.html",
+				
+				"content_html": "<p>Today and tomorrow me &amp; my best mates are having semi-holidays. One of us has an empty flat that we furnished with our own gaming devices (monitors, TV&rsquo;s, consoles, etc.) and we spend the ENTIRE DAY playing games and having fun. I feel really blessed that we are able to do it and IT&rsquo;S THE BEST!</p>\n",
+				"content_text": "Today and tomorrow me & my best mates are having semi-holidays. One of us has an empty flat that we furnished with our own gaming devices (monitors, TV's, consoles, etc.) and we spend the ENTIRE DAY playing games and having fun. I feel really blessed that we are able to do it and IT'S THE BEST!\n",
+				"date_published": "2023-07-15T23:58:10+02:00",
+				"url": "https://orzech.me/2023/07/15/today-and-tomorrow.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/13/had-enough-of.html",
+				
+				"content_html": "<p>Had enough of the big sound system for a second, so moved onto secondary, small sound system.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had enough of the big sound system for a second, so moved onto secondary, small sound system. \n\n<img src=\"uploads/2023/27b00fe726.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-13T22:20:57+02:00",
+				"url": "https://orzech.me/2023/07/13/had-enough-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/11/dawid-podsiado-suddenly.html",
+				
+				"content_html": "<p>Dawid Podsiadło suddenly appeared in Cud nad Wisłą!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Dawid Podsiadło suddenly appeared in Cud nad Wisłą!\n\n<img src=\"uploads/2023/15353f986e.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/b6326a12a3.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d8c346c98b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/e1f22699f4.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-11T23:45:21+02:00",
+				"url": "https://orzech.me/2023/07/11/dawid-podsiado-suddenly.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/09/wilanw.html",
+				
+				"content_html": "<p>Wilanów.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Wilanów. \n\n<img src=\"uploads/2023/795927b12d.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/bc6568d5ac.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/09cd9eb709.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/42ad80af26.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-07-09T21:42:59+02:00",
+				"url": "https://orzech.me/2023/07/09/wilanw.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/09/also-pizza.html",
+				
+				"content_html": "<p>Also pizza.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Also pizza. \n\n<img src=\"uploads/2023/a59bf2f188.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-09T20:27:39+02:00",
+				"url": "https://orzech.me/2023/07/09/also-pizza.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/09/about-last-night.html",
+				
+				"content_html": "<p>About last night?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "About last night?\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/e3b31615a2.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/5a33b260e6.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/2d302d5113.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/0898443159.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-07-09T20:26:55+02:00",
+				"url": "https://orzech.me/2023/07/09/about-last-night.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/09/shakespeare-in-the.html",
+				
+				"content_html": "<p>Shakespeare in the park, neat idea actually</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Shakespeare in the park, neat idea actually\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/aa8da2c6da.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-09T20:15:51+02:00",
+				"url": "https://orzech.me/2023/07/09/shakespeare-in-the.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/07/09/wifey.html",
 				
 				"content_html": "<p>Wifey!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wifey!\n\n<img src=\"uploads/2023/d476b39904.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Wifey!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/d476b39904.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-09T00:49:13+02:00",
 				"url": "https://orzech.me/2023/07/09/wifey.html"
 			},
@@ -18,7 +74,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/07/hometown.html",
 				
 				"content_html": "<p>Hometown!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hometown!\n\n<img src=\"uploads/2023/b34c87eb30.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/35d453dbdc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ade590997b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hometown!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/b34c87eb30.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/35d453dbdc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/ade590997b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-07T20:30:22+02:00",
 				"url": "https://orzech.me/2023/07/07/hometown.html"
 			},
@@ -26,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/07/any-good-ios.html",
 				
 				"content_html": "<p>Any good iOS and MacOS apps that support chatgpt 4 api? Petey/GeePeeTee unfortunately doesn&rsquo;t.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Any good iOS and MacOS apps that support chatgpt 4 api? Petey/GeePeeTee unfortunately doesn't. \n\n<img src=\"uploads/2023/6915c7101e.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Any good iOS and MacOS apps that support chatgpt 4 api? Petey/GeePeeTee unfortunately doesn't. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/6915c7101e.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-07T10:36:35+02:00",
 				"url": "https://orzech.me/2023/07/07/any-good-ios.html"
 			},
@@ -34,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/06/thanks-i-would.html",
 				
 				"content_html": "<p>Thanks, I would like my right to privacy more than having an access to another Facebook&rsquo;s services though. I knew Gruber was doing more and more bad takes recently, but he&rsquo;s just becoming unreadable.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thanks, I would like my right to privacy more than having an access to another Facebook's services though. I knew Gruber was doing more and more bad takes recently, but he's just becoming unreadable. \n\n<img src=\"uploads/2023/screenshot-zdbl71ln-from-ivory-2023-07-06-at-22.04.382x.png\" width=\"600\" height=\"304\" alt=\"\">\n",
+				"content_text": "Thanks, I would like my right to privacy more than having an access to another Facebook's services though. I knew Gruber was doing more and more bad takes recently, but he's just becoming unreadable. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-zdbl71ln-from-ivory-2023-07-06-at-22.04.382x.png\" width=\"600\" height=\"304\" alt=\"\">\n",
 				"date_published": "2023-07-06T22:06:22+02:00",
 				"url": "https://orzech.me/2023/07/06/thanks-i-would.html"
 			},
@@ -42,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/06/thats-bonkers.html",
 				
 				"content_html": "<p>That&rsquo;s bonkers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That's bonkers. \n\n<img src=\"uploads/2023/1218d118051cb654.jpeg\" width=\"600\" height=\"361\" alt=\"\">\n",
+				"content_text": "That's bonkers. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/1218d118051cb654.jpeg\" width=\"600\" height=\"361\" alt=\"\">\n",
 				"date_published": "2023-07-06T12:36:13+02:00",
 				"url": "https://orzech.me/2023/07/06/thats-bonkers.html"
 			},
