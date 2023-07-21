@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/07/21/date-night-afternoon.html",
+				
+				"content_html": "<p>Date night (afternoon)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Date night (afternoon)\n\n<img src=\"uploads/2023/802ad98626.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-21T19:35:26+02:00",
+				"url": "https://orzech.me/2023/07/21/date-night-afternoon.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/20/new-face-who.html",
+				
+				"content_html": "<p>New face, who dis</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New face, who dis\n\n<img src=\"uploads/2023/bez-nazwy.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-20T18:04:04+02:00",
+				"url": "https://orzech.me/2023/07/20/new-face-who.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/20/earth-shatters-heat.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/\">Earth shatters heat records, faces uncharted extreme weather - The Washington Post</a></p>\n<blockquote>\n<p>(…) the planet experiencing its warmest June ever charted, according to new data.\nAnd then, on Monday, came Earth’s hottest day in at least 125,000 years. Tuesday was hotter.</p>\n</blockquote>\n<p>I’d say we’re fucked.</p>\n",
+				"content_text": "[Earth shatters heat records, faces uncharted extreme weather - The Washington Post](https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/)\n\n> (…) the planet experiencing its warmest June ever charted, according to new data.\nAnd then, on Monday, came Earth’s hottest day in at least 125,000 years. Tuesday was hotter.\n\nI’d say we’re fucked. \n",
+				"date_published": "2023-07-20T10:45:34+02:00",
+				"url": "https://orzech.me/2023/07/20/earth-shatters-heat.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/19/hot-pun-intended.html",
+				
+				"content_html": "<p>Hot (pun intended) tip for macOS users: <a href=\"https://github.com/macmade/Hot\">Hot App</a> will let you know what the current temp of your mac internals is. Downloaded because my mac felt hot and it showed that temp has risen to 90°C. (Mail.app was to blame)</p>\n",
+				"content_text": "Hot (pun intended) tip for macOS users: [Hot App](https://github.com/macmade/Hot) will let you know what the current temp of your mac internals is. Downloaded because my mac felt hot and it showed that temp has risen to 90°C. (Mail.app was to blame)\n",
+				"date_published": "2023-07-19T14:20:55+02:00",
+				"url": "https://orzech.me/2023/07/19/hot-pun-intended.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/18/vox-media-stops.html",
+				
+				"content_html": "<p><a href=\"https://www.axios.com/2023/07/18/vox-media-chorus\">Vox Media stops using Chorus, proprietary CMS, for its own websites</a></p>\n<blockquote>\n<p>Vox Media will move its own websites off of Chorus and into WordPress VIP, the enterprise arm of the 20-year-old CMS company.</p>\n</blockquote>\n<p>Interesting move. Good job WordPress?</p>\n",
+				"content_text": "[Vox Media stops using Chorus, proprietary CMS, for its own websites](https://www.axios.com/2023/07/18/vox-media-chorus)\r\n\r\n> Vox Media will move its own websites off of Chorus and into WordPress VIP, the enterprise arm of the 20-year-old CMS company.\r\n\r\nInteresting move. Good job WordPress?\n",
+				"date_published": "2023-07-18T21:46:34+02:00",
+				"url": "https://orzech.me/2023/07/18/vox-media-stops.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/17/guardians-of-the.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/447365\">Guardians of the Galaxy Vol. 3 (2023)</a> - ★★★★☆</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg\" alt=\"Guardians of the Galaxy Vol. 3 poster\"></p>\n",
+				"content_text": "🍿 [Guardians of the Galaxy Vol. 3 (2023)](https://www.themoviedb.org/movie/447365) - ★★★★☆\r\n\r\n![Guardians of the Galaxy Vol. 3 poster](https://image.tmdb.org/t/p/w780/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg)\n",
+				"date_published": "2023-07-17T20:41:24+02:00",
+				"url": "https://orzech.me/2023/07/17/guardians-of-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/17/also-arc-browser.html",
+				
+				"content_html": "<p>Also Arc Browser works great on my 4k screen, but going down just to macbook&rsquo;s screen is so painful.</p>\n",
+				"content_text": "Also Arc Browser works great on my 4k screen, but going down just to macbook's screen is so painful. \n",
+				"date_published": "2023-07-17T12:39:30+02:00",
+				"url": "https://orzech.me/2023/07/17/also-arc-browser.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/17/arc-browser-is.html",
+				
+				"content_html": "<p>Arc Browser is becoming more and more sluggish even though they said they are gonna work on its performance. Considering switch to Safari (personal) + Chrome (work) because of it.</p>\n",
+				"content_text": "Arc Browser is becoming more and more sluggish even though they said they are gonna work on its performance. Considering switch to Safari (personal) + Chrome (work) because of it. \n",
+				"date_published": "2023-07-17T12:29:46+02:00",
+				"url": "https://orzech.me/2023/07/17/arc-browser-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/16/yeah-not-sure.html",
+				
+				"content_html": "<p>Yeah, not sure about that, but I&rsquo;ll take that as a compliment I guess?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yeah, not sure about that, but I'll take that as a compliment I guess?\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/image.png\" width=\"600\" height=\"277\" alt=\"\">\n",
+				"date_published": "2023-07-16T00:04:43+02:00",
+				"url": "https://orzech.me/2023/07/16/yeah-not-sure.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/07/15/also-i-spent.html",
+				
+				"content_html": "<p>Also I spent another 6 hours in Zelda:ToTK - it&rsquo;s such a masterpiece. 75% of that time was just doing shrines and stuff like that and then 25% - finally pushed the main story forward and did the first phenomena. It&rsquo;s so cool!</p>\n",
+				"content_text": "Also I spent another 6 hours in Zelda:ToTK - it's such a masterpiece. 75% of that time was just doing shrines and stuff like that and then 25% - finally pushed the main story forward and did the first phenomena. It's so cool! \n",
+				"date_published": "2023-07-15T23:59:49+02:00",
+				"url": "https://orzech.me/2023/07/15/also-i-spent.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/07/15/today-and-tomorrow.html",
 				
 				"content_html": "<p>Today and tomorrow me &amp; my best mates are having semi-holidays. One of us has an empty flat that we furnished with our own gaming devices (monitors, TV&rsquo;s, consoles, etc.) and we spend the ENTIRE DAY playing games and having fun. I feel really blessed that we are able to do it and IT&rsquo;S THE BEST!</p>\n",
@@ -18,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/13/had-enough-of.html",
 				
 				"content_html": "<p>Had enough of the big sound system for a second, so moved onto secondary, small sound system.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had enough of the big sound system for a second, so moved onto secondary, small sound system. \n\n<img src=\"uploads/2023/27b00fe726.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Had enough of the big sound system for a second, so moved onto secondary, small sound system. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/27b00fe726.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-13T22:20:57+02:00",
 				"url": "https://orzech.me/2023/07/13/had-enough-of.html"
 			},
@@ -26,7 +106,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/11/dawid-podsiado-suddenly.html",
 				
 				"content_html": "<p>Dawid Podsiadło suddenly appeared in Cud nad Wisłą!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Dawid Podsiadło suddenly appeared in Cud nad Wisłą!\n\n<img src=\"uploads/2023/15353f986e.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/b6326a12a3.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/d8c346c98b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/e1f22699f4.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Dawid Podsiadło suddenly appeared in Cud nad Wisłą!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/15353f986e.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/b6326a12a3.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/d8c346c98b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/e1f22699f4.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-11T23:45:21+02:00",
 				"url": "https://orzech.me/2023/07/11/dawid-podsiado-suddenly.html"
 			},
@@ -34,7 +114,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/09/wilanw.html",
 				
 				"content_html": "<p>Wilanów.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Wilanów. \n\n<img src=\"uploads/2023/795927b12d.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/bc6568d5ac.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/09cd9eb709.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/42ad80af26.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Wilanów. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/795927b12d.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/bc6568d5ac.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/09cd9eb709.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/42ad80af26.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-07-09T21:42:59+02:00",
 				"url": "https://orzech.me/2023/07/09/wilanw.html"
 			},
@@ -42,7 +122,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/07/09/also-pizza.html",
 				
 				"content_html": "<p>Also pizza.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Also pizza. \n\n<img src=\"uploads/2023/a59bf2f188.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Also pizza. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/a59bf2f188.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-09T20:27:39+02:00",
 				"url": "https://orzech.me/2023/07/09/also-pizza.html"
 			},
