@@ -7,6 +7,126 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/08/20/love-it.html",
+				
+				"content_html": "<p>Love it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Love it. \n\n<img src=\"uploads/2023/3b6430e3a6.jpg\" width=\"374\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-20T11:29:18+02:00",
+				"url": "https://orzech.me/2023/08/20/love-it.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/18/i-like-playing.html",
+				
+				"content_html": "<p>I like playing paper Magic with my friends.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I like playing paper Magic with my friends. \n\n<img src=\"uploads/2023/bdbff4a655.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-08-18T02:06:15+02:00",
+				"url": "https://orzech.me/2023/08/18/i-like-playing.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/17/theres-c-difference.html",
+				
+				"content_html": "<p>There&rsquo;s 9°C difference between outside and inside in case of living room because of AC. Bonkers how hot it is.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "There's 9°C difference between outside and inside in case of living room because of AC. Bonkers how hot it is.\n\n<img src=\"uploads/2023/screenshot-inruhunq-from-dom-2023-08-17-at-16.17.192x.png\" width=\"435\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-17T16:18:12+02:00",
+				"url": "https://orzech.me/2023/08/17/theres-c-difference.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/16/glad-to-have.html",
+				
+				"content_html": "<p>Glad to have an experience of hearing Alt-j live. My inner 16 is having the time of his life!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Glad to have an experience of hearing Alt-j live. My inner 16 is having the time of his life!\n\n<img src=\"uploads/2023/4fe2c7f39b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/923cb79b99.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/36809405f9.jpg\" width=\"600\" height=\"380\" alt=\"\"><img src=\"uploads/2023/a95c646701.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-08-16T22:48:11+02:00",
+				"url": "https://orzech.me/2023/08/16/glad-to-have.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/16/looking-at-my.html",
+				
+				"content_html": "<p>Looking at my menubar I think I need to download that <a href=\"https://matthewpalmer.net/vanilla/\">Vanilla</a> or Bartender&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Looking at my menubar I think I need to download that [Vanilla](https://matthewpalmer.net/vanilla/) or Bartender...\n\n<img src=\"uploads/2023/screenshot-kvxlquik-from-cleanshot-2023-08-16-at-17.20.442x.png\" width=\"600\" height=\"375\" alt=\"\">\n",
+				"date_published": "2023-08-16T17:28:27+02:00",
+				"url": "https://orzech.me/2023/08/16/looking-at-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/16/what-the-actual.html",
+				
+				"content_html": "<p>What the actual fuck Sony, really? You can&rsquo;t have a captcha or whatever? I have do counting to log in to spend my money?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What the actual fuck Sony, really? You can't have a captcha or whatever? I have do counting to log in to spend my money? \n\n<img src=\"uploads/2023/screenshot-yhuczo4h-from-arc-2023-08-16-at-12.28.18.png\" width=\"575\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-16T12:29:03+02:00",
+				"url": "https://orzech.me/2023/08/16/what-the-actual.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/16/never-change-mail.html",
+				
+				"content_html": "<p>Never change, mail App.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Never change, mail App. \n\n<img src=\"uploads/2023/1740e99d4b.jpg\" width=\"277\" height=\"600\" alt=\"\"><img src=\"uploads/2023/9dc64d7a68.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-16T12:15:26+02:00",
+				"url": "https://orzech.me/2023/08/16/never-change-mail.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/16/i-was-able.html",
+				
+				"content_html": "<p>I was able to function until very late for the past couple of days, but tomorrow I&rsquo;ve got to be up and ready in the morning, so this time I&rsquo;m trying to go back to sleep but also still trying to get in these another couple minutes.</p>\n",
+				"content_text": "I was able to function until very late for the past couple of days, but tomorrow I've got to be up and ready in the morning, so this time I'm trying to go back to sleep but also still trying to get in these another couple minutes. \n",
+				"date_published": "2023-08-16T01:06:35+02:00",
+				"url": "https://orzech.me/2023/08/16/i-was-able.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/15/yeah-regarding-that.html",
+				
+				"content_html": "<p>Yeah, regarding that last SigmaOS post - there&rsquo;s no way in hell I&rsquo;m gonna pay for a browser. Like, really, no way. Even if everything else is paid, Safari is going to be free and going strong. So Arc stays, bye bye to SigmaOS. That was a quick one.</p>\n",
+				"content_text": "Yeah, regarding that last SigmaOS post - there's no way in hell I'm gonna pay for a browser. Like, really, no way. Even if everything else is paid, Safari is going to be free and going strong. So Arc stays, bye bye to SigmaOS. That was a quick one.\n",
+				"date_published": "2023-08-15T18:38:32+02:00",
+				"url": "https://orzech.me/2023/08/15/yeah-regarding-that.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/15/just-found-out.html",
+				
+				"content_html": "<p>Just found out about <a href=\"https://sigmaos.com/#refer?userId=28116EA7-BB43-4D05-B1E8-C6CCD86E80D6&amp;name=Pawel%20Orzech\">SigmaOS</a> - it’s a different approach to browser, just like Arc. Testing it out because it looks… nice? Also it’s much faster than Arc is!</p>\n",
+				"content_text": "Just found out about [SigmaOS](https://sigmaos.com/#refer?userId=28116EA7-BB43-4D05-B1E8-C6CCD86E80D6&name=Pawel%20Orzech) - it’s a different approach to browser, just like Arc. Testing it out because it looks… nice? Also it’s much faster than Arc is! \n",
+				"date_published": "2023-08-15T18:16:40+02:00",
+				"url": "https://orzech.me/2023/08/15/just-found-out.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/15/gluon-for-microblog.html",
+				
+				"content_html": "<p>Gluon for micro.blog got updated and somehow is now thousand times faster when it comes to loading timeline. Great stuff!</p>\n",
+				"content_text": "Gluon for micro.blog got updated and somehow is now thousand times faster when it comes to loading timeline. Great stuff!\n",
+				"date_published": "2023-08-15T02:15:07+02:00",
+				"url": "https://orzech.me/2023/08/15/gluon-for-microblog.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/15/is-there-an.html",
+				
+				"content_html": "<p>Is there an app to use with #TheMovieDB? One that supports rating? #TMDB</p>\n",
+				"content_text": "Is there an app to use with #TheMovieDB? One that supports rating? #TMDB\n",
+				"date_published": "2023-08-15T01:21:04+02:00",
+				"url": "https://orzech.me/2023/08/15/is-there-an.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/14/today-is-one.html",
+				
+				"content_html": "<p>Today is one of these days. Started about seven different things and accomplished none. Slightly irritating but whatever, I&rsquo;d be more pissed if I HAD to do a thing. Thankfully these were missions assigned by myself.</p>\n",
+				"content_text": "Today is one of these days. Started about seven different things and accomplished none. Slightly irritating but whatever, I'd be more pissed if I HAD to do a thing. Thankfully these were missions assigned by myself. \n",
+				"date_published": "2023-08-14T21:37:54+02:00",
+				"url": "https://orzech.me/2023/08/14/today-is-one.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/14/got-new-scans.html",
+				
+				"content_html": "<p>Got new scans back.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Got new scans back. \n\n<img src=\"uploads/2023/2a63cfaaa6.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0eb59f7463.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/5bef257f41.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/4640d927c5.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-14T18:54:34+02:00",
+				"url": "https://orzech.me/2023/08/14/got-new-scans.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/08/14/oh-maybe-simplex.html",
+				
+				"content_html": "<p>Oh, maybe <a href=\"https://apps.apple.com/pl/app/simplex-chat-secure-messenger/id1605771084\">SimpleX</a> could be the private, secure AND anonymous text messaging platform that Signal still isn&rsquo;t?</p>\n<p>If needed - it me: <em><a href=\"https://simplex.chat/contact#/?v=1-4&amp;smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2Fl_L9IO3I1ax1XaNOlnf0kignDRQokb3Q%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_dKK8std2mfzBzyAnA-leTircdd0eiBcwd8CP4ys-Cw%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion\">me</a></em></p>\n",
+				"content_text": "Oh, maybe [SimpleX](https://apps.apple.com/pl/app/simplex-chat-secure-messenger/id1605771084) could be the private, secure AND anonymous text messaging platform that Signal still isn't?\n\nIf needed - it me: *[me](https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2Fl_L9IO3I1ax1XaNOlnf0kignDRQokb3Q%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA_dKK8std2mfzBzyAnA-leTircdd0eiBcwd8CP4ys-Cw%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion)*\n",
+				"date_published": "2023-08-14T00:20:38+02:00",
+				"url": "https://orzech.me/2023/08/14/oh-maybe-simplex.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/08/14/i-think-this.html",
 				
 				"content_html": "<p>I think this is a photo that looks better with a white border. So here it is with a white border.</p>\n<!-- raw HTML omitted -->\n",
