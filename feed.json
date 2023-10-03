@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/10/03/just-when-i.html",
+				
+				"content_html": "<p>Just when I wanted to leave Arc and use something like Vivaldi, <a href=\"https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios\">Arc is doing something cool again. </a></p>\n",
+				"content_text": "Just when I wanted to leave Arc and use something like Vivaldi, [Arc is doing something cool again. ](https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios)\n",
+				"date_published": "2023-10-03T21:41:06+02:00",
+				"url": "https://pnut.pl/2023/10/03/just-when-i.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/02/i-wanted-to.html",
+				
+				"content_html": "<p>I wanted to actually think about starting Lemmy instance but honestly all of this content moderation made me instantly regret it. I think it would be fun to host it as in technical part of things, but all of the rest is definitely not fun.</p>\n",
+				"content_text": "I wanted to actually think about starting Lemmy instance but honestly all of this content moderation made me instantly regret it. I think it would be fun to host it as in technical part of things, but all of the rest is definitely not fun.\n",
+				"date_published": "2023-10-02T15:21:37+02:00",
+				"url": "https://pnut.pl/2023/10/02/i-wanted-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/30/autostadt-is-still.html",
+				
+				"content_html": "<p>Autostadt is still pretty fine.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Autostadt is still pretty fine. \n\n<img src=\"uploads/2023/6f1009216e.jpg\" width=\"429\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ba2c71d1de.jpg\" width=\"410\" height=\"600\" alt=\"\"><img src=\"uploads/2023/c87ba208cb.jpg\" width=\"406\" height=\"600\" alt=\"\"><img src=\"uploads/2023/53a730a347.jpg\" width=\"435\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-30T19:19:06+02:00",
+				"url": "https://pnut.pl/2023/09/30/autostadt-is-still.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/30/birds.html",
+				
+				"content_html": "<p>Bird(s)!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Bird(s)! \n\n<img src=\"uploads/2023/97292362eb.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/d8bae6e512.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-09-30T19:18:09+02:00",
+				"url": "https://pnut.pl/2023/09/30/birds.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/30/wifiman-is-just.html",
+				
+				"content_html": "<p>WiFiman is just great tool. Everytime I&rsquo;m outside and need to do something on local machines I&rsquo;m thanking myself for picking Ubi Dream Machine as router because it&rsquo;s just so easy to do stuff there! And no-configuration VPN is perfect.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "WiFiman is just great tool. Everytime I'm outside and need to do something on local machines I'm thanking myself for picking Ubi Dream Machine as router because it's just so easy to do stuff there! And no-configuration VPN is perfect.\n\n<img src=\"uploads/2023/screenshot-grcfw7zf-from-wifiman-2023-09-30-at-10.32.172x.png\" width=\"600\" height=\"496\" alt=\"\">\n",
+				"date_published": "2023-09-30T10:33:26+02:00",
+				"url": "https://pnut.pl/2023/09/30/wifiman-is-just.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/29/couple-shots-from.html",
+				
+				"content_html": "<p>Couple shots from Germany.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Couple shots from Germany. \n\n<img src=\"uploads/2023/7c879f795f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0625b3cf5b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/d0fa12bc53.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/6193e64867.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-29T21:56:31+02:00",
+				"url": "https://pnut.pl/2023/09/29/couple-shots-from.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/29/food-in-germany.html",
+				
+				"content_html": "<p>Food in Germany isn’t that bad.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Food in Germany isn’t that bad. \n\n<img src=\"uploads/2023/8dd3982a96.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/423cda011e.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/91af10286e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/8cb34af23c.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-29T21:55:54+02:00",
+				"url": "https://pnut.pl/2023/09/29/food-in-germany.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/29/i-love-how.html",
+				
+				"content_html": "<p>I love how many these <a href=\"https://artifact.news/posts/p/2864785245627586281?s=1119732839228526038\">prominent CEO</a>s have Signal installed. I mean if they use it to talk - and they do have lots to keep private because that would bury them - then I feel better about it. Signal is great.</p>\n<p><a href=\"https://artifact.news/posts/p/2864785245627586281?s=1119732839228526038\"></a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love how many these [prominent CEO](https://artifact.news/posts/p/2864785245627586281?s=1119732839228526038)s have Signal installed. I mean if they use it to talk - and they do have lots to keep private because that would bury them - then I feel better about it. Signal is great. \n\n[](https://artifact.news/posts/p/2864785245627586281?s=1119732839228526038)\n\n<img src=\"uploads/2023/9d31c297d7.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-29T17:17:08+02:00",
+				"url": "https://pnut.pl/2023/09/29/i-love-how.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/09/28/also-obligatory-fuck.html",
+				
+				"content_html": "<p>Also - obligatory - fuck smoking. If you&rsquo;re cigarette enthusiast, stop, live better life.</p>\n",
+				"content_text": "Also - obligatory - fuck smoking. If you're cigarette enthusiast, stop, live better life.\n",
+				"date_published": "2023-09-28T21:11:28+02:00",
+				"url": "https://pnut.pl/2023/09/28/also-obligatory-fuck.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/09/28/if-someone-asked.html",
 				
 				"content_html": "<p>If someone asked me how this time meeting dad would be interesting I wouldn&rsquo;t say &ldquo;he woke up from two week&rsquo;s coma&rdquo; but here we are. He woke up and he&rsquo;s getting better. Fuck, these last two weeks weren&rsquo;t really my cup of tea.</p>\n",
