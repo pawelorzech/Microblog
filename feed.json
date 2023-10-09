@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/i-hope-apple.html",
+				
+				"content_html": "<p>I hope Apple is going to refresh iMacs and Mac Minis to M2/M3 quite quickly because yo boy here is on the market to maybe pull the trigger somewhere there.</p>\n",
+				"content_text": "I hope Apple is going to refresh iMacs and Mac Minis to M2/M3 quite quickly because yo boy here is on the market to maybe pull the trigger somewhere there.\n",
+				"date_published": "2023-10-09T11:25:21+02:00",
+				"url": "https://pnut.pl/2023/10/09/i-hope-apple.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/08/ive-grown-to.html",
+				
+				"content_html": "<p>I’ve grown to love this watchface.</p>\n<p><img src=\"https://pnut.pl/uploads/2023/db08d4a8da.jpg\" alt=\"https://pnut.pl/uploads/2023/db08d4a8da.jpg\"></p>\n",
+				"content_text": "I’ve grown to love this watchface.\n\n![https://pnut.pl/uploads/2023/db08d4a8da.jpg](https://pnut.pl/uploads/2023/db08d4a8da.jpg)\n",
+				"date_published": "2023-10-08T16:35:59+02:00",
+				"url": "https://pnut.pl/2023/10/08/ive-grown-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/06/i-am-apple.html",
+				
+				"content_html": "<p>I am Apple Music user, love the quality, I have my fav playlists there. BUT because I&rsquo;m  YT Premium subscriber I&rsquo;ve got an access to YouTube Music. It&rsquo;s not the highest quality, of course, but it does work fine and in the web browser it actually works thousand times better than AM ever was.</p>\n",
+				"content_text": "I am Apple Music user, love the quality, I have my fav playlists there. BUT because I'm  YT Premium subscriber I've got an access to YouTube Music. It's not the highest quality, of course, but it does work fine and in the web browser it actually works thousand times better than AM ever was. \n",
+				"date_published": "2023-10-06T12:11:54+02:00",
+				"url": "https://pnut.pl/2023/10/06/i-am-apple.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/06/this-is-definitely.html",
+				
+				"content_html": "<p>This is definitely going to be a tricky one, but&hellip; is there an easy way (or cheap way) to move all of my #homekit onto something less iOS exclusive? If one would, like, want to get an #Android phone, then what would that one be able to do about current smart home? #smarthome</p>\n",
+				"content_text": "This is definitely going to be a tricky one, but... is there an easy way (or cheap way) to move all of my #homekit onto something less iOS exclusive? If one would, like, want to get an #Android phone, then what would that one be able to do about current smart home? #smarthome\n",
+				"date_published": "2023-10-06T01:06:40+02:00",
+				"url": "https://pnut.pl/2023/10/06/this-is-definitely.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/05/i-wish-it.html",
+				
+				"content_html": "<p>I wish it was easier to move to Pixel. I&rsquo;d love to hop on that blue Pixel Pro train.</p>\n",
+				"content_text": "I wish it was easier to move to Pixel. I'd love to hop on that blue Pixel Pro train.\n",
+				"date_published": "2023-10-05T00:57:37+02:00",
+				"url": "https://pnut.pl/2023/10/05/i-wish-it.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/10/03/just-when-i.html",
 				
 				"content_html": "<p>Just when I wanted to leave Arc and use something like Vivaldi, <a href=\"https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios\">Arc is doing something cool again. </a></p>\n",
