@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/10/15/i-voted.html",
+				
+				"content_html": "<p>I voted! 🤙🏻</p>\n",
+				"content_text": "I voted! 🤙🏻\n",
+				"date_published": "2023-10-15T14:05:53+02:00",
+				"url": "https://pnut.pl/2023/10/15/i-voted.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/11/its-one-of.html",
+				
+				"content_html": "<p>It&rsquo;s one of only few YouTube videos that deliver exactly what they have in the title.</p>\n<blockquote>\n<p>Horse kicks tree, farts on dogs then runs away.\n<a href=\"https://www.youtube.com/watch?v=KCzwyFHSMdY\">www.youtube.com/watch</a></p>\n</blockquote>\n",
+				"content_text": "It's one of only few YouTube videos that deliver exactly what they have in the title.\r\n\r\n>Horse kicks tree, farts on dogs then runs away.\r\n[www.youtube.com/watch](https://www.youtube.com/watch?v=KCzwyFHSMdY)\n",
+				"date_published": "2023-10-11T10:59:10+02:00",
+				"url": "https://pnut.pl/2023/10/11/its-one-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/11/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if renting stuff out instead of owning it is a good idea. For example phone - I’d just be paying subscription to have one and then each year I’d be getting new one without thinking what to do with the old one. I’m really not opposed to that.</p>\n",
+				"content_text": "I wonder if renting stuff out instead of owning it is a good idea. For example phone - I’d just be paying subscription to have one and then each year I’d be getting new one without thinking what to do with the old one. I’m really not opposed to that. \n",
+				"date_published": "2023-10-11T00:49:00+02:00",
+				"url": "https://pnut.pl/2023/10/11/i-wonder-if.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/10/oh-wow-bing.html",
+				
+				"content_html": "<p>Oh wow, Bing really IS better than Google. I mean - Kagi is better than both of these but I ain&rsquo;t gonna pay 10 bucks to search the world wide web. (or am I?)</p>\n",
+				"content_text": "Oh wow, Bing really IS better than Google. I mean - Kagi is better than both of these but I ain't gonna pay 10 bucks to search the world wide web. (or am I?)\n",
+				"date_published": "2023-10-10T10:15:18+02:00",
+				"url": "https://pnut.pl/2023/10/10/oh-wow-bing.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/if-this-spotify.html",
+				
+				"content_html": "<p>If this Spotify Superpremium is going to cost ~60-75pln for family of six I’m gonna leave apple music and get this, add my mom and my dad and just live happily ever after.</p>\n",
+				"content_text": "If this Spotify Superpremium is going to cost ~60-75pln for family of six I’m gonna leave apple music and get this, add my mom and my dad and just live happily ever after. \n",
+				"date_published": "2023-10-09T23:39:01+02:00",
+				"url": "https://pnut.pl/2023/10/09/if-this-spotify.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/the-workplace-trend.html",
+				
+				"content_html": "<blockquote>\n<p>The workplace trend involves showing up at the office, grabbing a coffee, and then leaving to complete the workday somewhere else. Employees collect a metaphorical &ldquo;badge&rdquo; for visiting the office, even if it&rsquo;s only for a few hours. - <a href=\"https://www.businessinsider.com/hybrid-workers-return-to-office-coffee-badging-remote-work-2023-10\">source</a></p>\n</blockquote>\n<p>😂😂😂</p>\n",
+				"content_text": "> The workplace trend involves showing up at the office, grabbing a coffee, and then leaving to complete the workday somewhere else. Employees collect a metaphorical \"badge\" for visiting the office, even if it's only for a few hours. - [source](https://www.businessinsider.com/hybrid-workers-return-to-office-coffee-badging-remote-work-2023-10)\n\n😂😂😂\n",
+				"date_published": "2023-10-09T23:30:39+02:00",
+				"url": "https://pnut.pl/2023/10/09/the-workplace-trend.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/this-is-the.html",
+				
+				"content_html": "<p>This is the worst thing I&rsquo;ve ever seen.</p>\n<p>Source: <a href=\"https://twitter.com/soren_iverson/status/1711018610217390271/photo/1\">Soren Iverson on x.com</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is the worst thing I've ever seen.\r\n\r\nSource: [Soren Iverson on x.com](https://twitter.com/soren_iverson/status/1711018610217390271/photo/1)\n\n<img src=\"uploads/2023/f74brpwbqaahqmk.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-09T16:08:39+02:00",
+				"url": "https://pnut.pl/2023/10/09/this-is-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/iphone-se-details.html",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://www.macrumors.com/2023/09/27/iphone-se-4-details/\">iPhone SE 4 Details: Action Button, USB-C Port, Face ID, and More</a></p>\n</blockquote>\n<p>Basically iPhone 14 with usb-c. I&rsquo;m all for it and actually I&rsquo;ll be inclined to &ldquo;downgrade&rdquo; from 14 Plus to it. And if they keep price so low this will be a no-brainer.</p>\n",
+				"content_text": ">[iPhone SE 4 Details: Action Button, USB-C Port, Face ID, and More](https://www.macrumors.com/2023/09/27/iphone-se-4-details/)\r\n\r\nBasically iPhone 14 with usb-c. I'm all for it and actually I'll be inclined to \"downgrade\" from 14 Plus to it. And if they keep price so low this will be a no-brainer. \n",
+				"date_published": "2023-10-09T13:41:41+02:00",
+				"url": "https://pnut.pl/2023/10/09/iphone-se-details.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/had-to-restore.html",
+				
+				"content_html": "<p>Had to restore <a href=\"https://forum.yeswas.pl\">forum</a> from backup yesterday because my previous nginx configuration messed up with let&rsquo;s encrypt and it was just easier and quicker to boot up another machine and restore it from backup. Anyway, here&rsquo;s my face after 2 hours of &ldquo;just gonna update Discourse quickly and go to bed&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had to restore [forum](https://forum.yeswas.pl) from backup yesterday because my previous nginx configuration messed up with let's encrypt and it was just easier and quicker to boot up another machine and restore it from backup. Anyway, here's my face after 2 hours of \"just gonna update Discourse quickly and go to bed\".\n\n<img src=\"uploads/2023/image-2023-10-09-003346.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2023-10-09T11:32:08+02:00",
+				"url": "https://pnut.pl/2023/10/09/had-to-restore.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/10/09/also-after-moving.html",
+				
+				"content_html": "<p>Also after moving to mostly one-desk-to-do-it-all setup I think Mac Mini IN ADDITION to my current M1 Air isn&rsquo;t that bad idea? Beefing it up a bit and it could be much better setup but I would still be able to move between places with Air. All these ideas are great until money becomes a topic.</p>\n",
+				"content_text": "Also after moving to mostly one-desk-to-do-it-all setup I think Mac Mini IN ADDITION to my current M1 Air isn't that bad idea? Beefing it up a bit and it could be much better setup but I would still be able to move between places with Air. All these ideas are great until money becomes a topic.\n",
+				"date_published": "2023-10-09T11:28:17+02:00",
+				"url": "https://pnut.pl/2023/10/09/also-after-moving.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/10/09/i-hope-apple.html",
 				
 				"content_html": "<p>I hope Apple is going to refresh iMacs and Mac Minis to M2/M3 quite quickly because yo boy here is on the market to maybe pull the trigger somewhere there.</p>\n",
