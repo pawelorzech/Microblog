@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/11/10/the-humane-ai.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://512pixels.net/2023/11/the-humane-ai-pin/\">The Humane AI Pin – 512 Pixels</a></p>\n<blockquote>\n<p>A Buddhist monk named Brother Spirit led them to Humane. Mr. Chaudhri and Ms. Bongiorno had developed concepts for two A.I. products: a women’s health device and the pin. Brother Spirit, whom they met through their acupuncturist, recommended that they share the ideas with his friend, Marc Benioff, the founder of Salesforce.</p>\n</blockquote>\n",
+				"content_text": "🔗 [The Humane AI Pin – 512 Pixels](https://512pixels.net/2023/11/the-humane-ai-pin/)\r\n\r\n> A Buddhist monk named Brother Spirit led them to Humane. Mr. Chaudhri and Ms. Bongiorno had developed concepts for two A.I. products: a women’s health device and the pin. Brother Spirit, whom they met through their acupuncturist, recommended that they share the ideas with his friend, Marc Benioff, the founder of Salesforce.\n",
+				"date_published": "2023-11-10T19:24:44+01:00",
+				"url": "https://pawel.orzech.me/2023/11/10/the-humane-ai.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/09/publish-quote-heydingus.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://heydingus.net/shortcuts/publish-quote\">Publish Quote - HeyDingus</a></p>\n<blockquote>\n<p>This shortcut provides a quick and easy way to publish a blockquote from a Safari webpage (or in-app Safari web view), with or without a comment, to Micro.blog.</p>\n</blockquote>\n",
+				"content_text": "🔗 [Publish Quote - HeyDingus](https://heydingus.net/shortcuts/publish-quote)\r\n\r\n> This shortcut provides a quick and easy way to publish a blockquote from a Safari webpage (or in-app Safari web view), with or without a comment, to Micro.blog.\n",
+				"date_published": "2023-11-09T23:14:57+01:00",
+				"url": "https://pawel.orzech.me/2023/11/09/publish-quote-heydingus.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/08/public-username-testing.html",
+				
+				"content_html": "<p><a href=\"https://community.signalusers.org/t/public-username-testing-staging-environment/56866\">Public Username Testing (Staging Environment) - Beta Feedback - Signal Community</a></p>\n<p>Signal is introducing usernames on staging environment! Cool, it’s coming sooner than later then I guess.</p>\n",
+				"content_text": "[Public Username Testing (Staging Environment) - Beta Feedback - Signal Community](https://community.signalusers.org/t/public-username-testing-staging-environment/56866)\n\nSignal is introducing usernames on staging environment! Cool, it’s coming sooner than later then I guess. \n",
+				"date_published": "2023-11-08T23:59:29+01:00",
+				"url": "https://pawel.orzech.me/2023/11/08/public-username-testing.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/08/i-wish-arc.html",
+				
+				"content_html": "<p>I wish Arc just wasn&rsquo;t that good and I could simply use Safari but no, of course, it&rsquo;s not that easy and Arc is basically the best browser out there, damn you</p>\n",
+				"content_text": "I wish Arc just wasn't that good and I could simply use Safari but no, of course, it's not that easy and Arc is basically the best browser out there, damn you\n",
+				"date_published": "2023-11-08T00:37:27+01:00",
+				"url": "https://pawel.orzech.me/2023/11/08/i-wish-arc.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/07/oh-this-is.html",
+				
+				"content_html": "<p>Oh this is awesome, you can just <a href=\"https://defaults.rknight.me/opml.xml\">download OPML with RSS feeds</a> to all of the <a href=\"https://defaults.rknight.me/\">&lsquo;default&rsquo; blogs</a>!</p>\n",
+				"content_text": "Oh this is awesome, you can just [download OPML with RSS feeds](https://defaults.rknight.me/opml.xml) to all of the ['default' blogs](https://defaults.rknight.me/)!\r\n\r\n",
+				"date_published": "2023-11-07T23:04:25+01:00",
+				"url": "https://pawel.orzech.me/2023/11/07/oh-this-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/07/my-defaults.html",
+				"title": "My defaults",
+				"content_html": "<p><!-- raw HTML omitted -->So because of Hemispheric Views 097, now people are posting their defaults, I guess it&rsquo;s time for me too!<!-- raw HTML omitted --></p>\n<p>📨 Mail Client: <a href=\"https://ref.fm/u26294944\">Fastmail.app</a> on iOS, Mail.app on Mac</p>\n<p>📮 Mail Server: <a href=\"https://ref.fm/u26294944\">Fastmail</a></p>\n<p>📝 Notes: Drafts and Notes</p>\n<p>✅ To-Do: <a href=\"https://web.akiflow.com/referral?name=UGF3ZcWC&amp;referral=6mu9V2AT6nyosiOc\">Akiflow</a> and Reminders</p>\n<p>📷 iPhone Photo Shooting: Camera app</p>\n<p>🟦 Photo Management: Lightroom</p>\n<p>📆 Calendar: Calendar on iOS, Akiflow on Mac</p>\n<p>📁 Cloud File Storage: iCloud + Backblaze B2</p>\n<p>📖 RSS: <!-- raw HTML omitted -->FreshRSS<!-- raw HTML omitted --> with Reeder</p>\n<p>🙍🏻‍♂️ Contacts: Contacts</p>\n<p>🌐 Browser: Arc and Safari</p>\n<p>💬 Chat: Telegram, Signal, WhatsApp</p>\n<p>🔖 Bookmarks: Arc</p>\n<p>📑 Read It Later: Good Links</p>\n<p>🤖 Mastodon: Ivory and IceCubes</p>\n<p>⌨️ Launcher: Raycast</p>\n<p>📜 Word Processing: Drafts  ¯\\_(ツ)_/¯</p>\n<p>📈 Spreadsheets: Google Sheets</p>\n<p>📊 Presentations: Google Slides</p>\n<p>🛒 Shopping Lists: Reminders</p>\n<p>💰 Budgeting and Personal Finance: YNAB</p>\n<p>📰 News: <!-- raw HTML omitted -->RSS<!-- raw HTML omitted --></p>\n<p>🎵 Music: Apple Music</p>\n<p>🎤 Podcasts: Pocket Casts</p>\n<p>🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX</p>\n<p>🔐 Password Management: 1Password</p>\n<p>👨🏻‍💻 Terminal: WebSSH</p>\n",
+				"content_text": "<a href=\"https://defaults.rknight.me/\">So because of Hemispheric Views 097, now people are posting their defaults, I guess it's time for me too!</a>\n\n📨 Mail Client: [Fastmail.app](https://ref.fm/u26294944) on iOS, Mail.app on Mac\n\n📮 Mail Server: [Fastmail](https://ref.fm/u26294944)\n\n📝 Notes: Drafts and Notes\n\n✅ To-Do: [Akiflow](https://web.akiflow.com/referral?name=UGF3ZcWC&referral=6mu9V2AT6nyosiOc) and Reminders\n\n📷 iPhone Photo Shooting: Camera app\n\n🟦 Photo Management: Lightroom\n\n📆 Calendar: Calendar on iOS, Akiflow on Mac\n\n📁 Cloud File Storage: iCloud + Backblaze B2\n\n📖 RSS: <a href=\"https://rss.wspanialy.eu\">FreshRSS</a> with Reeder\n\n🙍🏻‍♂️ Contacts: Contacts\n\n🌐 Browser: Arc and Safari\n\n💬 Chat: Telegram, Signal, WhatsApp\n\n🔖 Bookmarks: Arc\n\n📑 Read It Later: Good Links\n\n🤖 Mastodon: Ivory and IceCubes\n\n⌨️ Launcher: Raycast\n\n📜 Word Processing: Drafts  ¯\\\\\\_(ツ)_/¯\n\n📈 Spreadsheets: Google Sheets\n\n📊 Presentations: Google Slides\n\n🛒 Shopping Lists: Reminders\n\n💰 Budgeting and Personal Finance: YNAB\n\n📰 News: <a href=\"https://rss.wspanialy.eu\">RSS</a>\n\n🎵 Music: Apple Music\n\n🎤 Podcasts: Pocket Casts\n\n🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX\n\n🔐 Password Management: 1Password\n\n👨🏻‍💻 Terminal: WebSSH\n\n",
+				"date_published": "2023-11-07T22:13:03+01:00",
+				"url": "https://pawel.orzech.me/2023/11/07/my-defaults.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/07/someone-in-our.html",
+				
+				"content_html": "<p>Someone in our complex is renovating, so there are renovation sounds like clicking, bumping, and drilling. The old lady next door is not happy about it and is shouting and hitting the pipes to make them stop. Now we have two sources of loud sounds. Congrats, you played yourself.</p>\n",
+				"content_text": "Someone in our complex is renovating, so there are renovation sounds like clicking, bumping, and drilling. The old lady next door is not happy about it and is shouting and hitting the pipes to make them stop. Now we have two sources of loud sounds. Congrats, you played yourself.\n",
+				"date_published": "2023-11-07T10:41:20+01:00",
+				"url": "https://pawel.orzech.me/2023/11/07/someone-in-our.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/07/if-youre-still.html",
+				
+				"content_html": "<p>🔗 If you&rsquo;re still on Twitter, you shouldn&rsquo;t be → <a href=\"https://throwawayopinions.io/the-paradox-of-intolerance.html\">The Case For Leaving Twitter</a></p>\n",
+				"content_text": "🔗 If you're still on Twitter, you shouldn't be → [The Case For Leaving Twitter](https://throwawayopinions.io/the-paradox-of-intolerance.html)\n",
+				"date_published": "2023-11-07T09:30:54+01:00",
+				"url": "https://pawel.orzech.me/2023/11/07/if-youre-still.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/07/nas-recovered-not.html",
+				
+				"content_html": "<p>NAS recovered. Not yet fully restored in terms of apps but it’s already working. I’m gonna slightly upgrade it though before doing anything else. From 8 to 16GB RAM, from 128GB SSD to 128+256 SSD and 2TB HDD. Slight upgrade.</p>\n",
+				"content_text": "NAS recovered. Not yet fully restored in terms of apps but it’s already working. I’m gonna slightly upgrade it though before doing anything else. From 8 to 16GB RAM, from 128GB SSD to 128+256 SSD and 2TB HDD. Slight upgrade. \n",
+				"date_published": "2023-11-07T00:01:10+01:00",
+				"url": "https://pawel.orzech.me/2023/11/07/nas-recovered-not.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/06/the-gentlemen.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/522627\">The Gentlemen (2020)</a> - ★★★★★</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg\" alt=\"The Gentlemen poster\"></p>\n",
+				"content_text": "🍿 [The Gentlemen (2020)](https://www.themoviedb.org/movie/522627) - ★★★★★\r\n\r\n![The Gentlemen poster](https://image.tmdb.org/t/p/w780/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg)\n",
+				"date_published": "2023-11-06T20:42:52+01:00",
+				"url": "https://pawel.orzech.me/2023/11/06/the-gentlemen.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/06/if-youre-on.html",
+				
+				"content_html": "<p>If you&rsquo;re on iOS and you want to Mastodon, just use Ice Cubes. Don&rsquo;t bother with anything else, that&rsquo;s just like, my opinion, man.</p>\n",
+				"content_text": "If you're on iOS and you want to Mastodon, just use Ice Cubes. Don't bother with anything else, that's just like, my opinion, man.\n",
+				"date_published": "2023-11-06T11:24:02+01:00",
+				"url": "https://pawel.orzech.me/2023/11/06/if-youre-on.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/05/im-going-to.html",
+				
+				"content_html": "<p>I’m going to Bombay Bicycle Club show in a couple of weeks so I’ve checked if they did publish an album I should listen to before I go (because I’m in love with their first two albums) and they did. And it’s great! Honestly. I have a feeling that it actually might become my fav album of theirs!</p>\n",
+				"content_text": "I’m going to Bombay Bicycle Club show in a couple of weeks so I’ve checked if they did publish an album I should listen to before I go (because I’m in love with their first two albums) and they did. And it’s great! Honestly. I have a feeling that it actually might become my fav album of theirs!\n",
+				"date_published": "2023-11-05T13:46:52+01:00",
+				"url": "https://pawel.orzech.me/2023/11/05/im-going-to.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/11/05/my-big-day.html",
 				
 				"content_html": "<p>🎵 <a href=\"https://www.last.fm/music/Bombay+Bicycle+Club/My+Big+Day\">My Big Day - Bombay Bicycle Club</a> - ★★★★★</p>\n<p><img src=\"https://lastfm.freetls.fastly.net/i/u/300x300/cf7f9bcc45931a2be57bf806de9e6071.png\" alt=\"My Big Day - Bombay Bicycle Club poster\"></p>\n",
@@ -18,7 +114,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/11/04/i-mean-paying.html",
 				
 				"content_html": "<p>I mean paying 60pln ~~ $15 per year to save 5767pln ~~ $1389,12? I&rsquo;d say it was worth it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I mean paying 60pln ~~ $15 per year to save 5767pln ~~ $1389,12? I'd say it was worth it.\n\n<img src=\"uploads/2023/screenshot-qtqlxadt-from-arc-2023-11-04-at-14.31.052x.png\" width=\"600\" height=\"288\" alt=\"\">\n",
+				"content_text": "I mean paying 60pln ~~ $15 per year to save 5767pln ~~ $1389,12? I'd say it was worth it.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-qtqlxadt-from-arc-2023-11-04-at-14.31.052x.png\" width=\"600\" height=\"288\" alt=\"\">\n",
 				"date_published": "2023-11-04T14:32:13+01:00",
 				"url": "https://pawel.orzech.me/2023/11/04/i-mean-paying.html"
 			},
@@ -50,7 +146,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/11/02/yeah-im-gonna.html",
 				
 				"content_html": "<p>Yeah, I&rsquo;m gonna try to keep work things like that and let&rsquo;s see where it goes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yeah, I'm gonna try to keep work things like that and let's see where it goes.\n\n<img src=\"uploads/2023/screenshot-cwgixs36-from-arc-2023-11-01-at-23.59.57.png\" width=\"600\" height=\"446\" alt=\"\">\n",
+				"content_text": "Yeah, I'm gonna try to keep work things like that and let's see where it goes.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-cwgixs36-from-arc-2023-11-01-at-23.59.57.png\" width=\"600\" height=\"446\" alt=\"\">\n",
 				"date_published": "2023-11-02T00:01:58+01:00",
 				"url": "https://pawel.orzech.me/2023/11/02/yeah-im-gonna.html"
 			},
@@ -58,7 +154,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/11/01/omg-you-can.html",
 				
 				"content_html": "<p>OMG, you can pin tabs that are in split view in Arc Browser!!! This is going to be a gamechanger.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "OMG, you can pin tabs that are in split view in Arc Browser!!! This is going to be a gamechanger.\n\n<img src=\"uploads/2023/screenshot-k1p3rhiu-from-arc-2023-11-01-at-23.58.39.png\" width=\"600\" height=\"421\" alt=\"\">\n",
+				"content_text": "OMG, you can pin tabs that are in split view in Arc Browser!!! This is going to be a gamechanger.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-k1p3rhiu-from-arc-2023-11-01-at-23.58.39.png\" width=\"600\" height=\"421\" alt=\"\">\n",
 				"date_published": "2023-11-01T23:59:20+01:00",
 				"url": "https://pawel.orzech.me/2023/11/01/omg-you-can.html"
 			},
