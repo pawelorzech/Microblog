@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/11/15/uh-i-didnt.html",
+				
+				"content_html": "<p>Uh, I didn&rsquo;t know that I&rsquo;m able to post directly from Obsidian. Lol.</p>\n",
+				"content_text": "Uh, I didn't know that I'm able to post directly from Obsidian. Lol.\n",
+				"date_published": "2023-11-15T21:25:28+01:00",
+				"url": "https://pawel.orzech.me/2023/11/15/uh-i-didnt.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/15/oh-my-god.html",
+				
+				"content_html": "<p>Oh my god I&rsquo;ve installed Obsidian and even used it in a good way, I think Obsidian is here to stay. Obsidiannation?</p>\n",
+				"content_text": "Oh my god I've installed Obsidian and even used it in a good way, I think Obsidian is here to stay. Obsidiannation?\n",
+				"date_published": "2023-11-15T00:27:23+01:00",
+				"url": "https://pawel.orzech.me/2023/11/15/oh-my-god.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/13/the-only-thing.html",
+				
+				"content_html": "<p>The only thing that has kept me from running my blog on Wordpress is that after 9 years of publishing posts on Wordpress, every week, I hate it with my guts.</p>\n",
+				"content_text": "The only thing that has kept me from running my blog on Wordpress is that after 9 years of publishing posts on Wordpress, every week, I hate it with my guts. \n",
+				"date_published": "2023-11-13T16:18:42+01:00",
+				"url": "https://pawel.orzech.me/2023/11/13/the-only-thing.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/13/honestly-safari-experiment.html",
+				
+				"content_html": "<p>Honestly Safari experiment didn&rsquo;t even last 24h, Arc is too good. Moved everything back, added additional profiles and settled in for good. No point in changing from something that just works perfectly fine!</p>\n",
+				"content_text": "Honestly Safari experiment didn't even last 24h, Arc is too good. Moved everything back, added additional profiles and settled in for good. No point in changing from something that just works perfectly fine!\n",
+				"date_published": "2023-11-13T10:24:35+01:00",
+				"url": "https://pawel.orzech.me/2023/11/13/honestly-safari-experiment.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/13/im-gonna-try.html",
+				
+				"content_html": "<p>I&rsquo;m gonna try use Safari more with <a href=\"https://sindresorhus.com/velja\">Velja</a>. Made some rules to open work stuff in Arc Browser and personal stuff in Safari. This might work!</p>\n",
+				"content_text": "I'm gonna try use Safari more with [Velja](https://sindresorhus.com/velja). Made some rules to open work stuff in Arc Browser and personal stuff in Safari. This might work!\n",
+				"date_published": "2023-11-13T01:08:37+01:00",
+				"url": "https://pawel.orzech.me/2023/11/13/im-gonna-try.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/13/in-peoples-defaults.html",
+				
+				"content_html": "<p>In people’s defaults I see lots and lots of Kagi users. Interesting. Maybe I should give it another spin with some money out on fire? I really liked how it worked but not sure if I want/need to pay for a search engine.</p>\n",
+				"content_text": "In people’s defaults I see lots and lots of Kagi users. Interesting. Maybe I should give it another spin with some money out on fire? I really liked how it worked but not sure if I want/need to pay for a search engine. \n",
+				"date_published": "2023-11-13T00:45:44+01:00",
+				"url": "https://pawel.orzech.me/2023/11/13/in-peoples-defaults.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/12/homescreen.html",
+				
+				"content_html": "<p>Homescreen, 11/2023.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Homescreen, 11/2023. \n\n<img src=\"uploads/2023/ead817e465.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-12T00:48:47+01:00",
+				"url": "https://pawel.orzech.me/2023/11/12/homescreen.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/11/phones-perspective-at.html",
+				
+				"content_html": "<p>Phone’s perspective at (late) morning, preparing coffee and croissants.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Phone’s perspective at (late) morning, preparing coffee and croissants. \n\n<img src=\"uploads/2023/7c170b8cff.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-11T13:17:35+01:00",
+				"url": "https://pawel.orzech.me/2023/11/11/phones-perspective-at.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/11/10/the-humane-ai.html",
 				
 				"content_html": "<p>🔗 <a href=\"https://512pixels.net/2023/11/the-humane-ai-pin/\">The Humane AI Pin – 512 Pixels</a></p>\n<blockquote>\n<p>A Buddhist monk named Brother Spirit led them to Humane. Mr. Chaudhri and Ms. Bongiorno had developed concepts for two A.I. products: a women’s health device and the pin. Brother Spirit, whom they met through their acupuncturist, recommended that they share the ideas with his friend, Marc Benioff, the founder of Salesforce.</p>\n</blockquote>\n",
@@ -49,8 +113,8 @@
 			{
 				"id": "http://pawelorzech.micro.blog/2023/11/07/my-defaults.html",
 				"title": "My defaults",
-				"content_html": "<p><!-- raw HTML omitted -->So because of Hemispheric Views 097, now people are posting their defaults, I guess it&rsquo;s time for me too!<!-- raw HTML omitted --></p>\n<p>📨 Mail Client: <a href=\"https://ref.fm/u26294944\">Fastmail.app</a> on iOS, Mail.app on Mac</p>\n<p>📮 Mail Server: <a href=\"https://ref.fm/u26294944\">Fastmail</a></p>\n<p>📝 Notes: Drafts and Notes</p>\n<p>✅ To-Do: <a href=\"https://web.akiflow.com/referral?name=UGF3ZcWC&amp;referral=6mu9V2AT6nyosiOc\">Akiflow</a> and Reminders</p>\n<p>📷 iPhone Photo Shooting: Camera app</p>\n<p>🟦 Photo Management: Lightroom</p>\n<p>📆 Calendar: Calendar on iOS, Akiflow on Mac</p>\n<p>📁 Cloud File Storage: iCloud + Backblaze B2</p>\n<p>📖 RSS: <!-- raw HTML omitted -->FreshRSS<!-- raw HTML omitted --> with Reeder</p>\n<p>🙍🏻‍♂️ Contacts: Contacts</p>\n<p>🌐 Browser: Arc and Safari</p>\n<p>💬 Chat: Telegram, Signal, WhatsApp</p>\n<p>🔖 Bookmarks: Arc</p>\n<p>📑 Read It Later: Good Links</p>\n<p>🤖 Mastodon: Ivory and IceCubes</p>\n<p>⌨️ Launcher: Raycast</p>\n<p>📜 Word Processing: Drafts  ¯\\_(ツ)_/¯</p>\n<p>📈 Spreadsheets: Google Sheets</p>\n<p>📊 Presentations: Google Slides</p>\n<p>🛒 Shopping Lists: Reminders</p>\n<p>💰 Budgeting and Personal Finance: YNAB</p>\n<p>📰 News: <!-- raw HTML omitted -->RSS<!-- raw HTML omitted --></p>\n<p>🎵 Music: Apple Music</p>\n<p>🎤 Podcasts: Pocket Casts</p>\n<p>🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX</p>\n<p>🔐 Password Management: 1Password</p>\n<p>👨🏻‍💻 Terminal: WebSSH</p>\n",
-				"content_text": "<a href=\"https://defaults.rknight.me/\">So because of Hemispheric Views 097, now people are posting their defaults, I guess it's time for me too!</a>\n\n📨 Mail Client: [Fastmail.app](https://ref.fm/u26294944) on iOS, Mail.app on Mac\n\n📮 Mail Server: [Fastmail](https://ref.fm/u26294944)\n\n📝 Notes: Drafts and Notes\n\n✅ To-Do: [Akiflow](https://web.akiflow.com/referral?name=UGF3ZcWC&referral=6mu9V2AT6nyosiOc) and Reminders\n\n📷 iPhone Photo Shooting: Camera app\n\n🟦 Photo Management: Lightroom\n\n📆 Calendar: Calendar on iOS, Akiflow on Mac\n\n📁 Cloud File Storage: iCloud + Backblaze B2\n\n📖 RSS: <a href=\"https://rss.wspanialy.eu\">FreshRSS</a> with Reeder\n\n🙍🏻‍♂️ Contacts: Contacts\n\n🌐 Browser: Arc and Safari\n\n💬 Chat: Telegram, Signal, WhatsApp\n\n🔖 Bookmarks: Arc\n\n📑 Read It Later: Good Links\n\n🤖 Mastodon: Ivory and IceCubes\n\n⌨️ Launcher: Raycast\n\n📜 Word Processing: Drafts  ¯\\\\\\_(ツ)_/¯\n\n📈 Spreadsheets: Google Sheets\n\n📊 Presentations: Google Slides\n\n🛒 Shopping Lists: Reminders\n\n💰 Budgeting and Personal Finance: YNAB\n\n📰 News: <a href=\"https://rss.wspanialy.eu\">RSS</a>\n\n🎵 Music: Apple Music\n\n🎤 Podcasts: Pocket Casts\n\n🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX\n\n🔐 Password Management: 1Password\n\n👨🏻‍💻 Terminal: WebSSH\n\n",
+				"content_html": "<p><!-- raw HTML omitted -->So because of Hemispheric Views 097, now people are posting their defaults, I guess it&rsquo;s time for me too!<!-- raw HTML omitted --></p>\n<p>📨 Mail Client: Mail.app on both iOS and macOS, for work - Mimestream (Google accounts only)</p>\n<p>📮 Mail Server: <a href=\"https://ref.fm/u26294944\">Fastmail</a> / Google for work</p>\n<p>📝 Notes: Drafts and Notes</p>\n<p>✅ To-Do: <a href=\"https://web.akiflow.com/referral?name=UGF3ZcWC&amp;referral=6mu9V2AT6nyosiOc\">Akiflow</a> and Things</p>\n<p>📷 iPhone Photo Shooting: Camera app</p>\n<p>🟦 Photo Management: Lightroom</p>\n<p>📆 Calendar: Calendar on iOS, Akiflow on Mac</p>\n<p>📁 Cloud File Storage: iCloud + Backblaze B2</p>\n<p>📖 RSS: <!-- raw HTML omitted -->FreshRSS<!-- raw HTML omitted --> with Reeder</p>\n<p>🙍🏻‍♂️ Contacts: Contacts</p>\n<p>🌐 Browser: Arc and Safari</p>\n<p>💬 Chat: Telegram, Signal, WhatsApp</p>\n<p>🔖 Bookmarks: Arc</p>\n<p>📑 Read It Later: Good Links</p>\n<p>🤖 Mastodon: Ivory and IceCubes</p>\n<p>⌨️ Launcher: Raycast</p>\n<p>📜 Word Processing: Drafts  ¯\\_(ツ)_/¯</p>\n<p>📈 Spreadsheets: Google Sheets</p>\n<p>📊 Presentations: Google Slides</p>\n<p>🛒 Shopping Lists: Reminders</p>\n<p>💰 Budgeting and Personal Finance: YNAB</p>\n<p>📰 News: <!-- raw HTML omitted -->RSS<!-- raw HTML omitted --></p>\n<p>🎵 Music: Apple Music</p>\n<p>🎤 Podcasts: Pocket Casts</p>\n<p>🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX</p>\n<p>🔐 Password Management: 1Password</p>\n<p>👨🏻‍💻 Terminal: WebSSH</p>\n",
+				"content_text": "<a href=\"https://defaults.rknight.me/\">So because of Hemispheric Views 097, now people are posting their defaults, I guess it's time for me too!</a>\n\n📨 Mail Client: Mail.app on both iOS and macOS, for work - Mimestream (Google accounts only)\n\n📮 Mail Server: [Fastmail](https://ref.fm/u26294944) / Google for work\n\n📝 Notes: Drafts and Notes\n\n✅ To-Do: [Akiflow](https://web.akiflow.com/referral?name=UGF3ZcWC&referral=6mu9V2AT6nyosiOc) and Things\n\n📷 iPhone Photo Shooting: Camera app\n\n🟦 Photo Management: Lightroom\n\n📆 Calendar: Calendar on iOS, Akiflow on Mac\n\n📁 Cloud File Storage: iCloud + Backblaze B2\n\n📖 RSS: <a href=\"https://rss.wspanialy.eu\">FreshRSS</a> with Reeder\n\n🙍🏻‍♂️ Contacts: Contacts\n\n🌐 Browser: Arc and Safari\n\n💬 Chat: Telegram, Signal, WhatsApp\n\n🔖 Bookmarks: Arc\n\n📑 Read It Later: Good Links\n\n🤖 Mastodon: Ivory and IceCubes\n\n⌨️ Launcher: Raycast\n\n📜 Word Processing: Drafts  ¯\\\\\\_(ツ)_/¯\n\n📈 Spreadsheets: Google Sheets\n\n📊 Presentations: Google Slides\n\n🛒 Shopping Lists: Reminders\n\n💰 Budgeting and Personal Finance: YNAB\n\n📰 News: <a href=\"https://rss.wspanialy.eu\">RSS</a>\n\n🎵 Music: Apple Music\n\n🎤 Podcasts: Pocket Casts\n\n🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX\n\n🔐 Password Management: 1Password\n\n👨🏻‍💻 Terminal: WebSSH\n\n",
 				"date_published": "2023-11-07T22:13:03+01:00",
 				"url": "https://pawel.orzech.me/2023/11/07/my-defaults.html"
 			},
