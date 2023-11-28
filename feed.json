@@ -7,10 +7,138 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2023/11/28/thats-my-replay.html",
+				
+				"content_html": "<p>That’s my replay / wrapped however you’d like to call it</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "That’s my replay / wrapped however you’d like to call it \n\n<img src=\"uploads/2023/133a970098.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-28T22:55:09+01:00",
+				"url": "https://pawel.orzech.me/2023/11/28/thats-my-replay.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/26/the-masculine-urge.html",
+				
+				"content_html": "<p>The masculine urge of moving between different read it later apps without actually reading anything later</p>\n",
+				"content_text": "The masculine urge of moving between different read it later apps without actually reading anything later \n",
+				"date_published": "2023-11-26T14:40:12+01:00",
+				"url": "https://pawel.orzech.me/2023/11/26/the-masculine-urge.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/26/kagi-got-me.html",
+				
+				"content_html": "<p>Kagi got me, I became Kagi Professional user (fuck yea I&rsquo;m a Professional user)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kagi got me, I became Kagi Professional user (fuck yea I'm a Professional user)\n\n<img src=\"uploads/2023/screenshot-yiuc0jlx-from-arc-2023-11-26-at-01.41.18.png\" alt=\"\" width=\"600\" height=\"363\" />\n",
+				"date_published": "2023-11-26T01:41:45+01:00",
+				"url": "https://pawel.orzech.me/2023/11/26/kagi-got-me.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/25/no-way-around.html",
+				
+				"content_html": "<p>No way around the greatness of user-generated playlists on Spotify. It’s just another world, Apple Music is way, way behind. Just because they treat them as second category playlists which they shouldn’t be.</p>\n",
+				"content_text": "No way around the greatness of user-generated playlists on Spotify. It’s just another world, Apple Music is way, way behind. Just because they treat them as second category playlists which they shouldn’t be.\n",
+				"date_published": "2023-11-25T20:37:01+01:00",
+				"url": "https://pawel.orzech.me/2023/11/25/no-way-around.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/25/once-you-go.html",
+				
+				"content_html": "<p>Once you go Arc, you can&rsquo;t go back. I miss Apple Pay though.</p>\n",
+				"content_text": "Once you go Arc, you can't go back. I miss Apple Pay though.\n",
+				"date_published": "2023-11-25T20:24:22+01:00",
+				"url": "https://pawel.orzech.me/2023/11/25/once-you-go.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/25/thinking-about-getting.html",
+				
+				"content_html": "<p>Thinking about getting that Kagi unlimited. I know what I said, I just find myself going back to these days when searching didn&rsquo;t suck.</p>\n",
+				"content_text": "Thinking about getting that Kagi unlimited. I know what I said, I just find myself going back to these days when searching didn't suck.\n",
+				"date_published": "2023-11-25T20:08:06+01:00",
+				"url": "https://pawel.orzech.me/2023/11/25/thinking-about-getting.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/24/my-software-edc.html",
+				"title": "My Software EDC",
+				"content_html": "<p>I saw <!-- raw HTML omitted -->Jack Baty talking about his Software EDC<!-- raw HTML omitted --> and I think this might be <!-- raw HTML omitted -->as interesting as defaults are<!-- raw HTML omitted -->. So let&rsquo;s do it.</p>\n<!-- raw HTML omitted -->\n<ul>\n<li>Finder - not much to say here,</li>\n<li>Arc Browser - my main, default browser for Mac,</li>\n<li>Safari - sometimes I feel like browsing &ldquo;less&rdquo; internet, then I go to Safari also whenever I have to pay I&rsquo;m using Safari so I can pay with Apple Pay,</li>\n<li>Tor Browser - I don&rsquo;t know, downloaded it, put it into the dock but I didn&rsquo;t really use it,</li>\n<li>Stock Calendar app,</li>\n<li>Obsidian - because I&rsquo;m now Obsidian user apparently,</li>\n<li>Drafts - I was using drafts for most of my quick notes but&hellip;</li>\n<li>Tot - but Tot actually is a bit better for that, I love it and use it everyday on my Mac and I don&rsquo;t even feel like I need to get iPhone counterpart (might just get it to pay for my Mac usage),</li>\n<li>Spotify - moved from Apple Music because Wifey made me do it (also it&rsquo;s so much quicker than Apple Music ever was),</li>\n<li>Pocket Casts - my podcast player of choice,</li>\n<li>Things - personal to-do app,</li>\n<li>Akiflow - worky calendar with to-do app, works great, definitely here to stay but iOS app is right now underwhelming (thankfully I&rsquo;m not using my phone for work most of the time, just to do calls),</li>\n<li>Home.app - to control our smart-home system,</li>\n<li>1Password - self-explanatory,</li>\n<li>WebSSH - it isn&rsquo;t the best ssh/sftp app, but it works great, syncs with my iPhone and I just like how it works, for most of my needs it&rsquo;s more than enough,</li>\n<li>Mail.app - personal mail lives there,</li>\n<li>Mimestream - work mail lives here,</li>\n<li>MarsEdit - my blog/mastodon posting app of choice (<!-- raw HTML omitted -->this post is being created in MarsEdit!<!-- raw HTML omitted -->)</li>\n<li>Ivory - bought the yearly subscription, not really a fan but syncs with iPhone so I&rsquo;m gonna use it until the end of it, then I&rsquo;m gonna move exclusively to use Ice Cubes, 100%,</li>\n<li>GoodLinks - my read-it-later app of choice, I love how simple it is, syncs with iCloud, downloads everything to read it offline, just great</li>\n<li>Reeder 5 - synced with <!-- raw HTML omitted -->rss.wspanialy.eu<!-- raw HTML omitted -->, actually this is the only RSS Reader app that I was using for the past&hellip; 10 years? more?</li>\n<li>iBooks - yeah, not really sure, I&rsquo;m not that big of a reader but I think I wanted to push myself more to read, didn&rsquo;t really work out,</li>\n<li>Signal, Whatsapp, Telegram - work, family, friends,</li>\n<li>MacGPT - my ChatGPT client of choice, works pretty fine</li>\n<li>Slack - work,</li>\n<li>Restaumatic RePOS - our Point of Sales system app that I&rsquo;m working on,</li>\n<li>Lightroom and Photoshop - so I can tune my photos to look even better,</li>\n<li>Sketch - actually right now I&rsquo;m using it to create memes only, but this is also the only graphic tool I&rsquo;m using whenever I want to create a mockup,</li>\n<li>Photos - photos,</li>\n<li>App Store - so I can quickly force update apps,</li>\n<li>Epic Games - to play Magic: The Gathering Arena,</li>\n<li>Steam - not really in use right now, but I have some games I&rsquo;ve installed from Steam (and never opened them).</li>\n</ul>\n<p>That&rsquo;s it, that&rsquo;s my stack. This is what I&rsquo;m using nearly everyday. What&rsquo;s yours?</p>\n",
+				"content_text": "I saw <a href=\"https://baty.net/2023/11/software-edc/\">Jack Baty talking about his Software EDC</a> and I think this might be <a href=\"https://pawel.orzech.me/2023/11/07/my-defaults.html\">as interesting as defaults are</a>. So let's do it.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-tmlk3hsa-from-cleanshot-2023-11-24-at-14.34.36.png\" alt=\"\" title=\"Screenshot TmlK3HsA from CleanShot -- 2023-11-24 at 14.34.36.png\" border=\"0\" width=\"927\" height=\"57\" />\n\n- Finder - not much to say here,\n- Arc Browser - my main, default browser for Mac,\n- Safari - sometimes I feel like browsing \"less\" internet, then I go to Safari also whenever I have to pay I'm using Safari so I can pay with Apple Pay,\n- Tor Browser - I don't know, downloaded it, put it into the dock but I didn't really use it,\n- Stock Calendar app,\n- Obsidian - because I'm now Obsidian user apparently,\n- Drafts - I was using drafts for most of my quick notes but...\n- Tot - but Tot actually is a bit better for that, I love it and use it everyday on my Mac and I don't even feel like I need to get iPhone counterpart (might just get it to pay for my Mac usage),\n- Spotify - moved from Apple Music because Wifey made me do it (also it's so much quicker than Apple Music ever was),\n- Pocket Casts - my podcast player of choice,\n- Things - personal to-do app,\n- Akiflow - worky calendar with to-do app, works great, definitely here to stay but iOS app is right now underwhelming (thankfully I'm not using my phone for work most of the time, just to do calls),\n- Home.app - to control our smart-home system,\n- 1Password - self-explanatory,\n- WebSSH - it isn't the best ssh/sftp app, but it works great, syncs with my iPhone and I just like how it works, for most of my needs it's more than enough,\n- Mail.app - personal mail lives there,\n- Mimestream - work mail lives here,\n- MarsEdit - my blog/mastodon posting app of choice (<a href=\"https://share.cleanshot.com/JS87M6BW\">this post is being created in MarsEdit!</a>)\n- Ivory - bought the yearly subscription, not really a fan but syncs with iPhone so I'm gonna use it until the end of it, then I'm gonna move exclusively to use Ice Cubes, 100%,\n- GoodLinks - my read-it-later app of choice, I love how simple it is, syncs with iCloud, downloads everything to read it offline, just great\n- Reeder 5 - synced with <a href=\"https://rss.wspanialy.eu\">rss.wspanialy.eu</a>, actually this is the only RSS Reader app that I was using for the past... 10 years? more?\n- iBooks - yeah, not really sure, I'm not that big of a reader but I think I wanted to push myself more to read, didn't really work out,\n- Signal, Whatsapp, Telegram - work, family, friends,\n- MacGPT - my ChatGPT client of choice, works pretty fine\n- Slack - work,\n- Restaumatic RePOS - our Point of Sales system app that I'm working on,\n- Lightroom and Photoshop - so I can tune my photos to look even better,\n- Sketch - actually right now I'm using it to create memes only, but this is also the only graphic tool I'm using whenever I want to create a mockup,\n- Photos - photos,\n- App Store - so I can quickly force update apps,\n- Epic Games - to play Magic: The Gathering Arena,\n- Steam - not really in use right now, but I have some games I've installed from Steam (and never opened them).\n\nThat's it, that's my stack. This is what I'm using nearly everyday. What's yours? \n",
+				"date_published": "2023-11-24T14:58:48+01:00",
+				"url": "https://pawel.orzech.me/2023/11/24/my-software-edc.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/24/first-holidays-of.html",
+				
+				"content_html": "<p>First holidays of 2024 are booked. Can’t wait!</p>\n",
+				"content_text": "First holidays of 2024 are booked. Can’t wait! \n",
+				"date_published": "2023-11-24T01:25:55+01:00",
+				"url": "https://pawel.orzech.me/2023/11/24/first-holidays-of.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/23/bombay-bicycle-club.html",
+				
+				"content_html": "<p>Bombay Bicycle Club!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bombay Bicycle Club! \n\n<img src=\"uploads/2023/8cb2a74b37.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-23T22:08:41+01:00",
+				"url": "https://pawel.orzech.me/2023/11/23/bombay-bicycle-club.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/23/of-course-plane.html",
+				
+				"content_html": "<p>Of course plane tickets day before Black Friday are increasing in price. Of course.</p>\n",
+				"content_text": "Of course plane tickets day before Black Friday are increasing in price. Of course.\n",
+				"date_published": "2023-11-23T09:08:14+01:00",
+				"url": "https://pawel.orzech.me/2023/11/23/of-course-plane.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/23/added-another-reflink.html",
+				
+				"content_html": "<p>Added another reflink to my <a href=\"https://pawel.orzech.me/about/\">about page</a> - YNAB and ClearVPN. So if you wanted to get some discount or longer trial - feel free to check it out.</p>\n",
+				"content_text": "Added another reflink to my [about page](https://pawel.orzech.me/about/) - YNAB and ClearVPN. So if you wanted to get some discount or longer trial - feel free to check it out.\n",
+				"date_published": "2023-11-23T08:38:06+01:00",
+				"url": "https://pawel.orzech.me/2023/11/23/added-another-reflink.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/22/contact-honestly-too.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/686\">Contact (1997)</a> - ★★★★☆</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg\" alt=\"Contact poster\"></p>\n<p>Honestly? Too much religion, god and stuff like that. It’s just weird.</p>\n",
+				"content_text": "🍿 [Contact (1997)](https://www.themoviedb.org/movie/686) - ★★★★☆\r\n\r\n![Contact poster](https://image.tmdb.org/t/p/w780/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg)\r\n\r\nHonestly? Too much religion, god and stuff like that. It’s just weird. \n",
+				"date_published": "2023-11-22T22:48:33+01:00",
+				"url": "https://pawel.orzech.me/2023/11/22/contact-honestly-too.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/22/and-now-by.html",
+				
+				"content_html": "<p>And now - by mistake of setting custom DNS - I&rsquo;ve fucked up BOTH of my local servers. Damn. DAMN.</p>\n",
+				"content_text": "And now - by mistake of setting custom DNS - I've fucked up BOTH of my local servers. Damn. DAMN.\n",
+				"date_published": "2023-11-22T18:52:50+01:00",
+				"url": "https://pawel.orzech.me/2023/11/22/and-now-by.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/22/that-nintendo-game.html",
+				
+				"content_html": "<p>That Nintendo Game with Ring-Con that makes you do exercise in front of your TV has my seal of approval. 🫡</p>\n",
+				"content_text": "That Nintendo Game with Ring-Con that makes you do exercise in front of your TV has my seal of approval. 🫡\n",
+				"date_published": "2023-11-22T17:18:53+01:00",
+				"url": "https://pawel.orzech.me/2023/11/22/that-nintendo-game.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/22/nextdns-messes-with.html",
+				
+				"content_html": "<p>NextDNS messes with iMessage, with App Store, actually lots of Apple services suddenly aren&rsquo;t working (even though blocklist or log is empty!). Also some of random, normal, regular websites are broken. Getting to old for that. It would be great if NextDNS would work but it just doesn&rsquo;t for me.</p>\n",
+				"content_text": "NextDNS messes with iMessage, with App Store, actually lots of Apple services suddenly aren't working (even though blocklist or log is empty!). Also some of random, normal, regular websites are broken. Getting to old for that. It would be great if NextDNS would work but it just doesn't for me.\n",
+				"date_published": "2023-11-22T14:03:00+01:00",
+				"url": "https://pawel.orzech.me/2023/11/22/nextdns-messes-with.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2023/11/22/tried-for-th.html",
+				
+				"content_html": "<p>Tried for 100th time to use NextDNS on router and all our devices but it messes with so much that I can&rsquo;t actually rely on it. 1.1.1.1 it is.</p>\n",
+				"content_text": "Tried for 100th time to use NextDNS on router and all our devices but it messes with so much that I can't actually rely on it. 1.1.1.1 it is.\n",
+				"date_published": "2023-11-22T14:01:45+01:00",
+				"url": "https://pawel.orzech.me/2023/11/22/tried-for-th.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2023/11/22/leather-case-on.html",
 				
 				"content_html": "<p>Leather case. On the left - new, dark blue (I ordered black one but fine). On the right - green one after 10 months. I&rsquo;m returning the right one because something tells me that is NOT supposed to be happening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Leather case. On the left - new, dark blue (I ordered black one but fine). On the right - green one after 10 months. I'm returning the right one because something tells me that is NOT supposed to be happening. \n\n<img src=\"uploads/2023/image-2023-11-22-125543.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Leather case. On the left - new, dark blue (I ordered black one but fine). On the right - green one after 10 months. I'm returning the right one because something tells me that is NOT supposed to be happening. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/image-2023-11-22-125543.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-22T12:57:06+01:00",
 				"url": "https://pawel.orzech.me/2023/11/22/leather-case-on.html"
 			},
@@ -26,7 +154,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/11/19/another-interesting-one.html",
 				
 				"content_html": "<p>Another interesting one that I didn&rsquo;t know about - Spotify allows you to watch video podcasts in the app, that makes using Spotify a bit more appealing, not gonna lie.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another interesting one that I didn't know about - Spotify allows you to watch video podcasts in the app, that makes using Spotify a bit more appealing, not gonna lie.\n\n<img src=\"uploads/2023/screenshot-77doxsaq-from-spotify-2023-11-19-at-23.49.12.png\" alt=\"\" width=\"600\" height=\"392\" />\n",
+				"content_text": "Another interesting one that I didn't know about - Spotify allows you to watch video podcasts in the app, that makes using Spotify a bit more appealing, not gonna lie.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-77doxsaq-from-spotify-2023-11-19-at-23.49.12.png\" alt=\"\" width=\"600\" height=\"392\" />\n",
 				"date_published": "2023-11-19T23:49:47+01:00",
 				"url": "https://pawel.orzech.me/2023/11/19/another-interesting-one.html"
 			},
@@ -42,7 +170,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/11/19/marsedit-will-add.html",
 				
 				"content_html": "<p>MarsEdit 5.1 will add support for Mastodon and now you can easily add images to microblog window! Love it, love it, love it!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "MarsEdit 5.1 will add support for Mastodon and now you can easily add images to microblog window! Love it, love it, love it!\n\n<img src=\"uploads/2023/screenshot-6ggw2dg6-from-marsedit-2023-11-19-at-23.46.37.png\" alt=\"\" width=\"600\" height=\"395\" />\n",
+				"content_text": "MarsEdit 5.1 will add support for Mastodon and now you can easily add images to microblog window! Love it, love it, love it!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/screenshot-6ggw2dg6-from-marsedit-2023-11-19-at-23.46.37.png\" alt=\"\" width=\"600\" height=\"395\" />\n",
 				"date_published": "2023-11-19T23:47:13+01:00",
 				"url": "https://pawel.orzech.me/2023/11/19/marsedit-will-add.html"
 			},
@@ -74,7 +202,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/11/18/this-is-it.html",
 				
 				"content_html": "<p>This is it, the beginning!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is it, the beginning!\n\n<img src=\"uploads/2023/20ccc5a7e1.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "This is it, the beginning!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/20ccc5a7e1.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-11-18T11:49:00+01:00",
 				"url": "https://pawel.orzech.me/2023/11/18/this-is-it.html"
 			},
