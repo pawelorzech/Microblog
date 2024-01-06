@@ -7,10 +7,98 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/01/06/i-think-micropublish.html",
+				
+				"content_html": "<p>I think <a href=\"https://github.com/otaviocc/obsidian-microblog\">micro.publish</a> would be a welcome addition to people using Obsidian and micro.blog. So just to share it out there - do yourself a favour and check it out.</p>\n",
+				"content_text": "\nI think [micro.publish](https://github.com/otaviocc/obsidian-microblog) would be a welcome addition to people using Obsidian and micro.blog. So just to share it out there - do yourself a favour and check it out.\n",
+				"date_published": "2024-01-06T14:45:15+01:00",
+				"url": "https://pawel.orzech.me/2024/01/06/i-think-micropublish.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/06/im-really-tempted.html",
+				
+				"content_html": "<p>I&rsquo;m really tempted to get the Pixel 8 Pro and see if Android could better suit my workflow compared to iOS.</p>\n<p>However, there are a few things I&rsquo;ll miss. I&rsquo;ll definitely miss find my (we have lots of these trackers), and my entire home setup will need to be moved to homeassistant or a similar app (Google Home?). I&rsquo;ll also miss my Apple Watch and magsafe accessories.</p>\n<p>When I think about the size and potential difficulties of the change, I&rsquo;m not entirely sure if I want to go through with it.</p>\n<p>All I initially wanted was to see if I could break free from iOS restrictions and explore the world of Android. Talk about a walled garden!</p>\n",
+				"content_text": "I'm really tempted to get the Pixel 8 Pro and see if Android could better suit my workflow compared to iOS.\n\nHowever, there are a few things I'll miss. I'll definitely miss find my (we have lots of these trackers), and my entire home setup will need to be moved to homeassistant or a similar app (Google Home?). I'll also miss my Apple Watch and magsafe accessories.\n\nWhen I think about the size and potential difficulties of the change, I'm not entirely sure if I want to go through with it.\n\nAll I initially wanted was to see if I could break free from iOS restrictions and explore the world of Android. Talk about a walled garden!\n",
+				"date_published": "2024-01-06T14:41:15+01:00",
+				"url": "https://pawel.orzech.me/2024/01/06/im-really-tempted.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/05/ive-made-change.html",
+				
+				"content_html": "<p>I&rsquo;ve made change to email system for wspanialy.eu and forum.yeswas.pl. Hope nobody will notice any difference and I can save a couple bucks every month.</p>\n",
+				"content_text": "I've made change to email system for wspanialy.eu and forum.yeswas.pl. Hope nobody will notice any difference and I can save a couple bucks every month.\n",
+				"date_published": "2024-01-05T00:58:22+01:00",
+				"url": "https://pawel.orzech.me/2024/01/05/ive-made-change.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/04/pad-thai-very.html",
+				
+				"content_html": "<p>Pad Thai. Very nice.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Pad Thai. Very nice. \n\n<img src=\"uploads/2024/d86a4e3a99.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/d3284a8709.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/9d51367aed.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/e49f00b635.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-01-04T22:08:32+01:00",
+				"url": "https://pawel.orzech.me/2024/01/04/pad-thai-very.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/03/quick-story-in.html",
+				
+				"content_html": "<p>Quick story in two pictures about my iPad usage. I wish I would be able to use it more but there’s not enough space for me to put all of my apps on it. Also I’m not sure if I’m iPad person and most of the time I’m using it as life counter for MTG. And when not used as life counter it stays in the kitchen so I can read food recipes easily. I think I’d enjoy using iPad mini and one day I’m gonna definitely try!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Quick story in two pictures about my iPad usage. I wish I would be able to use it more but there’s not enough space for me to put all of my apps on it. Also I’m not sure if I’m iPad person and most of the time I’m using it as life counter for MTG. And when not used as life counter it stays in the kitchen so I can read food recipes easily. I think I’d enjoy using iPad mini and one day I’m gonna definitely try!\n\n<img src=\"uploads/2024/b20270d7b2.png\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/b829008b9c.jpg\" width=\"342\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-03T20:07:12+01:00",
+				"url": "https://pawel.orzech.me/2024/01/03/quick-story-in.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/03/i-know-it.html",
+				
+				"content_html": "<blockquote>\n<p>I know, it might be wishful thinking, but there’s no doubt that we’re seeing a resurgence for blogging. It’s to be expected, given that the biggest hit to blogging was Twitter.Source: <a href=\"https://bored.horse/post/2024-year-of-the-blog/\">2024 is the Year of the Blog</a></p>\n</blockquote>\n<p>This is exactly what I feel. My RSS reader is FULL of blogs that are active DAILY. This is great, honestly I have vibes from early 2000 and I&rsquo;m here for that.</p>\n",
+				"content_text": "> I know, it might be wishful thinking, but there’s no doubt that we’re seeing a resurgence for blogging. It’s to be expected, given that the biggest hit to blogging was Twitter.Source: [2024 is the Year of the Blog](https://bored.horse/post/2024-year-of-the-blog/)\r\n\r\nThis is exactly what I feel. My RSS reader is FULL of blogs that are active DAILY. This is great, honestly I have vibes from early 2000 and I'm here for that.\n",
+				"date_published": "2024-01-03T17:17:24+01:00",
+				"url": "https://pawel.orzech.me/2024/01/03/i-know-it.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/02/i-was-searching.html",
+				
+				"content_html": "<p>I was searching for an app to calculate my stock gains/losses and came across <a href=\"https://portfolio.sharesight.com/refer/UZV04\">Sharesight</a>, which seems to be exactly what I need. I imported all my data from XTB and calculated my gains, factoring in currency fluctuations. If anyone knows of a better tool, please let me know!</p>\n",
+				"content_text": "I was searching for an app to calculate my stock gains/losses and came across [Sharesight](https://portfolio.sharesight.com/refer/UZV04), which seems to be exactly what I need. I imported all my data from XTB and calculated my gains, factoring in currency fluctuations. If anyone knows of a better tool, please let me know!\n",
+				"date_published": "2024-01-02T17:33:08+01:00",
+				"url": "https://pawel.orzech.me/2024/01/02/i-was-searching.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/02/just-updated-my.html",
+				
+				"content_html": "<p>Just updated <!-- raw HTML omitted -->my defaults<!-- raw HTML omitted -->. Whenever I make changes to my setup that stick, I also update the post.</p>\n",
+				"content_text": "Just updated <a href=\"https://pawel.orzech.me/2023/11/07/my-defaults.html\">my defaults</a>. Whenever I make changes to my setup that stick, I also update the post.\n",
+				"date_published": "2024-01-02T13:23:47+01:00",
+				"url": "https://pawel.orzech.me/2024/01/02/just-updated-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/02/omg-i-think.html",
+				
+				"content_html": "<p>OMG, I think I&rsquo;ve finally found in what way Instagram is making me miserable! Looking at all of these beautiful interiors in cities I&rsquo;ll never live is THAT THING! Good reason to cut it out my life I guess.</p>\n",
+				"content_text": "OMG, I think I've finally found in what way Instagram is making me miserable! Looking at all of these beautiful interiors in cities I'll never live is THAT THING! Good reason to cut it out my life I guess.\n",
+				"date_published": "2024-01-02T11:10:37+01:00",
+				"url": "https://pawel.orzech.me/2024/01/02/omg-i-think.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/02/in-ive-posted.html",
+				
+				"content_html": "<p>In 2023 I&rsquo;ve posted on my blog 684 times. That&rsquo;s pretty fire number I&rsquo;d say.</p>\n",
+				"content_text": "In 2023 I've posted on my blog 684 times. That's pretty fire number I'd say.\n",
+				"date_published": "2024-01-02T00:55:30+01:00",
+				"url": "https://pawel.orzech.me/2024/01/02/in-ive-posted.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/01/02/microsoft-edge-is.html",
+				
+				"content_html": "<p>Microsoft Edge is better Chrome than Chrome is.</p>\n",
+				"content_text": "Microsoft Edge is better Chrome than Chrome is.\n",
+				"date_published": "2024-01-02T00:42:12+01:00",
+				"url": "https://pawel.orzech.me/2024/01/02/microsoft-edge-is.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/01/01/my-tabs-situation.html",
 				
 				"content_html": "<p>My tabs situation, most of the time. Hi there, 2024! Looking good.</p>\n<p>It was a really pleasant new year&rsquo;s eve party! Ready to fall asleep since it&rsquo;s 4am.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My tabs situation, most of the time. Hi there, 2024! Looking good. \n\nIt was a really pleasant new year's eve party! Ready to fall asleep since it's 4am.\n\n<img src=\"uploads/2024/screenshot-yw2isl3i-from-google-chrome-2024-01-01-at-03.55.08.png\" alt=\"\" width=\"600\" height=\"379\" />\n",
+				"content_text": "My tabs situation, most of the time. Hi there, 2024! Looking good. \n\nIt was a really pleasant new year's eve party! Ready to fall asleep since it's 4am.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/screenshot-yw2isl3i-from-google-chrome-2024-01-01-at-03.55.08.png\" alt=\"\" width=\"600\" height=\"379\" />\n",
 				"date_published": "2024-01-01T03:56:04+01:00",
 				"url": "https://pawel.orzech.me/2024/01/01/my-tabs-situation.html"
 			},
@@ -34,7 +122,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/12/29/homescreen-again-mental.html",
 				
 				"content_html": "<p>Homescreen. Again. Mental note.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Homescreen. Again. Mental note. \n\n<img src=\"uploads/2023/dceb6e30e7.png\" width=\"277\" height=\"600\" alt=\"\"><img src=\"uploads/2023/05ae8391f4.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Homescreen. Again. Mental note. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/dceb6e30e7.png\" width=\"277\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2023/05ae8391f4.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-29T01:45:49+01:00",
 				"url": "https://pawel.orzech.me/2023/12/29/homescreen-again-mental.html"
 			},
@@ -98,7 +186,7 @@
 				"id": "http://pawelorzech.micro.blog/2023/12/26/same.html",
 				
 				"content_html": "<p>Same.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Same. \n\n<img src=\"uploads/2023/dd677dc569.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Same. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2023/dd677dc569.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-26T18:58:46+01:00",
 				"url": "https://pawel.orzech.me/2023/12/26/same.html"
 			},
@@ -976,9 +1064,9 @@
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2023/11/07/my-defaults.html",
-				"title": "My defaults",
-				"content_html": "<p><!-- raw HTML omitted -->So because of Hemispheric Views 097, now people are posting their defaults, I guess it&rsquo;s time for me too!<!-- raw HTML omitted --></p>\n<p>📨 Mail Client: Mail.app on both iOS and macOS, for work - Mimestream (Google accounts only)</p>\n<p>📮 Mail Server: <a href=\"https://ref.fm/u26294944\">Fastmail</a> / Google for work</p>\n<p>📝 Notes: Obsidian, Tot and Day One</p>\n<p>✅ To-Do: <a href=\"https://web.akiflow.com/referral?name=UGF3ZcWC&amp;referral=6mu9V2AT6nyosiOc\">Akiflow</a> and Things</p>\n<p>📷 iPhone Photo Shooting: Camera app</p>\n<p>🟦 Photo Management: Lightroom</p>\n<p>📆 Calendar: Calendar on iOS, Akiflow on Mac</p>\n<p>📁 Cloud File Storage: iCloud + Backblaze B2</p>\n<p>📖 RSS: <!-- raw HTML omitted -->FreshRSS<!-- raw HTML omitted --> with Reeder</p>\n<p>🙍🏻‍♂️ Contacts: Contacts</p>\n<p>🌐 Browser: Arc (work) and Safari (personal)</p>\n<p>💬 Chat: Telegram, Signal, WhatsApp</p>\n<p>🔖 Bookmarks: Browser</p>\n<p>📑 Read It Later: Good Links</p>\n<p>🤖 Mastodon: Ivory and IceCubes</p>\n<p>⌨️ Launcher: Raycast</p>\n<p>📜 Word Processing: Obsidian&hellip;?</p>\n<p>📈 Spreadsheets: Google Sheets</p>\n<p>📊 Presentations: Google Slides</p>\n<p>🛒 Shopping Lists: Reminders</p>\n<p>💰 Budgeting and Personal Finance: YNAB</p>\n<p>📰 News: <!-- raw HTML omitted -->RSS<!-- raw HTML omitted --></p>\n<p>🎵 Music: Spotify / Apple Music</p>\n<p>🎤 Podcasts: Pocket Casts</p>\n<p>🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX</p>\n<p>🔐 Password Management: 1Password</p>\n<p>👨🏻‍💻 Terminal: WebSSH</p>\n",
-				"content_text": "<a href=\"https://defaults.rknight.me/\">So because of Hemispheric Views 097, now people are posting their defaults, I guess it's time for me too!</a>\n\n📨 Mail Client: Mail.app on both iOS and macOS, for work - Mimestream (Google accounts only)\n\n📮 Mail Server: [Fastmail](https://ref.fm/u26294944) / Google for work\n\n📝 Notes: Obsidian, Tot and Day One\n\n✅ To-Do: [Akiflow](https://web.akiflow.com/referral?name=UGF3ZcWC&referral=6mu9V2AT6nyosiOc) and Things\n\n📷 iPhone Photo Shooting: Camera app\n\n🟦 Photo Management: Lightroom\n\n📆 Calendar: Calendar on iOS, Akiflow on Mac\n\n📁 Cloud File Storage: iCloud + Backblaze B2\n\n📖 RSS: <a href=\"https://rss.wspanialy.eu\">FreshRSS</a> with Reeder\n\n🙍🏻‍♂️ Contacts: Contacts\n\n🌐 Browser: Arc (work) and Safari (personal)\n\n💬 Chat: Telegram, Signal, WhatsApp\n\n🔖 Bookmarks: Browser\n\n📑 Read It Later: Good Links\n\n🤖 Mastodon: Ivory and IceCubes\n\n⌨️ Launcher: Raycast\n\n📜 Word Processing: Obsidian...?\n\n📈 Spreadsheets: Google Sheets\n\n📊 Presentations: Google Slides\n\n🛒 Shopping Lists: Reminders\n\n💰 Budgeting and Personal Finance: YNAB\n\n📰 News: <a href=\"https://rss.wspanialy.eu\">RSS</a>\n\n🎵 Music: Spotify / Apple Music\n\n🎤 Podcasts: Pocket Casts\n\n🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX\n\n🔐 Password Management: 1Password\n\n👨🏻‍💻 Terminal: WebSSH\n\n",
+				"title": "My defaults ",
+				"content_html": "<p>Last updated: <strong>02/01/2024</strong></p>\n<p><!-- raw HTML omitted -->So because of Hemispheric Views 097, now people are posting their defaults, I guess it&rsquo;s time for me too!<!-- raw HTML omitted --></p>\n<p>📨 Mail Client: Mail.app on both iOS and macOS, for work - Mimestream (Google accounts only)</p>\n<p>📮 Mail Server: <a href=\"https://ref.fm/u26294944\">Fastmail</a> / Google for work</p>\n<p>📝 Notes: Obsidian, Tot and Day One</p>\n<p>✅ To-Do: <a href=\"https://web.akiflow.com/referral?name=UGF3ZcWC&amp;referral=6mu9V2AT6nyosiOc\">Akiflow</a> and Things</p>\n<p>📷 iPhone Photo Shooting: Camera app</p>\n<p>🟦 Photo Management: Lightroom</p>\n<p>📆 Calendar: Calendar on iOS, Akiflow on Mac</p>\n<p>📁 Cloud File Storage: iCloud + Backblaze B2</p>\n<p>📖 RSS: <!-- raw HTML omitted -->FreshRSS<!-- raw HTML omitted --> with Reeder</p>\n<p>🙍🏻‍♂️ Contacts: Contacts</p>\n<p>🌐 Browser: Arc (work) and Edge (personal)</p>\n<p>💬 Chat: Telegram, Signal, WhatsApp</p>\n<p>🔖 Bookmarks: Browser</p>\n<p>📑 Read It Later: Good Links</p>\n<p>🤖 Mastodon: Ivory and IceCubes</p>\n<p>📖 Blog: micro.blog</p>\n<p>⌨️ Launcher: Raycast</p>\n<p>📜 Word Processing: Obsidian</p>\n<p>📈 Spreadsheets: Google Sheets</p>\n<p>📊 Presentations: Google Slides</p>\n<p>🛒 Shopping Lists: Reminders</p>\n<p>💰 Budgeting and Personal Finance: YNAB</p>\n<p>📰 News: <!-- raw HTML omitted -->RSS<!-- raw HTML omitted --></p>\n<p>🎵 Music: Spotify</p>\n<p>🎤 Podcasts: Pocket Casts</p>\n<p>🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX</p>\n<p>🔐 Password Management: 1Password</p>\n<p>👨🏻‍💻 Terminal: WebSSH</p>\n",
+				"content_text": "Last updated: **02/01/2024**\n\n<a href=\"https://defaults.rknight.me/\">So because of Hemispheric Views 097, now people are posting their defaults, I guess it's time for me too!</a>\n\n📨 Mail Client: Mail.app on both iOS and macOS, for work - Mimestream (Google accounts only)\n\n📮 Mail Server: [Fastmail](https://ref.fm/u26294944) / Google for work\n\n📝 Notes: Obsidian, Tot and Day One\n\n✅ To-Do: [Akiflow](https://web.akiflow.com/referral?name=UGF3ZcWC&referral=6mu9V2AT6nyosiOc) and Things\n\n📷 iPhone Photo Shooting: Camera app\n\n🟦 Photo Management: Lightroom\n\n📆 Calendar: Calendar on iOS, Akiflow on Mac\n\n📁 Cloud File Storage: iCloud + Backblaze B2\n\n📖 RSS: <a href=\"https://rss.wspanialy.eu\">FreshRSS</a> with Reeder\n\n🙍🏻‍♂️ Contacts: Contacts\n\n🌐 Browser: Arc (work) and Edge (personal)\n\n💬 Chat: Telegram, Signal, WhatsApp\n\n🔖 Bookmarks: Browser\n\n📑 Read It Later: Good Links\n\n🤖 Mastodon: Ivory and IceCubes\n\n📖 Blog: micro.blog\n\n⌨️ Launcher: Raycast\n\n📜 Word Processing: Obsidian\n\n📈 Spreadsheets: Google Sheets\n\n📊 Presentations: Google Slides\n\n🛒 Shopping Lists: Reminders\n\n💰 Budgeting and Personal Finance: YNAB\n\n📰 News: <a href=\"https://rss.wspanialy.eu\">RSS</a>\n\n🎵 Music: Spotify\n\n🎤 Podcasts: Pocket Casts\n\n🎮 Gaming: PS5, Xbox Series X, Nintendo Switch and Anbernic RG35XX\n\n🔐 Password Management: 1Password\n\n👨🏻‍💻 Terminal: WebSSH\n\n",
 				"date_published": "2023-11-07T22:13:03+01:00",
 				"url": "https://pawel.orzech.me/2023/11/07/my-defaults.html"
 			},
