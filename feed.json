@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/02/29/new-lamp-looks.html",
+				
+				"content_html": "<p>New lamp, looks pretty!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New lamp, looks pretty!\n\n<img src=\"uploads/2024/4e07203ea0.jpg\" width=\"600\" height=\"344\" alt=\"\">\n",
+				"date_published": "2024-02-29T20:37:52+01:00",
+				"url": "https://pawel.orzech.me/2024/02/29/new-lamp-looks.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/02/27/finally-got-photos.html",
+				
+				"content_html": "<p>Finally got photos from last trip developed so&hellip; Please allow me to show you some more pics!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Finally got photos from last trip developed so... Please allow me to show you some more pics!\n\n<img src=\"uploads/2024/000334400012.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334400009.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334400014.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334400022.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334400020.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334410011.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2024/000334410008.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2024/000334410012.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2024/000334410017.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334410027.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2024/000334410022.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334410015.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2024/000334410026.jpg\" width=\"600\" height=\"397\" alt=\"\"><img src=\"uploads/2024/000334410031.jpg\" width=\"397\" height=\"600\" alt=\"\"><img src=\"uploads/2024/000334410032.jpg\" width=\"397\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-02-27T17:37:56+01:00",
+				"url": "https://pawel.orzech.me/2024/02/27/finally-got-photos.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/02/27/i-want-an.html",
+				
+				"content_html": "<p>I want an android phone 🤷🏻‍♂️</p>\n",
+				"content_text": "I want an android phone 🤷🏻‍♂️\n",
+				"date_published": "2024-02-27T01:20:14+01:00",
+				"url": "https://pawel.orzech.me/2024/02/27/i-want-an.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/02/26/apple-music-works.html",
+				
+				"content_html": "<p>Apple Music works better on Windows than it works on Mac.</p>\n",
+				"content_text": "Apple Music works better on Windows than it works on Mac.\n",
+				"date_published": "2024-02-26T11:10:08+01:00",
+				"url": "https://pawel.orzech.me/2024/02/26/apple-music-works.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/02/26/windows-might-make.html",
+				
+				"content_html": "<p>Windows might make me more open to giving Android another try, but there&rsquo;s no comparable alternative to the Apple Watch on Android, which is a downside (especially since I&rsquo;m now actively engaged in sports and rely on these fitness tracking features).</p>\n",
+				"content_text": "Windows might make me more open to giving Android another try, but there's no comparable alternative to the Apple Watch on Android, which is a downside (especially since I'm now actively engaged in sports and rely on these fitness tracking features).\n",
+				"date_published": "2024-02-26T10:15:55+01:00",
+				"url": "https://pawel.orzech.me/2024/02/26/windows-might-make.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/02/25/windows-on-my.html",
+				
+				"content_html": "<p>Windows on my PC is working great. I love that I am able to play games in my spare time, but what I love the most is that I&rsquo;ve got LOTS and LOTS of CPU and RAM to use. I can open every single thing I want to have opened, and there are literally zero issues. In terms of a mental shift, I believe that Windows/PC is definitely going to be THE OS to use on the desktop, but there is no way I might use a Windows laptop. Therefore, I think that Windows-desktop-PC and Mac-laptop-mobile is the way to go for me now.</p>\n",
+				"content_text": "Windows on my PC is working great. I love that I am able to play games in my spare time, but what I love the most is that I've got LOTS and LOTS of CPU and RAM to use. I can open every single thing I want to have opened, and there are literally zero issues. In terms of a mental shift, I believe that Windows/PC is definitely going to be THE OS to use on the desktop, but there is no way I might use a Windows laptop. Therefore, I think that Windows-desktop-PC and Mac-laptop-mobile is the way to go for me now.\n",
+				"date_published": "2024-02-25T19:09:34+01:00",
+				"url": "https://pawel.orzech.me/2024/02/25/windows-on-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/02/25/since-becoming-a.html",
+				
+				"content_html": "<p>Since becoming a Windows user I&rsquo;m trying to move from Apple-only apps to cross-platform and it&rsquo;s actually going pretty well? The only thing I&rsquo;m seriously missing is Things but Microsoft Todo (especially being free!) is actually a pretty good alternative to Things.</p>\n",
+				"content_text": "Since becoming a Windows user I'm trying to move from Apple-only apps to cross-platform and it's actually going pretty well? The only thing I'm seriously missing is Things but Microsoft Todo (especially being free!) is actually a pretty good alternative to Things.\n",
+				"date_published": "2024-02-25T19:06:03+01:00",
+				"url": "https://pawel.orzech.me/2024/02/25/since-becoming-a.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/02/24/if-your-device.html",
 				
 				"content_html": "<p>If your device doesn’t have usb-c port for charging I don’t want it</p>\n",
@@ -34,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/02/23/bought-some-colorful.html",
 				
 				"content_html": "<p>Bought some colorful binders for MTG cards and seems like I’ve got a nice backdrop for photos now? These are not great obviously but it’s a good start and with some magic called postproduction they might look good!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Bought some colorful binders for MTG cards and seems like I’ve got a nice backdrop for photos now? These are not great obviously but it’s a good start and with some magic called postproduction they might look good!\n\n<img src=\"uploads/2024/a77f9cfe05.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/ac9ac46b92.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Bought some colorful binders for MTG cards and seems like I’ve got a nice backdrop for photos now? These are not great obviously but it’s a good start and with some magic called postproduction they might look good!\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/a77f9cfe05.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2024/ac9ac46b92.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-02-23T12:58:03+01:00",
 				"url": "https://pawel.orzech.me/2024/02/23/bought-some-colorful.html"
 			},
