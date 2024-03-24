@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/03/24/the-local-government.html",
+				
+				"content_html": "<p>The local government campaign is already underway.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The local government campaign is already underway.\n\n<img src=\"uploads/2024/e6d6168c5f.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/a5050c1289.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-24T18:54:00+01:00",
+				"url": "https://pawel.orzech.me/2024/03/24/the-local-government.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/03/23/i-love-that.html",
+				
+				"content_html": "<p>I love that Threads are federating. Ability to read people and not use Threads is great. I can read people who have no idea what mastodon is - on mastodon!</p>\n",
+				"content_text": "I love that Threads are federating. Ability to read people and not use Threads is great. I can read people who have no idea what mastodon is - on mastodon!\n",
+				"date_published": "2024-03-23T15:37:36+01:00",
+				"url": "https://pawel.orzech.me/2024/03/23/i-love-that.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/03/23/exclusive-google-pixel.html",
+				
+				"content_html": "<p><a href=\"https://www.androidauthority.com/google-pixel-8a-specs-exclusive-3426314/\">Exclusive: Google Pixel 8a boasts 120Hz display, Tensor G3, DisplayPort output, better availability</a></p>\n<p>Just release it already, I can’t wait for it. I know what I said about renting out a phone being cheaper but if this is going to be as cheap as I think it is and will have this long support (like 7 years or whatever) I might just get this to have Pixel with long support - even if I want to change it later for either an iPhone or just different android phone. If this would cost 1,5k PLN (about $375) and would be available from Google in Poland officially - I’m gonna just impulse buy it immediately after it’s available.</p>\n",
+				"content_text": "[Exclusive: Google Pixel 8a boasts 120Hz display, Tensor G3, DisplayPort output, better availability](https://www.androidauthority.com/google-pixel-8a-specs-exclusive-3426314/)\n\nJust release it already, I can’t wait for it. I know what I said about renting out a phone being cheaper but if this is going to be as cheap as I think it is and will have this long support (like 7 years or whatever) I might just get this to have Pixel with long support - even if I want to change it later for either an iPhone or just different android phone. If this would cost 1,5k PLN (about $375) and would be available from Google in Poland officially - I’m gonna just impulse buy it immediately after it’s available. \n",
+				"date_published": "2024-03-23T14:58:16+01:00",
+				"url": "https://pawel.orzech.me/2024/03/23/exclusive-google-pixel.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/03/23/i-went-for.html",
+				
+				"content_html": "<p>I went for a walk.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I went for a walk. \n\n<img src=\"uploads/2024/a36a486523.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/ceb94b4424.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/564e744fd5.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/a5d01c6f2a.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-03-23T14:24:23+01:00",
+				"url": "https://pawel.orzech.me/2024/03/23/i-went-for.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/03/22/arc-added-sidebar.html",
+				
+				"content_html": "<p>Arc added Sidebar Sync to their app. Finally it&rsquo;s usable on Windows! Moved from Brave to Arc. I can use it on all of my devices now!</p>\n",
+				"content_text": "Arc added Sidebar Sync to their app. Finally it's usable on Windows! Moved from Brave to Arc. I can use it on all of my devices now!\n",
+				"date_published": "2024-03-22T21:59:41+01:00",
+				"url": "https://pawel.orzech.me/2024/03/22/arc-added-sidebar.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/03/22/seems-like-our.html",
+				
+				"content_html": "<p>Seems like our online Ikea shopping spree was a success! Not only is the new mattress GREAT, but - by mistake! - we ended up buying not 4 small towels, but 4 sets of 4 small towels (I even intended to get 7 and overlooked that it&rsquo;s a multipack). Awesome!</p>\n",
+				"content_text": "Seems like our online Ikea shopping spree was a success! Not only is the new mattress GREAT, but - by mistake! - we ended up buying not 4 small towels, but 4 sets of 4 small towels (I even intended to get 7 and overlooked that it's a multipack). Awesome!\n",
+				"date_published": "2024-03-22T13:30:53+01:00",
+				"url": "https://pawel.orzech.me/2024/03/22/seems-like-our.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/03/20/two-minutes-to.html",
+				
+				"content_html": "<p>Two minutes to read it is still longer than my AI superpowers.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Two minutes to read it is still longer than my AI superpowers.  \n\n<img src=\"uploads/2024/0ad0699a16.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-20T21:55:11+01:00",
+				"url": "https://pawel.orzech.me/2024/03/20/two-minutes-to.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/03/19/google-gemini-advanced.html",
 				
 				"content_html": "<p>Google Gemini Advanced offers 2TB storage for ~$25/month (like ChatGPT Plus). Tempting, but currently it&rsquo;s browser-only in Poland - no mobile app yet. Meh, I wish they added mobile app in Poland - I&rsquo;d actually think about using it instead of ChatGPT then.</p>\n",
