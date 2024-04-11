@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/04/11/oh-look-the.html",
+				
+				"content_html": "<p>Oh, look! The <a href=\"https://www.allbirds.eu/products/mens-tree-runners-forage-green?price-tiers=tier-1%2Ctier-2%2Ctier-3%2Ctier-4&amp;size=eu-46\">best shoes</a> are currently on sale, highly recommended. These are THE ONLY shoes I&rsquo;m purchasing. I&rsquo;ve had the green ones for 4 years now and just acquired new ones, retiring the old pair.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh, look! The [best shoes](https://www.allbirds.eu/products/mens-tree-runners-forage-green?price-tiers=tier-1%2Ctier-2%2Ctier-3%2Ctier-4&size=eu-46) are currently on sale, highly recommended. These are THE ONLY shoes I'm purchasing. I've had the green ones for 4 years now and just acquired new ones, retiring the old pair.\n\n<img src=\"uploads/2024/screenshot-1.png\" width=\"600\" height=\"543\" alt=\"\">\n",
+				"date_published": "2024-04-11T09:43:24+02:00",
+				"url": "https://pawel.orzech.me/2024/04/11/oh-look-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/08/is-there-this.html",
+				
+				"content_html": "<p>Is there this big Android community just as big as there is Apple community? I&rsquo;d like to follow more people from Android world to see new apps and stuff like that.</p>\n",
+				"content_text": "Is there this big Android community just as big as there is Apple community? I'd like to follow more people from Android world to see new apps and stuff like that.\n",
+				"date_published": "2024-04-08T17:18:05+02:00",
+				"url": "https://pawel.orzech.me/2024/04/08/is-there-this.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/08/coincidentally-ive-managed.html",
+				
+				"content_html": "<p>Coincidentally, I&rsquo;ve managed to save up some spare change that would enable me to make the purchase today and get the Pixel 8, but I&rsquo;m choosing to be patient and wait for the Pixel 8a. May 10-ish can&rsquo;t come soon enough.</p>\n",
+				"content_text": "Coincidentally, I've managed to save up some spare change that would enable me to make the purchase today and get the Pixel 8, but I'm choosing to be patient and wait for the Pixel 8a. May 10-ish can't come soon enough.\n",
+				"date_published": "2024-04-08T14:18:37+02:00",
+				"url": "https://pawel.orzech.me/2024/04/08/coincidentally-ive-managed.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/07/sunday-funday.html",
+				
+				"content_html": "<p>Sunday funday.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Sunday funday. \n\n<img src=\"uploads/2024/56020209d2.jpg\" width=\"399\" height=\"600\" alt=\"\"><img src=\"uploads/2024/742173a13e.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/65eed5a1dc.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/f759eaf646.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-04-07T19:56:26+02:00",
+				"url": "https://pawel.orzech.me/2024/04/07/sunday-funday.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/07/yesterday-ive-connected.html",
+				
+				"content_html": "<p>Yesterday I’ve connected most of the things I was able to connect to Home Assistant without the dongle. Even though not much has changed I’ve grouped all of the lights in each room so now I have buttons to turn on/off lights in each room individually quite easily!</p>\n",
+				"content_text": "Yesterday I’ve connected most of the things I was able to connect to Home Assistant without the dongle. Even though not much has changed I’ve grouped all of the lights in each room so now I have buttons to turn on/off lights in each room individually quite easily! \n",
+				"date_published": "2024-04-07T14:44:08+02:00",
+				"url": "https://pawel.orzech.me/2024/04/07/yesterday-ive-connected.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/07/my-drafts-are.html",
+				
+				"content_html": "<p>My drafts are wild - this is what welcomed me when I wanted to post a thing today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My drafts are wild - this is what welcomed me when I wanted to post a thing today. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/c4bf72931c.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-07T14:42:59+02:00",
+				"url": "https://pawel.orzech.me/2024/04/07/my-drafts-are.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/06/i-pulled-the.html",
+				
+				"content_html": "<p>I pulled the trigger last night and purchased a dongle for Home Assistant, which enables me to connect directly with Thread/Matter/Zigbee, along with a very affordable Zigbee-enabled sensor. I believe this signifies my transition from Apple HomeKit to a more platform-agnostic system. I&rsquo;m here for it.</p>\n",
+				"content_text": "I pulled the trigger last night and purchased a dongle for Home Assistant, which enables me to connect directly with Thread/Matter/Zigbee, along with a very affordable Zigbee-enabled sensor. I believe this signifies my transition from Apple HomeKit to a more platform-agnostic system. I'm here for it.\n",
+				"date_published": "2024-04-06T17:55:14+02:00",
+				"url": "https://pawel.orzech.me/2024/04/06/i-pulled-the.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/04/05/madame-web.html",
 				
 				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/634492\">Madame Web (2024)</a> - ★★★★★</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg\" alt=\"Madame Web poster\"></p>\n",
