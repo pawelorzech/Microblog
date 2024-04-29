@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/04/29/simply-because-if.html",
+				
+				"content_html": "<blockquote>\n<p>Simply because, if I could ever bring myself to break out of Apple&rsquo;s walled garden, I would want to steer clear of anything similar. I wouldn&rsquo;t want to just replace everything Apple with everything Google, for example. Source: <a href=\"https://chrishannah.me/micro/2024-04-26-00-30/?utm_source=pocket_reader\"></a></p>\n</blockquote>\n<p>That&rsquo;s why I&rsquo;m trying to get out of this walled garden.</p>\n",
+				"content_text": "> Simply because, if I could ever bring myself to break out of Apple's walled garden, I would want to steer clear of anything similar. I wouldn't want to just replace everything Apple with everything Google, for example. Source: [](https://chrishannah.me/micro/2024-04-26-00-30/?utm_source=pocket_reader)\r\n\r\nThat's why I'm trying to get out of this walled garden. \n",
+				"date_published": "2024-04-29T13:45:34+02:00",
+				"url": "https://pawel.orzech.me/2024/04/29/simply-because-if.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/27/no-but-this.html",
+				
+				"content_html": "<p>No but this is something different. I didn’t know that anything like this was even possible.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "No but this is something different. I didn’t know that anything like this was even possible. \n\n<img src=\"uploads/2024/2d0c1cb017.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/8c3dce8dd1.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/274c6452fb.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-04-27T19:29:14+02:00",
+				"url": "https://pawel.orzech.me/2024/04/27/no-but-this.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/27/yesterday-was-a.html",
+				
+				"content_html": "<p>Yesterday was a good day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yesterday was a good day. \n\n<img src=\"uploads/2024/dd202d3292.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-04-27T09:43:38+02:00",
+				"url": "https://pawel.orzech.me/2024/04/27/yesterday-was-a.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/25/yeah-but-arc.html",
+				
+				"content_html": "<p>Yeah but Arc just dropped Sidebar Sync for Mobile too and now it just makes sense to use Arc because - apparently - it&rsquo;s the only browser that keeps whatever tabs you have open between devices and operating systems. Bonkers.</p>\n",
+				"content_text": "Yeah but Arc just dropped Sidebar Sync for Mobile too and now it just makes sense to use Arc because - apparently - it's the only browser that keeps whatever tabs you have open between devices and operating systems. Bonkers.\n",
+				"date_published": "2024-04-25T17:26:40+02:00",
+				"url": "https://pawel.orzech.me/2024/04/25/yeah-but-arc.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/24/dear-diary-today.html",
+				
+				"content_html": "<p>Dear diary, today I&rsquo;ve used ChatGPT to create backup scripts for my dietpi setup and they do work.</p>\n",
+				"content_text": "Dear diary, today I've used ChatGPT to create backup scripts for my dietpi setup and they do work. \n",
+				"date_published": "2024-04-24T15:56:09+02:00",
+				"url": "https://pawel.orzech.me/2024/04/24/dear-diary-today.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/23/i-have-an.html",
+				
+				"content_html": "<p>I have an itch to create an app. A Mastodon client. I’m gonna start fresh either way but I’m wondering on which platform should I start. I’m using iPhone everyday but I’m thinking about moving to Android sometime soon and there isn’t anything for Mastodon that I’d like to use so I might as well try to make something I’d like to use when on Android. Decisions decisions.</p>\n<p>But I think Android is a better way right now. Especially because I’m gonna work on it on my Windows PC, so it would be easier to do it natively for Android. And when I’m gonna do an app that I love, it’s gonna be easier for me to switch fully to green robots.</p>\n",
+				"content_text": "I have an itch to create an app. A Mastodon client. I’m gonna start fresh either way but I’m wondering on which platform should I start. I’m using iPhone everyday but I’m thinking about moving to Android sometime soon and there isn’t anything for Mastodon that I’d like to use so I might as well try to make something I’d like to use when on Android. Decisions decisions. \n\nBut I think Android is a better way right now. Especially because I’m gonna work on it on my Windows PC, so it would be easier to do it natively for Android. And when I’m gonna do an app that I love, it’s gonna be easier for me to switch fully to green robots. \n",
+				"date_published": "2024-04-23T19:39:56+02:00",
+				"url": "https://pawel.orzech.me/2024/04/23/i-have-an.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/04/22/april.html",
 				
 				"content_html": "<p>April 2024.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "April 2024. \n\n<img src=\"uploads/2024/927c81dd6b.jpg\" width=\"600\" height=\"318\" alt=\"\">\n",
+				"content_text": "April 2024. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/927c81dd6b.jpg\" width=\"600\" height=\"318\" alt=\"\">\n",
 				"date_published": "2024-04-22T19:47:47+02:00",
 				"url": "https://pawel.orzech.me/2024/04/22/april.html"
 			},
@@ -50,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/04/19/194257.html",
 				
 				"content_html": "<p>🏮🛋️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🏮🛋️\n\n<img src=\"uploads/2024/287964bfd6.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/6d3e23f724.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "🏮🛋️\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/287964bfd6.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2024/6d3e23f724.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-04-19T19:42:57+02:00",
 				"url": "https://pawel.orzech.me/2024/04/19/194257.html"
 			},
