@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/05/05/i-know-what.html",
+				
+				"content_html": "<p>I know what I said about having Arc on Windows but it&rsquo;s also the buggiest and slowest browser I&rsquo;ve ever used.</p>\n",
+				"content_text": "I know what I said about having Arc on Windows but it's also the buggiest and slowest browser I've ever used. \n",
+				"date_published": "2024-05-05T16:29:01+02:00",
+				"url": "https://pawel.orzech.me/2024/05/05/i-know-what.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/04/i-adore-it.html",
+				
+				"content_html": "<p>I adore it when my Aqara camera randomly disconnects from HomeKit, forcing me to re-bind it to the system. It&rsquo;s moments like these that truly make me appreciate the dependability of these cameras. Fucking hell&hellip;</p>\n",
+				"content_text": "I adore it when my Aqara camera randomly disconnects from HomeKit, forcing me to re-bind it to the system. It's moments like these that truly make me appreciate the dependability of these cameras. Fucking hell...\n",
+				"date_published": "2024-05-04T10:45:07+02:00",
+				"url": "https://pawel.orzech.me/2024/05/04/i-adore-it.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/03/bought-myself-an.html",
+				
+				"content_html": "<p>Bought myself an app called <a href=\"https://apps.apple.com/us/app/tusks-for-mastodon/id6473683937\">Tusks</a> that basically makes writing threads/longposts on Mastodon really easy. If you&rsquo;re into that - highly recommended.</p>\n<p>I&rsquo;m currently in micro.blog-first scenario but I see myself leaving everything and moving to my own Mastodon server, so having Tusks available is great.</p>\n",
+				"content_text": "Bought myself an app called [Tusks](https://apps.apple.com/us/app/tusks-for-mastodon/id6473683937) that basically makes writing threads/longposts on Mastodon really easy. If you're into that - highly recommended. \n\nI'm currently in micro.blog-first scenario but I see myself leaving everything and moving to my own Mastodon server, so having Tusks available is great.\n",
+				"date_published": "2024-05-03T23:12:52+02:00",
+				"url": "https://pawel.orzech.me/2024/05/03/bought-myself-an.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/03/after-getting-arc.html",
+				
+				"content_html": "<p>After getting Arc Sync on Windows (with all the cool stuff like extensions and favorites), I&rsquo;m totally hooked on Arc. It&rsquo;s smooth sailing on my Mac and iOS, and not too shabby on Windows either.</p>\n<p>No other browser syncs tabs, and as someone who switches between Mac and Windows, I need that to keep my sanity intact. I use my MacBook Air on the go and my big ol' desktop PC for work or chilling at home. I come across interesting reads on all three devices, and with Arc Sync, I can just pin them as tabs and access them wherever I am, no matter the device.</p>\n<p>It might sound a bit crazy to care so much about a browser, but after going through the multi-OS journey, I&rsquo;ve really come to appreciate having my tabs synced up. Arc is the only browser that truly gets it right, unlike Brave, Chrome, Edge, Firefox, and the rest, which just show what&rsquo;s on other devices without the real sync magic.</p>\n<p>It all started just like Dropbox - wanting a folder that syncs across devices. Now, I want a browser that does the same. It&rsquo;s mind-blowing to think that no one thought of this before Arc.</p>\n",
+				"content_text": "After getting Arc Sync on Windows (with all the cool stuff like extensions and favorites), I'm totally hooked on Arc. It's smooth sailing on my Mac and iOS, and not too shabby on Windows either.\n\nNo other browser syncs tabs, and as someone who switches between Mac and Windows, I need that to keep my sanity intact. I use my MacBook Air on the go and my big ol' desktop PC for work or chilling at home. I come across interesting reads on all three devices, and with Arc Sync, I can just pin them as tabs and access them wherever I am, no matter the device.\n\nIt might sound a bit crazy to care so much about a browser, but after going through the multi-OS journey, I've really come to appreciate having my tabs synced up. Arc is the only browser that truly gets it right, unlike Brave, Chrome, Edge, Firefox, and the rest, which just show what's on other devices without the real sync magic.\n\nIt all started just like Dropbox - wanting a folder that syncs across devices. Now, I want a browser that does the same. It's mind-blowing to think that no one thought of this before Arc.\n",
+				"date_published": "2024-05-03T19:38:20+02:00",
+				"url": "https://pawel.orzech.me/2024/05/03/after-getting-arc.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/02/my-own-ian.html",
+				
+				"content_html": "<blockquote>\n<p>My own Ian Knot (yes – I&rsquo;m the inventor) is the World&rsquo;s Fastest Shoelace Knot. <a href=\"https://www.fieggen.com/shoelace/ianknot.htm\">Source</a>.</p>\n</blockquote>\n<p>What. I’m gonna do it from now on!</p>\n",
+				"content_text": ">My own Ian Knot (yes – I'm the inventor) is the World's Fastest Shoelace Knot. [Source](https://www.fieggen.com/shoelace/ianknot.htm). \n\nWhat. I’m gonna do it from now on!\n",
+				"date_published": "2024-05-02T11:48:56+02:00",
+				"url": "https://pawel.orzech.me/2024/05/02/my-own-ian.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/02/fucked-up-my.html",
+				
+				"content_html": "<p>Fucked up my home setup today but thanks to home assistant unfucking was pretty easy. Also - the only things that are missing from HA are thermostats (Eve Thermo is not really playing nice with HA), Nanoleaf Essential bulb (I hate it, can’t wait to change it to something more HA friendly) and my set of cameras. But I don’t think there’s a way to have cameras in HomeKit security camera whatever and home assistant.</p>\n<p>I’m gonna change this Nanoleaf one day but changing thermostats is going to be pain in the ass especially because they do work great and finding something that will be as quiet (they are not really quiet but quiet enough) and work nicely with HA is a couple hundred $ and I’m not really looking for a new place to spend money.</p>\n",
+				"content_text": "Fucked up my home setup today but thanks to home assistant unfucking was pretty easy. Also - the only things that are missing from HA are thermostats (Eve Thermo is not really playing nice with HA), Nanoleaf Essential bulb (I hate it, can’t wait to change it to something more HA friendly) and my set of cameras. But I don’t think there’s a way to have cameras in HomeKit security camera whatever and home assistant. \n\nI’m gonna change this Nanoleaf one day but changing thermostats is going to be pain in the ass especially because they do work great and finding something that will be as quiet (they are not really quiet but quiet enough) and work nicely with HA is a couple hundred $ and I’m not really looking for a new place to spend money. \n",
+				"date_published": "2024-05-02T00:19:54+02:00",
+				"url": "https://pawel.orzech.me/2024/05/02/fucked-up-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/01/love-that-these.html",
+				
+				"content_html": "<p>Love that these automatic updates are actually not happening automatically.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Love that these automatic updates are actually not happening automatically. \n\n<img src=\"uploads/2024/bda88ac8ad.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-05-01T15:45:36+02:00",
+				"url": "https://pawel.orzech.me/2024/05/01/love-that-these.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/30/added-blogroll-to.html",
+				
+				"content_html": "<p><a href=\"https://pawel.orzech.me/\">Added blogroll to my blog</a>, not really done with it but at least it&rsquo;s here.</p>\n",
+				"content_text": "[Added blogroll to my blog](https://pawel.orzech.me/), not really done with it but at least it's here.\n",
+				"date_published": "2024-04-30T00:03:01+02:00",
+				"url": "https://pawel.orzech.me/2024/04/30/added-blogroll-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/04/29/gone-like-a.html",
+				
+				"content_html": "<p>🎵 <a href=\"https://www.last.fm/music/Club+Khru/_/Gone+Like+A+Flower\">Gone Like A Flower - Club Khru</a> - ★★★★★</p>\n",
+				"content_text": "🎵 [Gone Like A Flower - Club Khru](https://www.last.fm/music/Club+Khru/_/Gone+Like+A+Flower) - ★★★★★\r\n\r\n",
+				"date_published": "2024-04-29T17:29:36+02:00",
+				"url": "https://pawel.orzech.me/2024/04/29/gone-like-a.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/04/29/simply-because-if.html",
 				
-				"content_html": "<blockquote>\n<p>Simply because, if I could ever bring myself to break out of Apple&rsquo;s walled garden, I would want to steer clear of anything similar. I wouldn&rsquo;t want to just replace everything Apple with everything Google, for example. Source: <a href=\"https://chrishannah.me/micro/2024-04-26-00-30/?utm_source=pocket_reader\"></a></p>\n</blockquote>\n<p>That&rsquo;s why I&rsquo;m trying to get out of this walled garden.</p>\n",
-				"content_text": "> Simply because, if I could ever bring myself to break out of Apple's walled garden, I would want to steer clear of anything similar. I wouldn't want to just replace everything Apple with everything Google, for example. Source: [](https://chrishannah.me/micro/2024-04-26-00-30/?utm_source=pocket_reader)\r\n\r\nThat's why I'm trying to get out of this walled garden. \n",
+				"content_html": "<blockquote>\n<p>Simply because, if I could ever bring myself to break out of Apple&rsquo;s walled garden, I would want to steer clear of anything similar. I wouldn&rsquo;t want to just replace everything Apple with everything Google, for example. Source: <a href=\"https://chrishannah.me/micro/2024-04-26-00-30/?utm_source=pocket_reader\">https://chrishannah.me/micro/2024-04-26-00-30/</a></p>\n</blockquote>\n<p>That&rsquo;s why I&rsquo;m trying to get out of this walled garden.</p>\n",
+				"content_text": "> Simply because, if I could ever bring myself to break out of Apple's walled garden, I would want to steer clear of anything similar. I wouldn't want to just replace everything Apple with everything Google, for example. Source: [https://chrishannah.me/micro/2024-04-26-00-30/](https://chrishannah.me/micro/2024-04-26-00-30/?utm_source=pocket_reader)\n\nThat's why I'm trying to get out of this walled garden. \n",
 				"date_published": "2024-04-29T13:45:34+02:00",
 				"url": "https://pawel.orzech.me/2024/04/29/simply-because-if.html"
 			},
@@ -18,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/04/27/no-but-this.html",
 				
 				"content_html": "<p>No but this is something different. I didn’t know that anything like this was even possible.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "No but this is something different. I didn’t know that anything like this was even possible. \n\n<img src=\"uploads/2024/2d0c1cb017.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/8c3dce8dd1.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/274c6452fb.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "No but this is something different. I didn’t know that anything like this was even possible. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/2d0c1cb017.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2024/8c3dce8dd1.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96132/2024/274c6452fb.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-04-27T19:29:14+02:00",
 				"url": "https://pawel.orzech.me/2024/04/27/no-but-this.html"
 			},
@@ -26,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/04/27/yesterday-was-a.html",
 				
 				"content_html": "<p>Yesterday was a good day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yesterday was a good day. \n\n<img src=\"uploads/2024/dd202d3292.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Yesterday was a good day. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/dd202d3292.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-04-27T09:43:38+02:00",
 				"url": "https://pawel.orzech.me/2024/04/27/yesterday-was-a.html"
 			},
