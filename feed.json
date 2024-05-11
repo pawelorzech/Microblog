@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/05/11/i-mean-this.html",
+				
+				"content_html": "<p>I mean… this is one way of starting your weekend I guess?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I mean… this is one way of starting your weekend I guess?\n\n<img src=\"uploads/2024/c40c0b07f8.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-05-11T14:03:44+02:00",
+				"url": "https://pawel.orzech.me/2024/05/11/i-mean-this.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/09/cola-zero-zero.html",
+				
+				"content_html": "<p>Cola Zero Zero (without sugar and caffeine) is the best Cola and nobody can convince me otherwise.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Cola Zero Zero (without sugar and caffeine) is the best Cola and nobody can convince me otherwise.\n\n<img src=\"uploads/2024/3254beff72.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-05-09T20:24:39+02:00",
+				"url": "https://pawel.orzech.me/2024/05/09/cola-zero-zero.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/08/jonathan-from-australian.html",
+				
+				"content_html": "<p>Jonathan from Australian Survivor is better Jeff than Jeff is. I said what I said.</p>\n",
+				"content_text": "Jonathan from Australian Survivor is better Jeff than Jeff is. I said what I said. \n",
+				"date_published": "2024-05-08T20:33:11+02:00",
+				"url": "https://pawel.orzech.me/2024/05/08/jonathan-from-australian.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/07/i-dont-care.html",
+				
+				"content_html": "<p>I don’t care about updated iPads as long as they didn’t update the mini. Justice for iPad mini, please update it to the M1 or whatever.</p>\n",
+				"content_text": "I don’t care about updated iPads as long as they didn’t update the mini. Justice for iPad mini, please update it to the M1 or whatever. \n",
+				"date_published": "2024-05-07T16:53:21+02:00",
+				"url": "https://pawel.orzech.me/2024/05/07/i-dont-care.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/05/dear-diary-today.html",
+				
+				"content_html": "<p>Dear diary, today my Sonos just blew up and I had to reconnect everything. Apart from that Aqara cameras were disappearing every couple minutes from home app but I did unfuck that as well. Today was a good day.</p>\n",
+				"content_text": "Dear diary, today my Sonos just blew up and I had to reconnect everything. Apart from that Aqara cameras were disappearing every couple minutes from home app but I did unfuck that as well. Today was a good day. \n",
+				"date_published": "2024-05-05T20:29:36+02:00",
+				"url": "https://pawel.orzech.me/2024/05/05/dear-diary-today.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/05/05/i-know-what.html",
 				
 				"content_html": "<p>I know what I said about having Arc on Windows but it&rsquo;s also the buggiest and slowest browser I&rsquo;ve ever used.</p>\n",
@@ -58,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/05/01/love-that-these.html",
 				
 				"content_html": "<p>Love that these automatic updates are actually not happening automatically.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Love that these automatic updates are actually not happening automatically. \n\n<img src=\"uploads/2024/bda88ac8ad.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Love that these automatic updates are actually not happening automatically. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/bda88ac8ad.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-01T15:45:36+02:00",
 				"url": "https://pawel.orzech.me/2024/05/01/love-that-these.html"
 			},
