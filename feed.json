@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/05/25/th-of-may.html",
+				
+				"content_html": "<p>25th of May. The day we turned on the AC.</p>\n",
+				"content_text": "25th of May. The day we turned on the AC.\n",
+				"date_published": "2024-05-25T16:11:12+02:00",
+				"url": "https://pawel.orzech.me/2024/05/25/th-of-may.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/23/took-me-two.html",
+				
+				"content_html": "<p>Took me two whole days to get my home setup up and running again. It works now!</p>\n",
+				"content_text": "Took me two whole days to get my home setup up and running again. It works now! \n",
+				"date_published": "2024-05-23T19:18:58+02:00",
+				"url": "https://pawel.orzech.me/2024/05/23/took-me-two.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/22/fucking-hell-this.html",
+				
+				"content_html": "<p>Fucking hell, this is some kind of different shit, I have to set up everything from scratch because TWO of my backups aren&rsquo;t really working. What a pain in the ass. I&rsquo;m actually ditching most of the HA goodies and going back into Home.app for whatever I can. Just because it worked BETTER. It was slower - yes, but it wasn&rsquo;t dying out of the blue.</p>\n",
+				"content_text": "Fucking hell, this is some kind of different shit, I have to set up everything from scratch because TWO of my backups aren't really working. What a pain in the ass. I'm actually ditching most of the HA goodies and going back into Home.app for whatever I can. Just because it worked BETTER. It was slower - yes, but it wasn't dying out of the blue.\n",
+				"date_published": "2024-05-22T13:27:50+02:00",
+				"url": "https://pawel.orzech.me/2024/05/22/fucking-hell-this.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/22/why-ive-connected.html",
+				
+				"content_html": "<p>Why I&rsquo;ve connected new HDD to dietpi setup? Because of magic my setup just blew up, I&rsquo;ve got backups, but it&rsquo;s 1:30 AM and I can&rsquo;t turn my lights off. Holy fuck this is my smart home nightmare.</p>\n",
+				"content_text": "Why I've connected new HDD to dietpi setup? Because of magic my setup just blew up, I've got backups, but it's 1:30 AM and I can't turn my lights off. Holy fuck this is my smart home nightmare.\n",
+				"date_published": "2024-05-22T01:29:00+02:00",
+				"url": "https://pawel.orzech.me/2024/05/22/why-ive-connected.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/05/21/i-think-i.html",
+				
+				"content_html": "<p>I think I might enjoy using iPad Pro as my mobile computing device of choice but there’s no way in hell I’m buying that with my own money.</p>\n",
+				"content_text": "I think I might enjoy using iPad Pro as my mobile computing device of choice but there’s no way in hell I’m buying that with my own money. \n",
+				"date_published": "2024-05-21T01:22:31+02:00",
+				"url": "https://pawel.orzech.me/2024/05/21/i-think-i.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/05/19/bought-myself-next.html",
 				
 				"content_html": "<p>Bought myself next HDD for my Plex library. +2 TB it is.</p>\n",
