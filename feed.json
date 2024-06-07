@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/06/07/im-just-a.html",
+				
+				"content_html": "<p>I&rsquo;m just a little bit tired, good tired but tired nonetheless.</p>\n",
+				"content_text": "I'm just a little bit tired, good tired but tired nonetheless.\n",
+				"date_published": "2024-06-07T22:31:45+02:00",
+				"url": "https://pawel.orzech.me/2024/06/07/im-just-a.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/06/03/with-spotify-raising.html",
+				
+				"content_html": "<p>With Spotify raising prices in USA (again!) I&rsquo;m thinking that raise of prices in Poland is inevitable and if they raise them again I don&rsquo;t think I&rsquo;d like to pay for it anymore especially when it is Apple-mostly household and we do pay for Apple One with Apple Music included.</p>\n<p>Things are getting more expensive and - finally - it is time to cut on some unnecessary subscriptions.</p>\n",
+				"content_text": "With Spotify raising prices in USA (again!) I'm thinking that raise of prices in Poland is inevitable and if they raise them again I don't think I'd like to pay for it anymore especially when it is Apple-mostly household and we do pay for Apple One with Apple Music included. \r\n\r\nThings are getting more expensive and - finally - it is time to cut on some unnecessary subscriptions.  \n",
+				"date_published": "2024-06-03T14:06:10+02:00",
+				"url": "https://pawel.orzech.me/2024/06/03/with-spotify-raising.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/06/02/about-last-night.html",
+				
+				"content_html": "<p>About last night.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "About last night. \n\n<img src=\"uploads/2024/43322469f2.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/b0c7cb34da.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e6f97e0816.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-06-02T11:54:57+02:00",
+				"url": "https://pawel.orzech.me/2024/06/02/about-last-night.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/06/01/happy-days.html",
+				
+				"content_html": "<p>Happy days.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy days. \n\n<img src=\"uploads/2024/79a3197840.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-01T00:37:09+02:00",
+				"url": "https://pawel.orzech.me/2024/06/01/happy-days.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/05/30/having-a-personal.html",
 				
 				"content_html": "<p>Having a personal trainer is great but it still hurts.</p>\n",
