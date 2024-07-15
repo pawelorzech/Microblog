@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/07/15/just-make-it.html",
+				
+				"content_html": "<p>Just make it available and I&rsquo;m gonna get one. For science, of course.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Just make it available and I'm gonna get one. For science, of course. \n\n<img src=\"uploads/2024/screenshot-mnrr3tag-from-arc-2024-07-15-at-18.56.342x.png\" alt=\"\" width=\"854\" height=\"611\" /><img src=\"uploads/2024/screenshot-vib2vwg6-from-arc-2024-07-15-at-18.56.292x.png\" alt=\"\" width=\"386\" height=\"463\" />\n",
+				"date_published": "2024-07-15T18:57:03+02:00",
+				"url": "https://pawel.orzech.me/2024/07/15/just-make-it.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/10/hey-apple-computers.html",
+				
+				"content_html": "<p>Hey Apple Computers please update iPad mini cause I want it, thanks.</p>\n",
+				"content_text": "Hey Apple Computers please update iPad mini cause I want it, thanks.\n",
+				"date_published": "2024-07-10T12:14:54+02:00",
+				"url": "https://pawel.orzech.me/2024/07/10/hey-apple-computers.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/10/because-of-how.html",
+				
+				"content_html": "<p>Because of how time and plans work I might be able to do something with that social.ovh domain in about two weeks but I already can’t wait!</p>\n",
+				"content_text": "Because of how time and plans work I might be able to do something with that social.ovh domain in about two weeks but I already can’t wait! \n",
+				"date_published": "2024-07-10T00:07:34+02:00",
+				"url": "https://pawel.orzech.me/2024/07/10/because-of-how.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/09/socialovh-was-free.html",
+				
+				"content_html": "<p>social.ovh was free so I bought it</p>\n",
+				"content_text": "social.ovh was free so I bought it\n",
+				"date_published": "2024-07-09T22:42:26+02:00",
+				"url": "https://pawel.orzech.me/2024/07/09/socialovh-was-free.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/08/thinking-about-spinning.html",
+				
+				"content_html": "<p>Thinking about spinning up another Mastodon instance (just cause I like it!) and bought a great domain for it - atweb.blog. I mean - it definitely FEELS cool.</p>\n",
+				"content_text": "Thinking about spinning up another Mastodon instance (just cause I like it!) and bought a great domain for it - atweb.blog. I mean - it definitely FEELS cool.\n",
+				"date_published": "2024-07-08T14:33:58+02:00",
+				"url": "https://pawel.orzech.me/2024/07/08/thinking-about-spinning.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/08/if-youre-a.html",
+				
+				"content_html": "<p>If you&rsquo;re a media outlet and you&rsquo;re not hosting your own social media instance (whatever it could be - Mastodon, Pixelfed, anything that federates) you&rsquo;re doing it wrong. I personally refuse to use content services hosted by 3rd party (or for free) because I don&rsquo;t want them to mess with my content. Even though most of my content is me whining about internets.</p>\n",
+				"content_text": "If you're a media outlet and you're not hosting your own social media instance (whatever it could be - Mastodon, Pixelfed, anything that federates) you're doing it wrong. I personally refuse to use content services hosted by 3rd party (or for free) because I don't want them to mess with my content. Even though most of my content is me whining about internets.\n",
+				"date_published": "2024-07-08T13:52:39+02:00",
+				"url": "https://pawel.orzech.me/2024/07/08/if-youre-a.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/08/i-would-use.html",
+				
+				"content_html": "<p>I would use Google Gemini Pro more if they had a proper iOS app.</p>\n",
+				"content_text": "I would use Google Gemini Pro more if they had a proper iOS app.\n",
+				"date_published": "2024-07-08T13:47:43+02:00",
+				"url": "https://pawel.orzech.me/2024/07/08/i-would-use.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/07/the-design-of.html",
+				
+				"content_html": "<p>The design of our next apartment isn’t about being meticulously planned, but I can share a playlist with you that will perfectly capture the atmosphere we want. Each song will embody the exact vibe of our future home.</p>\n",
+				"content_text": "The design of our next apartment isn’t about being meticulously planned, but I can share a playlist with you that will perfectly capture the atmosphere we want. Each song will embody the exact vibe of our future home.\n",
+				"date_published": "2024-07-07T18:10:34+02:00",
+				"url": "https://pawel.orzech.me/2024/07/07/the-design-of.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/07/05/people-who-drink.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://blast-o-rama.com/2024/06/25/people-who-drink.html\">People who drink Caffeine-Free, Diet Coke: Why? What are you getting out of it at that point?</a></p>\n</blockquote>\n<p>I just like the taste and it&rsquo;s not making me unable to sleep at night. Also cola with sugar tastes bad.</p>\n",
