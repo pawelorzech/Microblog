@@ -7,6 +7,134 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/07/21/chef-too-much.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/212778\">Chef (2014)</a> - ★★★☆☆\nToo much of a cliche. Heartwarming, but cliche.</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/yMtKHR6VG1Yagvv5F7IFpsGBm66.jpg\" alt=\"Chef poster\"></p>\n",
+				"content_text": "🍿 [Chef (2014)](https://www.themoviedb.org/movie/212778) - ★★★☆☆\r\nToo much of a cliche. Heartwarming, but cliche. \r\n\r\n![Chef poster](https://image.tmdb.org/t/p/w780/yMtKHR6VG1Yagvv5F7IFpsGBm66.jpg)\n",
+				"date_published": "2024-07-21T18:03:13+02:00",
+				"url": "https://pawel.orzech.me/2024/07/21/chef-too-much.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/googles-googl-shortened.html",
+				
+				"content_html": "<blockquote>\n<p>Google&rsquo;s goo.gl shortened links will stop working after August 2025Source: <a href=\"https://alternativeto.net/news/2024/7/google-s-goo-gl-shortened-links-will-stop-working-after-august-2025/\">Google&rsquo;s goo.gl shortened links will stop working after August 2025 | AlternativeTo</a></p>\n</blockquote>\n<p>Don&rsquo;t trust the big companies, if the spreadsheet says it&rsquo;s no longer profitable, you&rsquo;re gonna be fucked. And in the very end - you WILL BE at some point.</p>\n<p>God damn, I&rsquo;m becoming more and more open-web evangelist. And all I really, really want is just to use the thing I like.</p>\n",
+				"content_text": "> Google's goo.gl shortened links will stop working after August 2025Source: [Google's goo.gl shortened links will stop working after August 2025 | AlternativeTo](https://alternativeto.net/news/2024/7/google-s-goo-gl-shortened-links-will-stop-working-after-august-2025/)\r\n\r\nDon't trust the big companies, if the spreadsheet says it's no longer profitable, you're gonna be fucked. And in the very end - you WILL BE at some point. \r\n\r\nGod damn, I'm becoming more and more open-web evangelist. And all I really, really want is just to use the thing I like.\n",
+				"date_published": "2024-07-20T18:19:06+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/googles-googl-shortened.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/michael-tsai-blog.html",
+				"title": "Michael Tsai - Blog - Chromium Browsers Preferencing *.google.com Domains",
+				"content_html": "<!-- raw HTML omitted -->\n<p>It&rsquo;s easier to jump Chromium ship on Mac - there&rsquo;s Safari. But on Windows? I don&rsquo;t want to think about getting to Firefox because they have started making bad decisions and I think this trend will (unfortunately) continue. <!-- raw HTML omitted --></p>\n",
+				"content_text": "<p><a href=\"https://mjtsai.com/blog/2024/07/16/chromium-browsers-preferencing-google-com-domains/\">Michael Tsai - Blog - Chromium Browsers Preferencing *.google.com Domains</a>:</p>\n\nIt's easier to jump Chromium ship on Mac - there's Safari. But on Windows? I don't want to think about getting to Firefox because they have started making bad decisions and I think this trend will (unfortunately) continue. <br />\n",
+				"date_published": "2024-07-20T16:45:11+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/michael-tsai-blog.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/im-fortunate-enough.html",
+				
+				"content_html": "<p>I&rsquo;m fortunate enough to have the means and skills to provide services for people, for free, such as a Mastodon or FreshRSS instance. Currently, I&rsquo;m considering launching another completely free service. I&rsquo;m gravitating towards either Pixelfed or Writefreely. Pixelfed would be more labor-intensive but would likely attract more users. Writefreely, on the other hand, would be much easier and cheaper (not only in terms of labor), but I&rsquo;m unsure how many people are interested in having a blog.</p>\n",
+				"content_text": "I'm fortunate enough to have the means and skills to provide services for people, for free, such as a Mastodon or FreshRSS instance. Currently, I'm considering launching another completely free service. I'm gravitating towards either Pixelfed or Writefreely. Pixelfed would be more labor-intensive but would likely attract more users. Writefreely, on the other hand, would be much easier and cheaper (not only in terms of labor), but I'm unsure how many people are interested in having a blog.\n",
+				"date_published": "2024-07-20T16:07:53+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/im-fortunate-enough.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/new-hat-who.html",
+				
+				"content_html": "<p>New hat who dis</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New hat who dis \n\n<img src=\"uploads/2024/a86f17e1b6.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-07-20T14:45:03+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/new-hat-who.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/at-this-point.html",
+				
+				"content_html": "<p>At this point it feels weird to not start a Saturday this way.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "At this point it feels weird to not start a Saturday this way. \n\n<img src=\"uploads/2024/f71d8c4fcc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-20T13:47:29+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/at-this-point.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/telegram-going-more.html",
+				
+				"content_html": "<p>Telegram going more and more crypto route makes me anxious about its future. Also signal is better and I know that one day this will be my default.</p>\n",
+				"content_text": "Telegram going more and more crypto route makes me anxious about its future. Also signal is better and I know that one day this will be my default. \n",
+				"date_published": "2024-07-20T01:36:45+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/telegram-going-more.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/i-have-to.html",
+				
+				"content_html": "<p>I have to connect this blog with DayOne. I&rsquo;d like to have my posts backed up there.</p>\n",
+				"content_text": "I have to connect this blog with DayOne. I'd like to have my posts backed up there.\n",
+				"date_published": "2024-07-20T01:28:09+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/i-have-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/being-off-facebook.html",
+				
+				"content_html": "<p>Being off Facebook, Instagram, and Twitter sometimes makes me feel like I&rsquo;m missing out on something, like being there would make me happier or more connected. But then I realize that I&rsquo;m not feeling unhappy or disconnected. Even more, I feel much, much better after getting rid of things that made me glued to my phone. It just feels too good to use them; they can&rsquo;t be beneficial to my mental health if they feel so dopamine-inducing.</p>\n",
+				"content_text": "Being off Facebook, Instagram, and Twitter sometimes makes me feel like I'm missing out on something, like being there would make me happier or more connected. But then I realize that I'm not feeling unhappy or disconnected. Even more, I feel much, much better after getting rid of things that made me glued to my phone. It just feels too good to use them; they can't be beneficial to my mental health if they feel so dopamine-inducing.\n",
+				"date_published": "2024-07-20T01:15:51+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/being-off-facebook.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/20/its-friday-so.html",
+				
+				"content_html": "<p>It&rsquo;s Friday, so of course I&rsquo;d love to stay up for an insane amount of time just to read ALL of the internet.</p>\n",
+				"content_text": "It's Friday, so of course I'd love to stay up for an insane amount of time just to read ALL of the internet.\n",
+				"date_published": "2024-07-20T01:09:46+02:00",
+				"url": "https://pawel.orzech.me/2024/07/20/its-friday-so.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/19/til-if-i.html",
+				
+				"content_html": "<p>TIL: If I want to maintain my macronutrients ratio, normal pasta with tomatoes is off the table. 😅</p>\n",
+				"content_text": "TIL: If I want to maintain my macronutrients ratio, normal pasta with tomatoes is off the table. 😅\n",
+				"date_published": "2024-07-19T17:47:06+02:00",
+				"url": "https://pawel.orzech.me/2024/07/19/til-if-i.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/19/never-argue-on.html",
+				
+				"content_html": "<blockquote>\n<p>Never argue on the internet. No one will remember whether you won or lost the argument; they&rsquo;ll just remember that you are the sort of person who argues on the internet.Source: <a href=\"https://github.com/merlinmann/wisdom/blob/master/wisdom.md\">wisdom/wisdom.md at master · merlinmann/wisdom</a></p>\n</blockquote>\n<p>I come back to this list often.</p>\n",
+				"content_text": "> Never argue on the internet. No one will remember whether you won or lost the argument; they'll just remember that you are the sort of person who argues on the internet.Source: [wisdom/wisdom.md at master · merlinmann/wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)\r\n\r\nI come back to this list often.\n",
+				"date_published": "2024-07-19T14:01:13+02:00",
+				"url": "https://pawel.orzech.me/2024/07/19/never-argue-on.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/18/challengers.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/937287\">Challengers (2024)</a> - ★★★★☆</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/H6vke7zGiuLsz4v4RPeReb9rsv.jpg\" alt=\"Challengers poster\"></p>\n",
+				"content_text": "🍿 [Challengers (2024)](https://www.themoviedb.org/movie/937287) - ★★★★☆\r\n\r\n![Challengers poster](https://image.tmdb.org/t/p/w780/H6vke7zGiuLsz4v4RPeReb9rsv.jpg)\n",
+				"date_published": "2024-07-18T23:23:17+02:00",
+				"url": "https://pawel.orzech.me/2024/07/18/challengers.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/17/if-i-ever.html",
+				
+				"content_html": "<p>If I ever have to ditch Arc, I&rsquo;ll move to Brave because it&rsquo;s the only browser that works exactly as I expect. Chrome isn&rsquo;t it, Firefox doesn&rsquo;t always work (and the iOS app is really bad), and Vivaldi is just too much to make it like Brave or Chrome. This is where I&rsquo;m at. Also, I&rsquo;m using Chrome exclusively for work stuff, and there are literally no issues (apart from it sending all my data to Google instead of keeping it private).</p>\n",
+				"content_text": "If I ever have to ditch Arc, I'll move to Brave because it's the only browser that works exactly as I expect. Chrome isn't it, Firefox doesn't always work (and the iOS app is really bad), and Vivaldi is just too much to make it like Brave or Chrome. This is where I'm at. Also, I'm using Chrome exclusively for work stuff, and there are literally no issues (apart from it sending all my data to Google instead of keeping it private).\n",
+				"date_published": "2024-07-17T12:56:59+02:00",
+				"url": "https://pawel.orzech.me/2024/07/17/if-i-ever.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/16/homescreen.html",
+				
+				"content_html": "<p>Homescreen, 07/2024.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Homescreen, 07/2024. \n\n<img src=\"uploads/2024/26b2593028.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-16T13:10:57+02:00",
+				"url": "https://pawel.orzech.me/2024/07/16/homescreen.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/15/the-only-thing.html",
+				
+				"content_html": "<p>The only thing that is really missing from CMF Phone 1 is NFC. Other than that - I could manage. This price is unbeatable.</p>\n",
+				"content_text": "The only thing that is really missing from CMF Phone 1 is NFC. Other than that - I could manage. This price is unbeatable.\n",
+				"date_published": "2024-07-15T19:00:24+02:00",
+				"url": "https://pawel.orzech.me/2024/07/15/the-only-thing.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/07/15/just-make-it.html",
 				
 				"content_html": "<p>Just make it available and I&rsquo;m gonna get one. For science, of course.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
