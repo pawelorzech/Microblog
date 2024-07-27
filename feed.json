@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/07/27/look-ma-tomatoes.html",
+				
+				"content_html": "<p>Look ma! Tomatoes!🍅</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Look ma! Tomatoes!🍅 \n\n<img src=\"uploads/2024/6bc8ecf51f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-27T15:57:07+02:00",
+				"url": "https://pawel.orzech.me/2024/07/27/look-ma-tomatoes.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/25/sometimes-i-put.html",
+				
+				"content_html": "<p>Sometimes I put my phone in a case (it’s 99% of the time the dbrand grip case because it’s just too good and too grippy not to use it) and my phone usage changes. When it’s in the case it feels more like a tool, but when I take it out of the case it’s just a nicely designed object. I fidget with naked phone much more than I do with a grippy case. Interesting observation. Today it is in a case, but on the weekend it’s going to be a case off situation. This was a post about me using a case sometimes. I do think about such things too much.</p>\n",
+				"content_text": "Sometimes I put my phone in a case (it’s 99% of the time the dbrand grip case because it’s just too good and too grippy not to use it) and my phone usage changes. When it’s in the case it feels more like a tool, but when I take it out of the case it’s just a nicely designed object. I fidget with naked phone much more than I do with a grippy case. Interesting observation. Today it is in a case, but on the weekend it’s going to be a case off situation. This was a post about me using a case sometimes. I do think about such things too much. \n",
+				"date_published": "2024-07-25T00:22:07+02:00",
+				"url": "https://pawel.orzech.me/2024/07/25/sometimes-i-put.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/22/it-feels-funny.html",
+				
+				"content_html": "<p>It feels funny to have HomeAssistant set up and ready for a new flat&hellip; without actually having done ANYTHING in that flat. But I&rsquo;m gonna be ready when the time comes!</p>\n",
+				"content_text": "It feels funny to have HomeAssistant set up and ready for a new flat... without actually having done ANYTHING in that flat. But I'm gonna be ready when the time comes!\n",
+				"date_published": "2024-07-22T16:53:37+02:00",
+				"url": "https://pawel.orzech.me/2024/07/22/it-feels-funny.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/07/22/thats-the-issue.html",
+				
+				"content_html": "<p>That&rsquo;s the issue with PC&rsquo;s that can&rsquo;t be moved easily - it&rsquo;s too hot for me to sit in the office and I had to move out to the living room (because it has AC) and now I&rsquo;m on my old (M1) Mac. Also - this Mac works perfectly fine but get&rsquo;s hot when under heavy load. I still love it though.</p>\n",
+				"content_text": "That's the issue with PC's that can't be moved easily - it's too hot for me to sit in the office and I had to move out to the living room (because it has AC) and now I'm on my old (M1) Mac. Also - this Mac works perfectly fine but get's hot when under heavy load. I still love it though.\n",
+				"date_published": "2024-07-22T12:35:37+02:00",
+				"url": "https://pawel.orzech.me/2024/07/22/thats-the-issue.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/07/21/chef-too-much.html",
 				
 				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/212778\">Chef (2014)</a> - ★★★☆☆\nToo much of a cliche. Heartwarming, but cliche.</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/yMtKHR6VG1Yagvv5F7IFpsGBm66.jpg\" alt=\"Chef poster\"></p>\n",
