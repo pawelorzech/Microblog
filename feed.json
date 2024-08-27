@@ -7,10 +7,106 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/08/28/i-need-to.html",
+				
+				"content_html": "<p>I need to learn docker. The time has come.</p>\n",
+				"content_text": "I need to learn docker. The time has come. \n",
+				"date_published": "2024-08-28T00:51:36+02:00",
+				"url": "https://pawel.orzech.me/2024/08/28/i-need-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/24/long-day.html",
+				
+				"content_html": "<p>Long day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Long day. \n\n<img src=\"uploads/2024/a62fb5d422.jpg\" width=\"502\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-24T22:42:23+02:00",
+				"url": "https://pawel.orzech.me/2024/08/24/long-day.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/24/id-even-wish.html",
+				
+				"content_html": "<p>I’d even wish it was Chrome but I don’t trust them at all. Brave probably, maybe Arc if they sort out their Windows app. This would be great, to not care about system at all but be able to do everything I need in just a web browser.</p>\n<p>Good thing I’ve bought that powerful PC with lots of RAM. I’m gonna need it.</p>\n",
+				"content_text": "I’d even wish it was Chrome but I don’t trust them at all. Brave probably, maybe Arc if they sort out their Windows app. This would be great, to not care about system at all but be able to do everything I need in just a web browser. \n\nGood thing I’ve bought that powerful PC with lots of RAM. I’m gonna need it. \n",
+				"date_published": "2024-08-24T22:40:52+02:00",
+				"url": "https://pawel.orzech.me/2024/08/24/id-even-wish.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/24/id-actually-love.html",
+				
+				"content_html": "<p>I’d actually love to have all of my life in a web browser. Just that. The web browser. Maybe this is something I should explore more? It’s definitely doable. Or is it?</p>\n",
+				"content_text": "I’d actually love to have all of my life in a web browser. Just that. The web browser. Maybe this is something I should explore more? It’s definitely doable. Or is it?\n",
+				"date_published": "2024-08-24T22:38:37+02:00",
+				"url": "https://pawel.orzech.me/2024/08/24/id-actually-love.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/23/id-love-to.html",
+				
+				"content_html": "<p>I&rsquo;d love to buy myself an Android phone and my wife even said that I should go for it, but I can&rsquo;t, yet. I&rsquo;m gonna wait for someone to finally add something like MagSafe (Qi2?) so I can use my wallet and powerbanks. And then I&rsquo;m gonna change my watch from Apple Watch to something more system agnostic (Garmin?).</p>\n<p>Only then, with wife&rsquo;s blessing, I can buy an Android phone and feel like I&rsquo;m not just putting money on fire.</p>\n",
+				"content_text": "I'd love to buy myself an Android phone and my wife even said that I should go for it, but I can't, yet. I'm gonna wait for someone to finally add something like MagSafe (Qi2?) so I can use my wallet and powerbanks. And then I'm gonna change my watch from Apple Watch to something more system agnostic (Garmin?). \n\nOnly then, with wife's blessing, I can buy an Android phone and feel like I'm not just putting money on fire.\n",
+				"date_published": "2024-08-23T23:56:07+02:00",
+				"url": "https://pawel.orzech.me/2024/08/23/id-love-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/23/was-just-listening.html",
+				
+				"content_html": "<p>Was just listening the Arc podcast (the one about browser) and it’s fascinating that Stripe entire work-stack will be enterprise Chrome only. That’s bold but also VERY interesting.</p>\n",
+				"content_text": "Was just listening the Arc podcast (the one about browser) and it’s fascinating that Stripe entire work-stack will be enterprise Chrome only. That’s bold but also VERY interesting. \n",
+				"date_published": "2024-08-23T16:02:29+02:00",
+				"url": "https://pawel.orzech.me/2024/08/23/was-just-listening.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/21/theres-a-good.html",
+				
+				"content_html": "<p>There&rsquo;s a good and bad part to it. Good part is that I&rsquo;m going to just move everything to new, HomeAssistant-only server. Bad part - I&rsquo;ve got to do it. I have to do &ldquo;the thing&rdquo;.</p>\n",
+				"content_text": "There's a good and bad part to it. Good part is that I'm going to just move everything to new, HomeAssistant-only server. Bad part - I've got to do it. I have to do \"the thing\".\n",
+				"date_published": "2024-08-21T16:03:03+02:00",
+				"url": "https://pawel.orzech.me/2024/08/21/theres-a-good.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/21/next-time-im.html",
+				
+				"content_html": "<p>Next time I&rsquo;m going to consider using RPi4 on something I use everyday just kick me in the head. My old HA setup (that I&rsquo;m using in current apartment) just broke.</p>\n",
+				"content_text": "Next time I'm going to consider using RPi4 on something I use everyday just kick me in the head. My old HA setup (that I'm using in current apartment) just broke. \n",
+				"date_published": "2024-08-21T16:01:54+02:00",
+				"url": "https://pawel.orzech.me/2024/08/21/next-time-im.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/20/even-though-mtgarena.html",
+				
+				"content_html": "<p>Even though MTG:Arena is not available on Linux it just worked without any modifications just by clicking a checkbox on Steam. This is wild!</p>\n",
+				"content_text": "Even though MTG:Arena is not available on Linux it just worked without any modifications just by clicking a checkbox on Steam. This is wild! \n",
+				"date_published": "2024-08-20T18:58:27+02:00",
+				"url": "https://pawel.orzech.me/2024/08/20/even-though-mtgarena.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/20/new-ssd-just.html",
+				
+				"content_html": "<p>New SSD just came in. Ubuntu is already installed. The only issue is that my keyboard doesn&rsquo;t work nicely with Ubuntu because it&rsquo;s Magic Whatever Apple Keyboard. I might just get the Logitech MX thing.</p>\n",
+				"content_text": "New SSD just came in. Ubuntu is already installed. The only issue is that my keyboard doesn't work nicely with Ubuntu because it's Magic Whatever Apple Keyboard. I might just get the Logitech MX thing.\n",
+				"date_published": "2024-08-20T18:36:41+02:00",
+				"url": "https://pawel.orzech.me/2024/08/20/new-ssd-just.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/20/i-switched-to.html",
+				
+				"content_html": "<p>I switched to Apple Music a long time ago, but I still use Spotify (and right now, it’s my &ldquo;main&rdquo; platform) because finding new music is MUCH easier on Spotify. The &ldquo;Made for You&rdquo; playlists are full of either songs I already love or tracks I haven&rsquo;t heard before but would love to discover.</p>\n<p>Also, I’m not sure if anyone at Apple actually uses Apple Music on different devices. It doesn&rsquo;t matter if I&rsquo;m on an iPhone, M1 Mac, or Windows machine—on every device, it’s a mess. It freezes, takes forever to load&hellip; It just doesn’t work. Spotify, on the other hand, works perfectly fine. It loads instantly, always plays music without issues, and the search function gives me relevant results. How did Apple mess this up so badly?</p>\n",
+				"content_text": "I switched to Apple Music a long time ago, but I still use Spotify (and right now, it’s my \"main\" platform) because finding new music is MUCH easier on Spotify. The \"Made for You\" playlists are full of either songs I already love or tracks I haven't heard before but would love to discover.\r\n\r\nAlso, I’m not sure if anyone at Apple actually uses Apple Music on different devices. It doesn't matter if I'm on an iPhone, M1 Mac, or Windows machine—on every device, it’s a mess. It freezes, takes forever to load... It just doesn’t work. Spotify, on the other hand, works perfectly fine. It loads instantly, always plays music without issues, and the search function gives me relevant results. How did Apple mess this up so badly?\n",
+				"date_published": "2024-08-20T14:38:42+02:00",
+				"url": "https://pawel.orzech.me/2024/08/20/i-switched-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/08/20/homescreen.html",
+				
+				"content_html": "<p>Homescreen 08/24.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Homescreen 08/24. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/1865e1be79.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-20T00:31:33+02:00",
+				"url": "https://pawel.orzech.me/2024/08/20/homescreen.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/08/19/new-profile-pic.html",
 				
 				"content_html": "<p>New profile pic who dis</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New profile pic who dis\n\n<img src=\"uploads/2024/51b9837dc2.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "New profile pic who dis\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/51b9837dc2.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-19T23:58:30+02:00",
 				"url": "https://pawel.orzech.me/2024/08/19/new-profile-pic.html"
 			},
@@ -26,7 +122,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/08/17/when-youre-curious.html",
 				
 				"content_html": "<p>When you’re curious but need only one spoiler.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you’re curious but need only one spoiler. \n\n<img src=\"uploads/2024/b9eaee45f8.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "When you’re curious but need only one spoiler. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/b9eaee45f8.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-17T00:40:49+02:00",
 				"url": "https://pawel.orzech.me/2024/08/17/when-youre-curious.html"
 			},
