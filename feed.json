@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/11/06/americans-what-the.html",
+				
+				"content_html": "<p>Americans, what the hell</p>\n",
+				"content_text": "Americans, what the hell\n",
+				"date_published": "2024-11-06T08:36:36+02:00",
+				"url": "https://pawel.orzech.me/2024/11/06/americans-what-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/11/01/chatgpt-search-is.html",
+				
+				"content_html": "<p>ChatGPT search is crazy</p>\n",
+				"content_text": "ChatGPT search is crazy \n",
+				"date_published": "2024-11-01T02:59:32+02:00",
+				"url": "https://pawel.orzech.me/2024/11/01/chatgpt-search-is.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/10/30/iphone-wants-me.html",
+				
+				"content_html": "<p>iPhone wants me to use MacOS and be enclosed in Apple ecosystem, but Android let&rsquo;s me do my shit anywhere - and I didn&rsquo;t know that I value this but I do.</p>\n",
+				"content_text": "iPhone wants me to use MacOS and be enclosed in Apple ecosystem, but Android let's me do my shit anywhere - and I didn't know that I value this but I do.\n",
+				"date_published": "2024-10-30T11:59:26+02:00",
+				"url": "https://pawel.orzech.me/2024/10/30/iphone-wants-me.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/10/29/chill-out-please.html",
+				
+				"content_html": "<p>Chill out please</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Chill out please \n\n<img src=\"uploads/2024/3825e1b611.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-29T20:05:08+02:00",
+				"url": "https://pawel.orzech.me/2024/10/29/chill-out-please.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/10/29/apple-music-working.html",
 				
 				"content_html": "<p>Apple Music working better on Android wasn&rsquo;t on my bingo card but yet here we are</p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/10/27/icons-in-a.html",
 				
 				"content_html": "<p>5 icons in a row are better than 4 icons in a row. I don&rsquo;t make the rules but I do.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "5 icons in a row are better than 4 icons in a row. I don't make the rules but I do.\n\n<img src=\"uploads/2024/93ca523e8c.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"content_text": "5 icons in a row are better than 4 icons in a row. I don't make the rules but I do.\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/93ca523e8c.png\" width=\"270\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-27T19:44:19+02:00",
 				"url": "https://pawel.orzech.me/2024/10/27/icons-in-a.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/10/26/and-today-on.html",
 				
 				"content_html": "<p>And today on Android I&rsquo;ve installed Sum Up and now all of my chat messages get summarised. This is happening on a $300 device, for free. I have an assistant that allows me to ask even the trickiest questions and I can do stuff like circle to search.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And today on Android I've installed Sum Up and now all of my chat messages get summarised. This is happening on a $300 device, for free. I have an assistant that allows me to ask even the trickiest questions and I can do stuff like circle to search. \n\n<img src=\"uploads/2024/a359a8376f.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"content_text": "And today on Android I've installed Sum Up and now all of my chat messages get summarised. This is happening on a $300 device, for free. I have an assistant that allows me to ask even the trickiest questions and I can do stuff like circle to search. \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/a359a8376f.png\" width=\"270\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-26T00:40:00+02:00",
 				"url": "https://pawel.orzech.me/2024/10/26/and-today-on.html"
 			},
