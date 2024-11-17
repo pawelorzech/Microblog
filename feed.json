@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/11/17/because-i-can.html",
+				
+				"content_html": "<p>Because I can, I&rsquo;m sometimes moving between iPhone and Pixel. Most of the time it&rsquo;s pixel but there are moments in which I find myself wanting to use iPhone (mostly because of Apple Watch and ability to be notified on my wrist when something REALLY IMPORTANT happens or because our apartment still has some automations based on Homekit).</p>\n<p>But what pains me this time - I felt that notification wise I&rsquo;m missing a lot on iOS. Action buttons in android notifications are golden. Somebody sends me a link? I can open it from notifications without even opening the communicator app. New YouTube video? I can just add it to watch later from notifications.</p>\n<p>I find myself more and more saying yes to notifications on Android because I can control them better and I can easily get rid of them if needed (something that never works on iOS because you can click X and mass prune them but some of the notifications are above that X area and they won&rsquo;t be deleted and I have no idea what the rule is).</p>\n<p>That&rsquo;s another one for you from my OS battles.</p>\n",
+				"content_text": "Because I can, I'm sometimes moving between iPhone and Pixel. Most of the time it's pixel but there are moments in which I find myself wanting to use iPhone (mostly because of Apple Watch and ability to be notified on my wrist when something REALLY IMPORTANT happens or because our apartment still has some automations based on Homekit). \n\nBut what pains me this time - I felt that notification wise I'm missing a lot on iOS. Action buttons in android notifications are golden. Somebody sends me a link? I can open it from notifications without even opening the communicator app. New YouTube video? I can just add it to watch later from notifications. \n\nI find myself more and more saying yes to notifications on Android because I can control them better and I can easily get rid of them if needed (something that never works on iOS because you can click X and mass prune them but some of the notifications are above that X area and they won't be deleted and I have no idea what the rule is). \n\nThat's another one for you from my OS battles. \n",
+				"date_published": "2024-11-17T13:12:12+02:00",
+				"url": "https://pawel.orzech.me/2024/11/17/because-i-can.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/11/15/a-real-pain.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/1013850\">A Real Pain (2024)</a> - ★★★★★</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg\" alt=\"A Real Pain poster\"></p>\n",
+				"content_text": "🍿 [A Real Pain (2024)](https://www.themoviedb.org/movie/1013850) - ★★★★★\r\n\r\n![A Real Pain poster](https://image.tmdb.org/t/p/w780/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg)\n",
+				"date_published": "2024-11-15T23:12:52+02:00",
+				"url": "https://pawel.orzech.me/2024/11/15/a-real-pain.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/11/12/get-a-free.html",
+				
+				"content_html": "<p>Get a free WHOOP 4.0 and one month free when you join with my link: <a href=\"https://join.whoop.com/CD90CC\">https://join.whoop.com/CD90CC</a></p>\n",
+				"content_text": "Get a free WHOOP 4.0 and one month free when you join with my link: [https://join.whoop.com/CD90CC](https://join.whoop.com/CD90CC)\n",
+				"date_published": "2024-11-12T12:37:13+02:00",
+				"url": "https://pawel.orzech.me/2024/11/12/get-a-free.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/11/11/i-wanted-to.html",
 				
 				"content_html": "<p>I wanted to break myself a bit more from Apple ecosystem with a non-Apple fitness tracker. Can&rsquo;t wait till it gets here!</p>\n<!-- raw HTML omitted -->\n",
