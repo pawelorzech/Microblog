@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2024/12/23/i-really-want-and-i.html",
+				
+				"content_html": "<p>I really want and I probably shouldn&rsquo;t buy an iPod. This story definitely will continue.</p>\n",
+				"content_text": "I really want and I probably shouldn't buy an iPod. This story definitely will continue. \n",
+				"date_published": "2024-12-23T21:25:04+01:00",
+				"url": "https://pawel.orzech.me/2024/12/23/i-really-want-and-i.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/12/22/im-on-fire.html",
+				
+				"content_html": "<p>I’m on fire.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m on fire. \n\n<img src=\"uploads/2024/13eeaef80a.jpg\" width=\"375\" height=\"375\" alt=\"\">\n",
+				"date_published": "2024-12-22T15:17:33+01:00",
+				"url": "https://pawel.orzech.me/2024/12/22/im-on-fire.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/12/21/something-i-found.html",
+				
+				"content_html": "<p>Something I found out about and loved ever since - you can get really cheap domains if you buy .ovh domains on OVH or six~ number dot xyz on Cloudflare. Honestly, they&rsquo;re like $3 a year and now I own too many of them.</p>\n",
+				"content_text": "Something I found out about and loved ever since - you can get really cheap domains if you buy .ovh domains on OVH or six~ number dot xyz on Cloudflare. Honestly, they're like $3 a year and now I own too many of them.\n",
+				"date_published": "2024-12-21T19:46:13+01:00",
+				"url": "https://pawel.orzech.me/2024/12/21/something-i-found.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/12/20/the-eu-wants.html",
+				
+				"content_html": "<p><a href=\"https://9to5google.com/2024/12/20/eu-apple-airdrop-airplay-android-more/\">The EU wants Apple to open AirDrop and AirPlay to Android and other platforms</a></p>\n<p>Looks like another great feature will be made better thanks to EU!</p>\n",
+				"content_text": "[The EU wants Apple to open AirDrop and AirPlay to Android and other platforms](https://9to5google.com/2024/12/20/eu-apple-airdrop-airplay-android-more/)\n\nLooks like another great feature will be made better thanks to EU!\n",
+				"date_published": "2024-12-20T23:55:16+01:00",
+				"url": "https://pawel.orzech.me/2024/12/20/the-eu-wants.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2024/12/18/halfway-there.html",
+				
+				"content_html": "<p>Halfway there.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Halfway there. \n\n<img src=\"uploads/2024/85e54a2b39.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-18T23:50:48+01:00",
+				"url": "https://pawel.orzech.me/2024/12/18/halfway-there.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2024/12/18/soon-its-going.html",
 				
 				"content_html": "<p>Soon it&rsquo;s going to be two weeks without Vivaldi Sync&hellip;</p>\n",
@@ -34,7 +74,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/12/17/end-of-the.html",
 				
 				"content_html": "<p>End of the year on iOS homescreen:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "End of the year on iOS homescreen: \n\n<img src=\"uploads/2024/fa8b4e5706.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "End of the year on iOS homescreen: \n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/fa8b4e5706.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-17T10:45:20+01:00",
 				"url": "https://pawel.orzech.me/2024/12/17/end-of-the.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2024/12/17/ending-homescreenwise.html",
 				
 				"content_html": "<p>Ending 2024 homescreen-wise:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ending 2024 homescreen-wise:\n\n<img src=\"uploads/2024/d5b067e0c6.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ending 2024 homescreen-wise:\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2024/d5b067e0c6.png\" width=\"270\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-17T00:44:48+01:00",
 				"url": "https://pawel.orzech.me/2024/12/17/ending-homescreenwise.html"
 			},
