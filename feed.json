@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/01/29/main-sim-is-in-pixel.html",
+				
+				"content_html": "<p>Main sim is in Pixel, again. But this time I just demoted iphone to secondary phone. Not much changes but SIM card.</p>\n",
+				"content_text": "Main sim is in Pixel, again. But this time I just demoted iphone to secondary phone. Not much changes but SIM card. \n",
+				"date_published": "2025-01-29T23:56:34+01:00",
+				"url": "https://pawel.orzech.me/2025/01/29/main-sim-is-in-pixel.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/01/26/only-thing-i-need-my.html",
+				
+				"content_html": "<p>Only thing I need my iPhone is whoop journal every morning. Android doesn&rsquo;t let Whoop take all the nutrition data and iOS does. I love that I can jump between iOS and Android now.</p>\n",
+				"content_text": "Only thing I need my iPhone is whoop journal every morning. Android doesn't let Whoop take all the nutrition data and iOS does. I love that I can jump between iOS and Android now. \n",
+				"date_published": "2025-01-26T17:14:27+01:00",
+				"url": "https://pawel.orzech.me/2025/01/26/only-thing-i-need-my.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/01/22/support-small-web-support-independent.html",
 				
 				"content_html": "<p>Support small web, support independent social media, own your content. These are going to be more and more important. Just don&rsquo;t let billionaires own your things again, we know what happens when they do.</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/01/19/185137.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/f024fdd500.jpg\" width=\"600\" height=\"375\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/96132/2025/f024fdd500.jpg\" width=\"600\" height=\"375\" alt=\"\">\n",
 				"date_published": "2025-01-19T18:51:37+01:00",
 				"url": "https://pawel.orzech.me/2025/01/19/185137.html"
 			},
