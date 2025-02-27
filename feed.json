@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/02/27/day-one-on-windows-finally.html",
+				
+				"content_html": "<p><a href=\"https://dayoneapp.com/blog/windows-app-beta-testing/\">Day One on Windows</a>. Finally.</p>\n",
+				"content_text": "[Day One on Windows](https://dayoneapp.com/blog/windows-app-beta-testing/). Finally. \n",
+				"date_published": "2025-02-27T11:08:00+01:00",
+				"url": "https://pawel.orzech.me/2025/02/27/day-one-on-windows-finally.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/02/26/i-also-love-when-apple.html",
+				
+				"content_html": "<p>I also love when Apple influencers are screaming about how Apple behaves badly but ask them if they would make a change and then suddenly there’s this one very, very critical workflow that they wouldn&rsquo;t be able to reproduce on other OS. But if only!</p>\n",
+				"content_text": "I also love when Apple influencers are screaming about how Apple behaves badly but ask them if they would make a change and then suddenly there’s this one very, very critical workflow that they wouldn't be able to reproduce on other OS. But if only!\n",
+				"date_published": "2025-02-26T22:00:47+01:00",
+				"url": "https://pawel.orzech.me/2025/02/26/i-also-love-when-apple.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/02/26/lee-and-jason-made-some.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->Lee<!-- raw HTML omitted --> and <!-- raw HTML omitted -->Jason<!-- raw HTML omitted --> made some good points regarding change.</p>\n<p>And Lee said: <!-- raw HTML omitted -->I’ve gotten to the point where I’m less and less interested in listening to those that on one hand say Apple etc are gross then go out and buy the next thing they release.<!-- raw HTML omitted --></p>\n<p>Even though he didn&rsquo;t say it, I immediately thought about all of these Apple influencers with podcasts. Apple bad, but new phone yes please.</p>\n",
+				"content_text": "<a href=\"https://ljpuk.net/2025/02/26/change-starts-with-us/\">Lee</a> and <a href=\"https://grepjason.sh/2025/comfortable\">Jason</a> made some good points regarding change.\n\nAnd Lee said: <blockquote>I’ve gotten to the point where I’m less and less interested in listening to those that on one hand say Apple etc are gross then go out and buy the next thing they release.</blockquote>\n\nEven though he didn't say it, I immediately thought about all of these Apple influencers with podcasts. Apple bad, but new phone yes please. \n",
+				"date_published": "2025-02-26T21:50:13+01:00",
+				"url": "https://pawel.orzech.me/2025/02/26/lee-and-jason-made-some.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/02/23/212756.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2025/07d4e06bde.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-23T21:27:56+01:00",
+				"url": "https://pawel.orzech.me/2025/02/23/212756.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/02/22/im-glad-to-see-that.html",
 				
 				"content_html": "<p>I&rsquo;m glad to see that I&rsquo;m not the only one trying to escape the Apple ecosystem.</p>\n",
