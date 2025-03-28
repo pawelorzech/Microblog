@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/03/29/i-might-have-bought-an.html",
+				
+				"content_html": "<p>I might have bought an iPod Classic and have it delivered on Monday most probably.</p>\n",
+				"content_text": "I might have bought an iPod Classic and have it delivered on Monday most probably.\n",
+				"date_published": "2025-03-29T00:28:48+01:00",
+				"url": "https://pawel.orzech.me/2025/03/29/i-might-have-bought-an.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/03/26/so-for-about-my-next.html",
+				
+				"content_html": "<p>So for about $1000, my next laptop would be a Thinkpad with 128GB of RAM and a 4TB SSD? Is this the real world or just a fantasy?</p>\n",
+				"content_text": "So for about $1000, my next laptop would be a Thinkpad with 128GB of RAM and a 4TB SSD? Is this the real world or just a fantasy?\n",
+				"date_published": "2025-03-26T22:44:04+01:00",
+				"url": "https://pawel.orzech.me/2025/03/26/so-for-about-my-next.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/03/25/162727.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"uploads/2025/screenshot-uir7ky4w-from-vivaldi-2025-03-25-at-16.27.012x.png\" alt=\"\" width=\"712\" height=\"577\" /><img src=\"uploads/2025/theyre-the-same-picture-the-office.gif\" alt=\"\" width=\"320\" height=\"180\" />\n",
+				"date_published": "2025-03-25T16:27:27+01:00",
+				"url": "https://pawel.orzech.me/2025/03/25/162727.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/03/25/the-trump-administration-accidentally-texted.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->The Trump Administration Accidentally Texted Me Its War Plans<!-- raw HTML omitted --></p>\n<p>Holy fuck, I&rsquo;m not even sure what to say at this point. Also, fuck them for plotting against Europe. This is why me and lots and lots of people in my circle are going European-first. Wifey and I are doing our part on it - whenever we see something, we check if it&rsquo;s from the USA and if it is, we try to find a European alternative.</p>\n<p>This is a very interesting thing happening, because Trump&rsquo;s administration succeeded in something finally - they made us, Europeans, be proud of Europe and be proud of European services and products.</p>\n",
+				"content_text": "<a href=\"https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/?gift=J_CNpt7Ar1nKEXqJWVh1ulEUSzqbExa4Kxm41rX0EQA\">The Trump Administration Accidentally Texted Me Its War Plans</a>\n\nHoly fuck, I'm not even sure what to say at this point. Also, fuck them for plotting against Europe. This is why me and lots and lots of people in my circle are going European-first. Wifey and I are doing our part on it - whenever we see something, we check if it's from the USA and if it is, we try to find a European alternative. \n\nThis is a very interesting thing happening, because Trump's administration succeeded in something finally - they made us, Europeans, be proud of Europe and be proud of European services and products. \n",
+				"date_published": "2025-03-25T16:02:27+01:00",
+				"url": "https://pawel.orzech.me/2025/03/25/the-trump-administration-accidentally-texted.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/03/23/not-sure-how-it-happened.html",
 				
 				"content_html": "<p>Not sure how it happened, but it happened, and suddenly I&rsquo;ve got 7TB of HDD/SSD storage connected to my PC.</p>\n",
@@ -50,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/03/16/sleep-performance.html",
 				
 				"content_html": "<p>100% sleep performance. 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "100% sleep performance. 😎\n\n<img src=\"uploads/2025/ef02a07cc9.jpg\" width=\"597\" height=\"600\" alt=\"\">\n",
+				"content_text": "100% sleep performance. 😎\n\n<img src=\"https://cdn.uploads.micro.blog/96132/2025/ef02a07cc9.jpg\" width=\"597\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-16T12:21:50+01:00",
 				"url": "https://pawel.orzech.me/2025/03/16/sleep-performance.html"
 			},
