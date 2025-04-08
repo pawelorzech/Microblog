@@ -7,10 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/04/08/standing-desk-is-the-shit.html",
+				
+				"content_html": "<p>Standing desk is the shit.</p>\n",
+				"content_text": "Standing desk is the shit.\n",
+				"date_published": "2025-04-08T10:28:50+02:00",
+				"url": "https://pawel.orzech.me/2025/04/08/standing-desk-is-the-shit.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/07/if-you-like-sp-you.html",
+				
+				"content_html": "<p>If you like SP500 you can buy it now for the same price as a year ago! This is not a financial advice.</p>\n",
+				"content_text": "If you like SP500 you can buy it now for the same price as a year ago! This is not a financial advice.\n",
+				"date_published": "2025-04-07T17:11:58+02:00",
+				"url": "https://pawel.orzech.me/2025/04/07/if-you-like-sp-you.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/07/my-wifey-iphone-pro-finally.html",
+				
+				"content_html": "<p>My wifey iPhone (11 Pro) finally has died. The battery depleted for the second time (it had been already replaced once) so I gave her my 14 Plus because I&rsquo;ve moved to Android full time. But because I need iPhone ~for work~ - I dig up the old SE from 2020 and moved onto that. BIG CHANGES as you can all tell.</p>\n",
+				"content_text": "My wifey iPhone (11 Pro) finally has died. The battery depleted for the second time (it had been already replaced once) so I gave her my 14 Plus because I've moved to Android full time. But because I need iPhone ~for work~ - I dig up the old SE from 2020 and moved onto that. BIG CHANGES as you can all tell.\n",
+				"date_published": "2025-04-07T10:38:13+02:00",
+				"url": "https://pawel.orzech.me/2025/04/07/my-wifey-iphone-pro-finally.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/07/living-that-ipod-life.html",
+				
+				"content_html": "<p>Living that iPod life.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Living that iPod life.\r\n\r\n<img src=\"uploads/2025/c0bf4837fd.png\" alt=\"\">\n",
+				"date_published": "2025-04-07T10:33:56+02:00",
+				"url": "https://pawel.orzech.me/2025/04/07/living-that-ipod-life.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/05/im-gonna-selfhost-email-and.html",
+				
+				"content_html": "<p>I&rsquo;m gonna selfhost email and nobody can stop me.</p>\n",
+				"content_text": "I'm gonna selfhost email and nobody can stop me. \n",
+				"date_published": "2025-04-05T18:03:17+02:00",
+				"url": "https://pawel.orzech.me/2025/04/05/im-gonna-selfhost-email-and.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/05/im-on-android-so-hard.html",
+				
+				"content_html": "<p>I&rsquo;m on Android so hard now that my iphone is turned off and put in the drawer. 🤙</p>\n",
+				"content_text": "I'm on Android so hard now that my iphone is turned off and put in the drawer. 🤙\n",
+				"date_published": "2025-04-05T17:46:00+02:00",
+				"url": "https://pawel.orzech.me/2025/04/05/im-on-android-so-hard.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/05/spatial-audio-is-very-good.html",
+				
+				"content_html": "<p>Spatial audio is very good and I like it.</p>\n",
+				"content_text": "Spatial audio is very good and I like it. \n",
+				"date_published": "2025-04-05T17:34:45+02:00",
+				"url": "https://pawel.orzech.me/2025/04/05/spatial-audio-is-very-good.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/04/im-expecting-itunes-to-work.html",
+				
+				"content_html": "<p>I&rsquo;m expecting iTunes to work flawlessly after 20 years with no updates and let&rsquo;s be honest - it didn&rsquo;t work even 20 years ago. Rockbox is going to be installed on the iPod. Ain&rsquo;t nobody got time for iTunes.</p>\n",
+				"content_text": "I'm expecting iTunes to work flawlessly after 20 years with no updates and let's be honest - it didn't work even 20 years ago. Rockbox is going to be installed on the iPod. Ain't nobody got time for iTunes. \n",
+				"date_published": "2025-04-04T14:33:46+02:00",
+				"url": "https://pawel.orzech.me/2025/04/04/im-expecting-itunes-to-work.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/04/03/homescreen.html",
 				
 				"content_html": "<p>Homescreen</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Homescreen \n\n<img src=\"uploads/2025/494e7bee62.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"content_text": "Homescreen \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/494e7bee62.png\" width=\"270\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-03T01:33:54+02:00",
 				"url": "https://pawel.orzech.me/2025/04/03/homescreen.html"
 			},
@@ -34,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/03/30/im-a-fan-now.html",
 				
 				"content_html": "<p>I&rsquo;m a fan now</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm a fan now \n\n<img src=\"uploads/2025/68b18cbb44.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I'm a fan now \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/68b18cbb44.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-30T20:48:39+02:00",
 				"url": "https://pawel.orzech.me/2025/03/30/im-a-fan-now.html"
 			},
@@ -42,7 +106,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/03/30/welp.html",
 				
 				"content_html": "<p>Welp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Welp\n\n<img src=\"uploads/2025/90905ca7a4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Welp\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/90905ca7a4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-30T01:59:26+02:00",
 				"url": "https://pawel.orzech.me/2025/03/30/welp.html"
 			},
