@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/04/10/thinking-of-merging-mastodon-server.html",
+				
+				"content_html": "<p>Thinking of merging Mastodon server and Discourse server in one. Also putting it on much more capable machine just to make sure there&rsquo;s enough space to grow them. Looks like a weekend project?</p>\n",
+				"content_text": "Thinking of merging Mastodon server and Discourse server in one. Also putting it on much more capable machine just to make sure there's enough space to grow them. Looks like a weekend project?\n",
+				"date_published": "2025-04-10T17:36:30+02:00",
+				"url": "https://pawel.orzech.me/2025/04/10/thinking-of-merging-mastodon-server.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/10/exactly-as-our-lord-and.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2025/9844219c5d.png\" alt=\"\">\r\nExactly as our lord and saviour would want me to. Offline, FLAC, in foobar.\n",
+				"date_published": "2025-04-10T13:56:10+02:00",
+				"url": "https://pawel.orzech.me/2025/04/10/exactly-as-our-lord-and.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/08/i-didnt-even-notice-a.html",
+				
+				"content_html": "<p>I didn&rsquo;t even notice a moment in which I&rsquo;ve fully switched to android. I was using iP 14 plus and the only negative side effect of the switch is battery life. Obviously the smaller device has worse battery life but let&rsquo;s be honest - most of the time I&rsquo;m at home. And when I&rsquo;m not - I carry a powerbank with me all the time.</p>\n<p>But yesterday after I helped wifey move from that old 11 Pro to 14 Plus, she said that if I want to - I can think about getting a proper phone. And even though it sounds very good and I love buying stupid phones, I&rsquo;m very content with what I&rsquo;m getting out of this 8a. Of course it isn&rsquo;t the best phone out there but every time I see a shortcoming i remind myself that this phone costs $350. Crazy!</p>\n",
+				"content_text": "I didn't even notice a moment in which I've fully switched to android. I was using iP 14 plus and the only negative side effect of the switch is battery life. Obviously the smaller device has worse battery life but let's be honest - most of the time I'm at home. And when I'm not - I carry a powerbank with me all the time. \n\nBut yesterday after I helped wifey move from that old 11 Pro to 14 Plus, she said that if I want to - I can think about getting a proper phone. And even though it sounds very good and I love buying stupid phones, I'm very content with what I'm getting out of this 8a. Of course it isn't the best phone out there but every time I see a shortcoming i remind myself that this phone costs $350. Crazy!\n",
+				"date_published": "2025-04-08T15:42:37+02:00",
+				"url": "https://pawel.orzech.me/2025/04/08/i-didnt-even-notice-a.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/04/08/new-case-who-dis.html",
+				
+				"content_html": "<p>New case who dis</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New case who dis\n\n<img src=\"uploads/2025/437b3f744f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-08T11:28:00+02:00",
+				"url": "https://pawel.orzech.me/2025/04/08/new-case-who-dis.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/04/08/standing-desk-is-the-shit.html",
 				
 				"content_html": "<p>Standing desk is the shit.</p>\n",
@@ -34,7 +66,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/04/07/living-that-ipod-life.html",
 				
 				"content_html": "<p>Living that iPod life.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Living that iPod life.\r\n\r\n<img src=\"uploads/2025/c0bf4837fd.png\" alt=\"\">\n",
+				"content_text": "Living that iPod life.\r\n\r\n<img src=\"https://eu.uploads.micro.blog/96132/2025/c0bf4837fd.png\" alt=\"\">\n",
 				"date_published": "2025-04-07T10:33:56+02:00",
 				"url": "https://pawel.orzech.me/2025/04/07/living-that-ipod-life.html"
 			},
