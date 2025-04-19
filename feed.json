@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/04/19/132854.html",
+				
+				"content_html": "<p><a href=\"https://www.macstories.net/news/altstore-pal-releases-altstore-classic-for-eu-iphone-users/\">www.macstories.net/news/alts&hellip;</a></p>\n<p>Laughing in android now</p>\n",
+				"content_text": "[www.macstories.net/news/alts...](https://www.macstories.net/news/altstore-pal-releases-altstore-classic-for-eu-iphone-users/)\n\nLaughing in android now \n",
+				"date_published": "2025-04-19T13:28:54+02:00",
+				"url": "https://pawel.orzech.me/2025/04/19/132854.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/04/10/thinking-of-merging-mastodon-server.html",
 				
 				"content_html": "<p>Thinking of merging Mastodon server and Discourse server in one. Also putting it on much more capable machine just to make sure there&rsquo;s enough space to grow them. Looks like a weekend project?</p>\n",
