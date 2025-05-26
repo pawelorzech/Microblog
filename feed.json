@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/05/26/my-ipod-was-getting-full.html",
+				
+				"content_html": "<p>My iPod was getting full (I had only 128GB SD card in it) so I have added additional 256GB. This time we are golden.</p>\n",
+				"content_text": "My iPod was getting full (I had only 128GB SD card in it) so I have added additional 256GB. This time we are golden.\n",
+				"date_published": "2025-05-26T11:14:19+02:00",
+				"url": "https://pawel.orzech.me/2025/05/26/my-ipod-was-getting-full.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/05/21/the-studio-perfect-perfect.html",
+				
+				"content_html": "<p>The Studio - perfect. Per-fect.</p>\n",
+				"content_text": "The Studio - perfect. Per-fect. \n",
+				"date_published": "2025-05-21T22:00:35+02:00",
+				"url": "https://pawel.orzech.me/2025/05/21/the-studio-perfect-perfect.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/05/21/life-is-too-short-to.html",
+				
+				"content_html": "<p>Life is too short to listen to shitty podcasts, I say to myself when I try to skim through uninteresting parts of Cortex and simultaneously unsubscribing to LOTS of different podcasts that I haven&rsquo;t listened to nor will listen to anytime in the future.</p>\n",
+				"content_text": "Life is too short to listen to shitty podcasts, I say to myself when I try to skim through uninteresting parts of Cortex and simultaneously unsubscribing to LOTS of different podcasts that I haven't listened to nor will listen to anytime in the future.\n",
+				"date_published": "2025-05-21T15:54:47+02:00",
+				"url": "https://pawel.orzech.me/2025/05/21/life-is-too-short-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/05/20/i-like-it-more-on.html",
+				
+				"content_html": "<p>I like it more on Android. Big changes from what I remember from around 2018.</p>\n",
+				"content_text": "I like it more on Android. Big changes from what I remember from around 2018. \n",
+				"date_published": "2025-05-20T20:22:07+02:00",
+				"url": "https://pawel.orzech.me/2025/05/20/i-like-it-more-on.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/05/18/voted.html",
 				
 				"content_html": "<p>Voted.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +66,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/05/14/dear-old-me-lets-just.html",
 				
 				"content_html": "<p>Dear old me, let&rsquo;s just say that a couple of things has changed.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dear old me, let's just say that a couple of things has changed.\n\n<img src=\"uploads/2025/screenshot-zsfbsba7-from-marsedit-2025-05-14-at-13.39.08.png\" alt=\"\" width=\"432\" height=\"437\" />\n",
+				"content_text": "Dear old me, let's just say that a couple of things has changed.\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-zsfbsba7-from-marsedit-2025-05-14-at-13.39.08.png\" alt=\"\" width=\"432\" height=\"437\" />\n",
 				"date_published": "2025-05-14T13:41:30+02:00",
 				"url": "https://pawel.orzech.me/2025/05/14/dear-old-me-lets-just.html"
 			},
