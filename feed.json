@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/06/27/finally-on-pixel-this-private.html",
+				
+				"content_html": "<p>Finally - on Pixel this private DNS was broken with NextDNS, but on OnePlus works like a charm!</p>\n",
+				"content_text": "Finally - on Pixel this private DNS was broken with NextDNS, but on OnePlus works like a charm!\n",
+				"date_published": "2025-06-27T13:07:37+02:00",
+				"url": "https://pawel.orzech.me/2025/06/27/finally-on-pixel-this-private.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/27/i-hate-how-often-mailapp.html",
+				
+				"content_html": "<p>I hate how often mail.app just opens itself.</p>\n",
+				"content_text": "I hate how often mail.app just opens itself.\n",
+				"date_published": "2025-06-27T00:00:51+02:00",
+				"url": "https://pawel.orzech.me/2025/06/27/i-hate-how-often-mailapp.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/24/our-little-girl-in-her.html",
+				
+				"content_html": "<p>Our little girl in her new harness and leash!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our little girl in her new harness and leash!\n\n<img src=\"uploads/2025/c423415639.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-24T22:17:15+02:00",
+				"url": "https://pawel.orzech.me/2025/06/24/our-little-girl-in-her.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/24/i-have-hated-superhuman-but.html",
+				
+				"content_html": "<p>I have hated Superhuman but honestly this is the fastest email app I have ever used and looks like it&rsquo;s here to stay. Please do not look at pricing. I feel bad about it.</p>\n",
+				"content_text": "I have hated Superhuman but honestly this is the fastest email app I have ever used and looks like it's here to stay. Please do not look at pricing. I feel bad about it.\n",
+				"date_published": "2025-06-24T18:24:26+02:00",
+				"url": "https://pawel.orzech.me/2025/06/24/i-have-hated-superhuman-but.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/06/22/at-this-point-it-happens.html",
 				
 				"content_html": "<p>At this point it happens every two months.</p>\n<!-- raw HTML omitted -->\n",
@@ -74,7 +106,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/06/08/i-did-a-thing-bye.html",
 				
 				"content_html": "<p>I did a thing. Bye Pixel! I needed something with more power and battery.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I did a thing. Bye Pixel! I needed something with more power and battery. \n\n<img src=\"uploads/2025/1136a6fb4d.jpg\" width=\"272\" height=\"600\" alt=\"\">\n",
+				"content_text": "I did a thing. Bye Pixel! I needed something with more power and battery. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/1136a6fb4d.jpg\" width=\"272\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-08T00:42:47+02:00",
 				"url": "https://pawel.orzech.me/2025/06/08/i-did-a-thing-bye.html"
 			},
