@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/07/05/i-am-very-happy-to.html",
+				
+				"content_html": "<p>I am very happy to see more and more people leave iOS and explore the Android world.</p>\n",
+				"content_text": "I am very happy to see more and more people leave iOS and explore the Android world. \n",
+				"date_published": "2025-07-05T20:58:45+02:00",
+				"url": "https://pawel.orzech.me/2025/07/05/i-am-very-happy-to.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/07/01/everybody-is-saying-that-android.html",
+				
+				"content_html": "<p>Everybody is saying that Android apps are of worse quality than iOS apps. And I can see it, but also don&rsquo;t really notice it in my day-to-day use.</p>\n",
+				"content_text": "Everybody is saying that Android apps are of worse quality than iOS apps. And I can see it, but also don't really notice it in my day-to-day use.\n",
+				"date_published": "2025-07-01T09:33:16+02:00",
+				"url": "https://pawel.orzech.me/2025/07/01/everybody-is-saying-that-android.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/30/at-this-point-in-my.html",
+				
+				"content_html": "<p>At this point in my career, I’m using — and paying for — far more software than I ever expected. Gmail and Google Calendar are fine. They work. But Superhuman plus Akiflow? Genuinely better. I’m actually saving time, and the $10–15/month feels justified.</p>\n<p>It’s a good place to be — finding tools that click. Still, part of me wishes the defaults were better. That I didn’t have to seek out niche products or pay others to fix what shouldn’t be broken in the first place.</p>\n",
+				"content_text": "At this point in my career, I’m using — and paying for — far more software than I ever expected. Gmail and Google Calendar are fine. They work. But Superhuman plus Akiflow? Genuinely better. I’m actually saving time, and the $10–15/month feels justified.\n\nIt’s a good place to be — finding tools that click. Still, part of me wishes the defaults were better. That I didn’t have to seek out niche products or pay others to fix what shouldn’t be broken in the first place.\n",
+				"date_published": "2025-06-30T16:23:45+02:00",
+				"url": "https://pawel.orzech.me/2025/06/30/at-this-point-in-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/29/new-peanut-who-dis.html",
+				
+				"content_html": "<p>New peanut who dis</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New peanut who dis\n\n<img src=\"uploads/2025/a19e3d7f0c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-29T00:59:31+02:00",
+				"url": "https://pawel.orzech.me/2025/06/29/new-peanut-who-dis.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/29/in-the-last-days-ive.html",
+				
+				"content_html": "<p>In the last 3 days I&rsquo;ve accidentally used 150GB (100%) of my data. It will refill itself in a moment, exactly 27 days. 🥲</p>\n",
+				"content_text": "In the last 3 days I've accidentally used 150GB (100%) of my data. It will refill itself in a moment, exactly 27 days. 🥲\n",
+				"date_published": "2025-06-29T00:21:47+02:00",
+				"url": "https://pawel.orzech.me/2025/06/29/in-the-last-days-ive.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/28/two-things-the-camera-on.html",
+				
+				"content_html": "<p>Two things: the camera on the OnePlus 13 in Master Mode is a beast. Also, the new Allbirds aren’t as stylish as the first generation, but they’re significantly more comfortable.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Two things: the camera on the OnePlus 13 in Master Mode is a beast. Also, the new Allbirds aren’t as stylish as the first generation, but they’re significantly more comfortable.\n\n \n\n<img src=\"uploads/2025/72b1b9cca6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-28T18:59:16+02:00",
+				"url": "https://pawel.orzech.me/2025/06/28/two-things-the-camera-on.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/28/oneplus-fast-charging-and-battery.html",
+				
+				"content_html": "<p>OnePlus fast charging and battery life are out of this world. Honestly top end androids are the way to go.</p>\n",
+				"content_text": "OnePlus fast charging and battery life are out of this world. Honestly top end androids are the way to go. \n",
+				"date_published": "2025-06-28T16:42:47+02:00",
+				"url": "https://pawel.orzech.me/2025/06/28/oneplus-fast-charging-and-battery.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/06/28/whoops-new-website-httpsorzechme-it.html",
+				
+				"content_html": "<p>Whoops, new website.</p>\n<p><a href=\"https://orzech.me\">orzech.me</a></p>\n<p>It looks kind of crazy, try dark/light modes. Also there&rsquo;s a link to github if anyone want&rsquo;s to steal it and make your own.</p>\n",
+				"content_text": "Whoops, new website.\n\n[orzech.me](https://orzech.me)\n\nIt looks kind of crazy, try dark/light modes. Also there's a link to github if anyone want's to steal it and make your own.\n",
+				"date_published": "2025-06-28T02:50:50+02:00",
+				"url": "https://pawel.orzech.me/2025/06/28/whoops-new-website-httpsorzechme-it.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/06/27/finally-on-pixel-this-private.html",
 				
 				"content_html": "<p>Finally - on Pixel this private DNS was broken with NextDNS, but on OnePlus works like a charm!</p>\n",
@@ -26,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/06/24/our-little-girl-in-her.html",
 				
 				"content_html": "<p>Our little girl in her new harness and leash!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our little girl in her new harness and leash!\n\n<img src=\"uploads/2025/c423415639.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Our little girl in her new harness and leash!\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/c423415639.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-24T22:17:15+02:00",
 				"url": "https://pawel.orzech.me/2025/06/24/our-little-girl-in-her.html"
 			},
@@ -42,7 +106,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/06/22/at-this-point-it-happens.html",
 				
 				"content_html": "<p>At this point it happens every two months.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At this point it happens every two months. \n\n<img src=\"uploads/2025/ea868da722.jpg\" width=\"600\" height=\"476\" alt=\"\">\n",
+				"content_text": "At this point it happens every two months. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/ea868da722.jpg\" width=\"600\" height=\"476\" alt=\"\">\n",
 				"date_published": "2025-06-22T11:56:55+02:00",
 				"url": "https://pawel.orzech.me/2025/06/22/at-this-point-it-happens.html"
 			},
@@ -58,7 +122,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/06/19/regular-thursday.html",
 				
 				"content_html": "<p>Regular Thursday?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Regular Thursday?\n\n<img src=\"uploads/2025/img20250619190311.jpg\" alt=\"\" width=\"1536\" height=\"2048\" /><img src=\"uploads/2025/img20250619185901.jpg\" alt=\"\" width=\"1536\" height=\"2048\" /><img src=\"uploads/2025/img20250619185808.jpg\" alt=\"\" width=\"2048\" height=\"1536\" /><img src=\"uploads/2025/img20250619185856.jpg\" alt=\"\" width=\"1536\" height=\"2048\" />\n",
+				"content_text": "Regular Thursday?\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/img20250619190311.jpg\" alt=\"\" width=\"1536\" height=\"2048\" /><img src=\"https://eu.uploads.micro.blog/96132/2025/img20250619185901.jpg\" alt=\"\" width=\"1536\" height=\"2048\" /><img src=\"https://eu.uploads.micro.blog/96132/2025/img20250619185808.jpg\" alt=\"\" width=\"2048\" height=\"1536\" /><img src=\"https://eu.uploads.micro.blog/96132/2025/img20250619185856.jpg\" alt=\"\" width=\"1536\" height=\"2048\" />\n",
 				"date_published": "2025-06-19T21:12:47+02:00",
 				"url": "https://pawel.orzech.me/2025/06/19/regular-thursday.html"
 			},
