@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/08/01/evenings-like-these.html",
+				
+				"content_html": "<p>Evenings like these</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Evenings like these \n\n<img src=\"uploads/2025/c3d8c55f28.jpg\" width=\"600\" height=\"221\" alt=\"\"><img src=\"uploads/2025/47022712e3.jpg\" width=\"600\" height=\"221\" alt=\"\">\n",
+				"date_published": "2025-08-01T09:37:59+02:00",
+				"url": "https://pawel.orzech.me/2025/08/01/evenings-like-these.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/07/29/three-years-ago-today-i.html",
+				
+				"content_html": "<p>Three years ago today I married the best partner I could ever wish for. Here&rsquo;s for the rest of the eternity! 🥳</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Three years ago today I married the best partner I could ever wish for. Here's for the rest of the eternity! 🥳\n\n<img src=\"uploads/2025/02f404a7d4.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2025-07-29T19:27:47+02:00",
+				"url": "https://pawel.orzech.me/2025/07/29/three-years-ago-today-i.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/07/23/im-just-very-happy-with.html",
+				
+				"content_html": "<p>I&rsquo;m just very happy with my jump from iphone to Android and OnePlus 13 is the best phone I&rsquo;ve ever used by far.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm just very happy with my jump from iphone to Android and OnePlus 13 is the best phone I've ever used by far. \n\n<img src=\"uploads/2025/0da52f243f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-07-23T23:11:51+02:00",
+				"url": "https://pawel.orzech.me/2025/07/23/im-just-very-happy-with.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/07/17/back-on-android-so-of.html",
 				
 				"content_html": "<p>Back on Android so of course I&rsquo;m looking at custom roms for OnePlus 13. There are some very interesting ones that would bring Pixel experience to it!</p>\n",
@@ -58,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/06/29/new-peanut-who-dis.html",
 				
 				"content_html": "<p>New peanut who dis</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New peanut who dis\n\n<img src=\"uploads/2025/a19e3d7f0c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "New peanut who dis\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/a19e3d7f0c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-29T00:59:31+02:00",
 				"url": "https://pawel.orzech.me/2025/06/29/new-peanut-who-dis.html"
 			},
@@ -74,7 +98,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/06/28/two-things-the-camera-on.html",
 				
 				"content_html": "<p>Two things: the camera on the OnePlus 13 in Master Mode is a beast. Also, the new Allbirds aren’t as stylish as the first generation, but they’re significantly more comfortable.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Two things: the camera on the OnePlus 13 in Master Mode is a beast. Also, the new Allbirds aren’t as stylish as the first generation, but they’re significantly more comfortable.\n\n \n\n<img src=\"uploads/2025/72b1b9cca6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Two things: the camera on the OnePlus 13 in Master Mode is a beast. Also, the new Allbirds aren’t as stylish as the first generation, but they’re significantly more comfortable.\n\n \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/72b1b9cca6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-28T18:59:16+02:00",
 				"url": "https://pawel.orzech.me/2025/06/28/two-things-the-camera-on.html"
 			},
