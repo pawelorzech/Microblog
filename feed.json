@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/08/10/even-though-i-have-two.html",
+				
+				"content_html": "<p>Even though I have TWO retro consoles I still want to get a real deal. Gameboy color or advance sp.</p>\n",
+				"content_text": "Even though I have TWO retro consoles I still want to get a real deal. Gameboy color or advance sp. \n",
+				"date_published": "2025-08-10T17:56:38+02:00",
+				"url": "https://pawel.orzech.me/2025/08/10/even-though-i-have-two.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/08/05/o-didnt-even-notice-that.html",
+				
+				"content_html": "<p>O, didn&rsquo;t even notice that but apparently my iPod has Wolfson DAC!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "O, didn't even notice that but apparently my iPod has Wolfson DAC! \n\n<img src=\"uploads/2025/screenshot-mxhue1qr-from-dia-2025-08-05-at-15.50.55.png\" alt=\"\" width=\"408\" height=\"202\" />\n",
+				"date_published": "2025-08-05T15:51:09+02:00",
+				"url": "https://pawel.orzech.me/2025/08/05/o-didnt-even-notice-that.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/08/04/i-think-i-need-to.html",
+				
+				"content_html": "<p>I think I need to write a full blown blog post on my move to Android. Would you even care though?</p>\n",
+				"content_text": "I think I need to write a full blown blog post on my move to Android. Would you even care though?\n",
+				"date_published": "2025-08-04T20:51:33+02:00",
+				"url": "https://pawel.orzech.me/2025/08/04/i-think-i-need-to.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/08/01/evenings-like-these.html",
 				
 				"content_html": "<p>Evenings like these</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/07/23/im-just-very-happy-with.html",
 				
 				"content_html": "<p>I&rsquo;m just very happy with my jump from iphone to Android and OnePlus 13 is the best phone I&rsquo;ve ever used by far.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm just very happy with my jump from iphone to Android and OnePlus 13 is the best phone I've ever used by far. \n\n<img src=\"uploads/2025/0da52f243f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I'm just very happy with my jump from iphone to Android and OnePlus 13 is the best phone I've ever used by far. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/0da52f243f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-23T23:11:51+02:00",
 				"url": "https://pawel.orzech.me/2025/07/23/im-just-very-happy-with.html"
 			},
