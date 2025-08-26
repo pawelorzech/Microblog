@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/08/26/my-new-fpgbc-will-be.html",
+				
+				"content_html": "<p>My new FPGBC will be here in about two weeks and I cannot wait.</p>\n",
+				"content_text": "My new FPGBC will be here in about two weeks and I cannot wait. \n",
+				"date_published": "2025-08-26T23:38:51+02:00",
+				"url": "https://pawel.orzech.me/2025/08/26/my-new-fpgbc-will-be.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/08/20/paid-for-claude-code-and.html",
+				
+				"content_html": "<p>Paid for Claude Code and I&rsquo;m mind-blown.</p>\n",
+				"content_text": "Paid for Claude Code and I'm mind-blown.\n",
+				"date_published": "2025-08-20T19:06:07+02:00",
+				"url": "https://pawel.orzech.me/2025/08/20/paid-for-claude-code-and.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/08/20/i-dictated-a-stream-of.html",
+				
+				"content_html": "<p>I dictated a stream of thoughts into chatgpt and made him make a structured note from it and he didn&rsquo;t miss. This is going to be my new way of doing notes from now on.</p>\n",
+				"content_text": "I dictated a stream of thoughts into chatgpt and made him make a structured note from it and he didn't miss. This is going to be my new way of doing notes from now on. \n",
+				"date_published": "2025-08-20T00:11:10+02:00",
+				"url": "https://pawel.orzech.me/2025/08/20/i-dictated-a-stream-of.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/08/15/uber-eats-went-with-this.html",
 				
 				"content_html": "<p>Uber Eats went with this navigation because of iOS 26 presumably. But I&rsquo;m using Android. Also it&rsquo;s a really horrendous UI pattern.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +66,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/08/05/o-didnt-even-notice-that.html",
 				
 				"content_html": "<p>O, didn&rsquo;t even notice that but apparently my iPod has Wolfson DAC!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "O, didn't even notice that but apparently my iPod has Wolfson DAC! \n\n<img src=\"uploads/2025/screenshot-mxhue1qr-from-dia-2025-08-05-at-15.50.55.png\" alt=\"\" width=\"408\" height=\"202\" />\n",
+				"content_text": "O, didn't even notice that but apparently my iPod has Wolfson DAC! \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-mxhue1qr-from-dia-2025-08-05-at-15.50.55.png\" alt=\"\" width=\"408\" height=\"202\" />\n",
 				"date_published": "2025-08-05T15:51:09+02:00",
 				"url": "https://pawel.orzech.me/2025/08/05/o-didnt-even-notice-that.html"
 			},
@@ -58,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/08/01/evenings-like-these.html",
 				
 				"content_html": "<p>Evenings like these</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Evenings like these \n\n<img src=\"uploads/2025/c3d8c55f28.jpg\" width=\"600\" height=\"221\" alt=\"\"><img src=\"uploads/2025/47022712e3.jpg\" width=\"600\" height=\"221\" alt=\"\">\n",
+				"content_text": "Evenings like these \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/c3d8c55f28.jpg\" width=\"600\" height=\"221\" alt=\"\"><img src=\"https://eu.uploads.micro.blog/96132/2025/47022712e3.jpg\" width=\"600\" height=\"221\" alt=\"\">\n",
 				"date_published": "2025-08-01T09:37:59+02:00",
 				"url": "https://pawel.orzech.me/2025/08/01/evenings-like-these.html"
 			},
@@ -66,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/07/29/three-years-ago-today-i.html",
 				
 				"content_html": "<p>Three years ago today I married the best partner I could ever wish for. Here&rsquo;s for the rest of the eternity! 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Three years ago today I married the best partner I could ever wish for. Here's for the rest of the eternity! 🥳\n\n<img src=\"uploads/2025/02f404a7d4.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Three years ago today I married the best partner I could ever wish for. Here's for the rest of the eternity! 🥳\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/02f404a7d4.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2025-07-29T19:27:47+02:00",
 				"url": "https://pawel.orzech.me/2025/07/29/three-years-ago-today-i.html"
 			},
@@ -98,7 +122,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/07/15/we-went-to-italy-for.html",
 				
 				"content_html": "<p>We went to Italy for the weekend, and I obviously took my phone with me, along with my Sony A6000 and a nice 24mm lens. After just a couple of shots, I put my Sony in the bag and shot the entire trip with my OnePlus 13 in Master mode. These are RAW images from the camera. It’s bonkers - so good! I’m very happy with the results, and this is before I’ve applied any filters!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "We went to Italy for the weekend, and I obviously took my phone with me, along with my Sony A6000 and a nice 24mm lens. After just a couple of shots, I put my Sony in the bag and shot the entire trip with my OnePlus 13 in Master mode. These are RAW images from the camera. It’s bonkers - so good! I’m very happy with the results, and this is before I’ve applied any filters!\n\n<img src=\"uploads/2025/img20250711142344.jpg\" alt=\"\" width=\"1536\" height=\"2048\" /><img src=\"uploads/2025/img20250711143551.jpg\" alt=\"\" width=\"2048\" height=\"1536\" /><img src=\"uploads/2025/img20250711154001.jpg\" alt=\"\" width=\"2048\" height=\"1536\" /><img src=\"uploads/2025/img20250711190349.jpg\" alt=\"\" width=\"1536\" height=\"2048\" />\n",
+				"content_text": "We went to Italy for the weekend, and I obviously took my phone with me, along with my Sony A6000 and a nice 24mm lens. After just a couple of shots, I put my Sony in the bag and shot the entire trip with my OnePlus 13 in Master mode. These are RAW images from the camera. It’s bonkers - so good! I’m very happy with the results, and this is before I’ve applied any filters!\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/img20250711142344.jpg\" alt=\"\" width=\"1536\" height=\"2048\" /><img src=\"https://eu.uploads.micro.blog/96132/2025/img20250711143551.jpg\" alt=\"\" width=\"2048\" height=\"1536\" /><img src=\"https://eu.uploads.micro.blog/96132/2025/img20250711154001.jpg\" alt=\"\" width=\"2048\" height=\"1536\" /><img src=\"https://eu.uploads.micro.blog/96132/2025/img20250711190349.jpg\" alt=\"\" width=\"1536\" height=\"2048\" />\n",
 				"date_published": "2025-07-15T13:47:44+02:00",
 				"url": "https://pawel.orzech.me/2025/07/15/we-went-to-italy-for.html"
 			},
