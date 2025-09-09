@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/09/09/iphone-air-has-usb.html",
+				
+				"content_html": "<p>Iphone 17 Air has USB 2.0.</p>\n",
+				"content_text": "Iphone 17 Air has USB 2.0. \n",
+				"date_published": "2025-09-09T23:32:08+02:00",
+				"url": "https://pawel.orzech.me/2025/09/09/iphone-air-has-usb.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/09/06/superhuman-is-so-good-i.html",
+				
+				"content_html": "<p>Superhuman is so good I want superhuman for everything now.</p>\n",
+				"content_text": "Superhuman is so good I want superhuman for everything now. \n",
+				"date_published": "2025-09-06T23:46:50+02:00",
+				"url": "https://pawel.orzech.me/2025/09/06/superhuman-is-so-good-i.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/09/05/for-the-first-time-in.html",
+				
+				"content_html": "<p>For the first time in my life - pokemon on DS.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For the first time in my life - pokemon on DS. \n\n<img src=\"uploads/2025/a9d2e44fb0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-05T23:35:00+02:00",
+				"url": "https://pawel.orzech.me/2025/09/05/for-the-first-time-in.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/09/05/fpgbc-is-a-very-good.html",
+				
+				"content_html": "<p>FPGBC is a very good looking device.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "FPGBC is a very good looking device. \n\n<img src=\"uploads/2025/964dac659c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/54d2d09fef.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/e0005b22ad.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/16783fe25a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-05T10:49:58+02:00",
+				"url": "https://pawel.orzech.me/2025/09/05/fpgbc-is-a-very-good.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/09/04/today-has-been-a-great.html",
+				
+				"content_html": "<p>Today has been a great day! My two Nintendo DS’s arrived, but one of them requires a new charger, while the other needs a new shell. I’m currently taking care of these issues. On a different note, my new Game Boy (FPGBC) arrived! I can finally play Pokemon on the near-original hardware, which is slightly better than the original hardware. Nostalgia hits me hard, but it’s also making my life much calmer with all these single-purpose devices.</p>\n<p>Now sorry I have to go play Pokemon Yellow while listening to music on my iPod Classic.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today has been a great day! My two Nintendo DS’s arrived, but one of them requires a new charger, while the other needs a new shell. I’m currently taking care of these issues. On a different note, my new Game Boy (FPGBC) arrived! I can finally play Pokemon on the near-original hardware, which is slightly better than the original hardware. Nostalgia hits me hard, but it’s also making my life much calmer with all these single-purpose devices. \n\nNow sorry I have to go play Pokemon Yellow while listening to music on my iPod Classic.\n\n<img src=\"uploads/2025/8f2b47aa32734138abdd6df0299c95f583fe47ab-2-375x500.jpg\" alt=\"\" width=\"187\" height=\"250\" />\n",
+				"date_published": "2025-09-04T14:24:10+02:00",
+				"url": "https://pawel.orzech.me/2025/09/04/today-has-been-a-great.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/08/30/ooops-nintendo-ds-lite-is.html",
+				
+				"content_html": "<p>Ooops, Nintendo DS Lite is going to be here next week.</p>\n",
+				"content_text": "Ooops, Nintendo DS Lite is going to be here next week.\n",
+				"date_published": "2025-08-30T19:42:01+02:00",
+				"url": "https://pawel.orzech.me/2025/08/30/ooops-nintendo-ds-lite-is.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/08/26/my-new-fpgbc-will-be.html",
 				
 				"content_html": "<p>My new FPGBC will be here in about two weeks and I cannot wait.</p>\n",
@@ -34,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/08/15/uber-eats-went-with-this.html",
 				
 				"content_html": "<p>Uber Eats went with this navigation because of iOS 26 presumably. But I&rsquo;m using Android. Also it&rsquo;s a really horrendous UI pattern.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Uber Eats went with this navigation because of iOS 26 presumably. But I'm using Android. Also it's a really horrendous UI pattern. \n\n<img src=\"uploads/2025/4254d07041.jpg\" width=\"600\" height=\"179\" alt=\"\">\n",
+				"content_text": "Uber Eats went with this navigation because of iOS 26 presumably. But I'm using Android. Also it's a really horrendous UI pattern. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/4254d07041.jpg\" width=\"600\" height=\"179\" alt=\"\">\n",
 				"date_published": "2025-08-15T15:54:29+02:00",
 				"url": "https://pawel.orzech.me/2025/08/15/uber-eats-went-with-this.html"
 			},
