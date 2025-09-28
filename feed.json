@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2025/09/28/i-wanted-to-try-omarchy.html",
+				
+				"content_html": "<p>I wanted to try Omarchy but DHH. I&rsquo;m not gonna try Omarchy then.</p>\n",
+				"content_text": "I wanted to try Omarchy but DHH. I'm not gonna try Omarchy then. \n",
+				"date_published": "2025-09-28T16:30:33+02:00",
+				"url": "https://pawel.orzech.me/2025/09/28/i-wanted-to-try-omarchy.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2025/09/22/yesterday-night-ive-made-some.html",
+				
+				"content_html": "<p>Yesterday night I&rsquo;ve made some nice (not so) little upgrades to the server that&rsquo;s hosting wspanialy.eu. It&rsquo;s still at hetzner but with double the amount of vCPU, RAM and storage. We are dangerously close to the dedicated server territory but if this ever happens I&rsquo;m ready!</p>\n",
+				"content_text": "Yesterday night I've made some nice (not so) little upgrades to the server that's hosting wspanialy.eu. It's still at hetzner but with double the amount of vCPU, RAM and storage. We are dangerously close to the dedicated server territory but if this ever happens I'm ready!\n",
+				"date_published": "2025-09-22T10:56:08+02:00",
+				"url": "https://pawel.orzech.me/2025/09/22/yesterday-night-ive-made-some.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2025/09/21/i-wanted-to-move-off.html",
 				
 				"content_html": "<p>I wanted to move off Fastmail and go deep into Google or something like that for me and wifey but we are paying $100 yearly for both of us at Fastmail and I don&rsquo;t think we can get the whole package anywhere else for cheaper.</p>\n<p>We could go gmail+forwardemail but even that&rsquo;s a bit more expensive than just staying on Fastmail.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://pawelorzech.micro.blog/2025/09/20/this-is-where-i-can.html",
 				
-				"content_html": "<p>This is where I can see this was made 20 years ago. This screen isn&rsquo;t as bright as something made today would be. I might go back to GBC with IPS for today&rsquo;s adventures.</p>\n<img src=\"uploads/2025/cabbc6997f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "This is where I can see this was made 20 years ago. This screen isn't as bright as something made today would be. I might go back to GBC with IPS for today's adventures. \n\n<img src=\"uploads/2025/cabbc6997f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>This is where I can see this was made 20 years ago. This screen isn&rsquo;t as bright as something made today would be. I might go back to GBC with IPS for today&rsquo;s adventures.</p>\n<img src=\"https://eu.uploads.micro.blog/96132/2025/cabbc6997f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "This is where I can see this was made 20 years ago. This screen isn't as bright as something made today would be. I might go back to GBC with IPS for today's adventures. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/cabbc6997f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-20T14:43:41+02:00",
 				"url": "https://pawel.orzech.me/2025/09/20/this-is-where-i-can.html"
 			},
@@ -49,8 +65,8 @@
 			{
 				"id": "http://pawelorzech.micro.blog/2025/09/14/love-this-shit-every-dan.html",
 				
-				"content_html": "<p>Love this shit. Every Dan Brown&rsquo;s book is like a drug to me. I can&rsquo;t stop reading it and it&rsquo;s gonna last maybe until the end of this week if I&rsquo;m careful enough.</p>\n<img src=\"uploads/2025/4afac676de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "Love this shit. Every Dan Brown's book is like a drug to me. I can't stop reading it and it's gonna last maybe until the end of this week if I'm careful enough. \n\n<img src=\"uploads/2025/4afac676de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Love this shit. Every Dan Brown&rsquo;s book is like a drug to me. I can&rsquo;t stop reading it and it&rsquo;s gonna last maybe until the end of this week if I&rsquo;m careful enough.</p>\n<img src=\"https://eu.uploads.micro.blog/96132/2025/4afac676de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Love this shit. Every Dan Brown's book is like a drug to me. I can't stop reading it and it's gonna last maybe until the end of this week if I'm careful enough. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/4afac676de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-14T15:48:57+02:00",
 				"url": "https://pawel.orzech.me/2025/09/14/love-this-shit-every-dan.html"
 			},
