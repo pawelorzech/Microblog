@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/01/08/102755.html",
+				
+				"content_html": "<p>Holy shit it&rsquo;s happening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Holy shit it's happening.\n\n<img src=\"marsedit://pending/918B58FC-7127-4344-A6C0-7EDC1F44AE05/\" alt=\"\" width=\"629\" height=\"483\" />\n",
+				"date_published": "2026-01-08T10:27:55+01:00",
+				"url": "https://pawel.orzech.me/2026/01/08/102755.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/08/holy-shit-its-happening.html",
+				
+				"content_html": "<p>Holy shit it&rsquo;s happening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Holy shit it's happening.\n\n<img src=\"uploads/2026/screenshot-lkjoc8ay-from-zen-2026-01-08-at-10.27.36.png\" alt=\"\" width=\"629\" height=\"483\" />\n",
+				"date_published": "2026-01-08T10:27:54+01:00",
+				"url": "https://pawel.orzech.me/2026/01/08/holy-shit-its-happening.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/01/06/013758.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/28/194652.html",
 				
 				"content_html": "<p>😍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "😍\n\n<img src=\"uploads/2025/9abffd5c45.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "😍\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/9abffd5c45.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-28T19:46:52+01:00",
 				"url": "https://pawel.orzech.me/2025/12/28/194652.html"
 			},
