@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/01/18/the-itch-continues.html",
+				
+				"content_html": "<p>The Itch continues.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The Itch continues. \n\n<img src=\"uploads/2026/1.png\" alt=\"\" width=\"720\" height=\"1584\" /><img src=\"uploads/2026/2.png\" alt=\"\" width=\"720\" height=\"1584\" /><img src=\"uploads/2026/3.png\" alt=\"\" width=\"720\" height=\"1584\" />\n",
+				"date_published": "2026-01-18T19:54:49+00:00",
+				"url": "https://pawel.orzech.me/2026/01/18/the-itch-continues.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/17/the-itch.html",
+				
+				"content_html": "<p>The Itch.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Itch.\n\n<img src=\"uploads/2026/screenshot-20260117-231703.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
+				"date_published": "2026-01-17T23:18:11+00:00",
+				"url": "https://pawel.orzech.me/2026/01/17/the-itch.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/01/17/i-just-wanted-to-say.html",
 				
 				"content_html": "<p>I just wanted to say two things:</p>\n<ol>\n<li>\n<p>If Google Play Console isn&rsquo;t mistaken, 88 people downloaded my app which is INSANE. Thank you, lol. I had an itch and wanted to scratch it. I&rsquo;m having the most fun with doing what I do right now. There&rsquo;s another update coming your way.</p>\n</li>\n<li>\n<p>Believe me or not, but I got real feedback from you (thanks Adam!) and fixes are being reviewed right now. Here&rsquo;s the changelog for the newest version:</p>\n</li>\n</ol>\n<p>Version 1.2.2 (2026-01-16)</p>\n<p>Footer &amp; Social Links</p>\n<p>Added:</p>\n<pre><code>&quot;Made with love in Warsaw, Poland&quot; footer in Settings\nMastodon profile link in Settings footer\n</code></pre>\n<p>Changed:</p>\n<pre><code>Simplified top bar: title now displays app name only\n</code></pre>\n<p>Version 1.2.1 (2026-01-16)</p>\n<p>Settings &amp; Keyboard Fixes</p>\n<p>Changed:</p>\n<pre><code>Smooth animated transitions between settings screens\n</code></pre>\n<p>Fixed (thanks Adam!):</p>\n<pre><code>Back navigation in settings now works correctly\nKeyboard now opens when tapping the note area\nFeedback email now opens properly\n</code></pre>\n",
@@ -34,7 +50,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/01/06/013758.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/fa18683fcd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/96132/2026/fa18683fcd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-06T00:37:58+00:00",
 				"url": "https://pawel.orzech.me/2026/01/06/013758.html"
 			},
@@ -74,7 +90,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/25/very-basic-widgets-but-thats.html",
 				
 				"content_html": "<p>Very basic widgets but that&rsquo;s just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Very basic widgets but that's just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-20251225-005240.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
+				"content_text": "Very basic widgets but that's just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!\n\n<img src=\"uploads/2025/screenshot-20251225-005240.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
 				"date_published": "2025-12-24T23:53:55+00:00",
 				"url": "https://pawel.orzech.me/2025/12/25/very-basic-widgets-but-thats.html"
 			},
@@ -122,7 +138,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/15/144354.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://eu.uploads.micro.blog/96132/2025/lol.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
+				"content_text": "<img src=\"uploads/2025/lol.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
 				"date_published": "2025-12-15T14:43:54+01:00",
 				"url": "https://pawel.orzech.me/2025/12/15/144354.html"
 			},
@@ -138,7 +154,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/14/my-github-is-wild-love.html",
 				
 				"content_html": "<p>My github is wild. Love this change.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My github is wild. Love this change.\n\n<img src=\"uploads/2025/screenshot-2ocrjtt5-from-chatgpt-atlas-2025-12-14-at-08.19.272x.png\" alt=\"\" width=\"805\" height=\"207\" />\n",
+				"content_text": "My github is wild. Love this change.\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-2ocrjtt5-from-chatgpt-atlas-2025-12-14-at-08.19.272x.png\" alt=\"\" width=\"805\" height=\"207\" />\n",
 				"date_published": "2025-12-14T08:19:54+01:00",
 				"url": "https://pawel.orzech.me/2025/12/14/my-github-is-wild-love.html"
 			},
