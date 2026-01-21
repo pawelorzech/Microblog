@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/01/21/my-new-favorite-thing-on.html",
+				
+				"content_html": "<p>My new, favorite thing on my phone is my new app.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My new, favorite thing on my phone is my new app. \n\n<img src=\"uploads/2026/dec438f062.jpg\" width=\"600\" height=\"88\" alt=\"\">\n",
+				"date_published": "2026-01-21T12:16:31+00:00",
+				"url": "https://pawel.orzech.me/2026/01/21/my-new-favorite-thing-on.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/18/if-anybody-uses-memos-selfhosted.html",
+				
+				"content_html": "<p>If anybody uses Memos (selfhosted notes app) and macOS - I made a small menu bar app with global shortcut to quickly put thoughts into the Memos app.</p>\n<p><a href=\"https://github.com/pawelorzech/FastMemos\">github.com/pawelorze&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If anybody uses Memos (selfhosted notes app) and macOS - I made a small menu bar app with global shortcut to quickly put thoughts into the Memos app.\n\n[github.com/pawelorze...](https://github.com/pawelorzech/FastMemos)\n\n<img src=\"uploads/2026/screenshot-begkhbzx-from-brave-browser-2026-01-18-at-21.57.552x.png\" alt=\"\" width=\"546\" height=\"326\" />\n",
+				"date_published": "2026-01-18T21:58:05+00:00",
+				"url": "https://pawel.orzech.me/2026/01/18/if-anybody-uses-memos-selfhosted.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/18/my-mission-now-is-to.html",
+				
+				"content_html": "<p>My mission now is to bring Android Live Updates with support for that island thingy to every single app that would benefit from it. I love this.</p>\n",
+				"content_text": "My mission now is to bring Android Live Updates with support for that island thingy to every single app that would benefit from it. I love this.\n",
+				"date_published": "2026-01-18T20:47:32+00:00",
+				"url": "https://pawel.orzech.me/2026/01/18/my-mission-now-is-to.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/01/18/the-itch-continues.html",
 				
 				"content_html": "<p>The Itch continues.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
