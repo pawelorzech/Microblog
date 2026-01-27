@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/01/27/i-wanted-to-feel-something.html",
+				
+				"content_html": "<p>I wanted to feel something (that we are getting more sunlight, day by day) so I built an app.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I wanted to feel something (that we are getting more sunlight, day by day) so I built an app.\n\n<img src=\"uploads/2026/screenshot-20260127-151435.png\" alt=\"\" width=\"540\" height=\"1212\" />\n",
+				"date_published": "2026-01-27T14:15:29+00:00",
+				"url": "https://pawel.orzech.me/2026/01/27/i-wanted-to-feel-something.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/25/102423.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/6bb4d4756e.jpg\" width=\"600\" height=\"256\" alt=\"\">\n",
+				"date_published": "2026-01-25T10:24:23+00:00",
+				"url": "https://pawel.orzech.me/2026/01/25/102423.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/01/24/since-every-single-payment-went.html",
 				
 				"content_html": "<p>Since every single payment went through - I&rsquo;ve got another full year of figuring out how I replace 1Password, micro.blog or Fastmail. Or I won&rsquo;t!</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/01/18/if-anybody-uses-memos-selfhosted.html",
 				
 				"content_html": "<p>If anybody uses Memos (selfhosted notes app) and macOS - I made a small menu bar app with global shortcut to quickly put thoughts into the Memos app.</p>\n<p><a href=\"https://github.com/pawelorzech/FastMemos\">github.com/pawelorze&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If anybody uses Memos (selfhosted notes app) and macOS - I made a small menu bar app with global shortcut to quickly put thoughts into the Memos app.\n\n[github.com/pawelorze...](https://github.com/pawelorzech/FastMemos)\n\n<img src=\"uploads/2026/screenshot-begkhbzx-from-brave-browser-2026-01-18-at-21.57.552x.png\" alt=\"\" width=\"546\" height=\"326\" />\n",
+				"content_text": "If anybody uses Memos (selfhosted notes app) and macOS - I made a small menu bar app with global shortcut to quickly put thoughts into the Memos app.\n\n[github.com/pawelorze...](https://github.com/pawelorzech/FastMemos)\n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/screenshot-begkhbzx-from-brave-browser-2026-01-18-at-21.57.552x.png\" alt=\"\" width=\"546\" height=\"326\" />\n",
 				"date_published": "2026-01-18T21:58:05+00:00",
 				"url": "https://pawel.orzech.me/2026/01/18/if-anybody-uses-memos-selfhosted.html"
 			},
@@ -138,7 +154,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/25/very-basic-widgets-but-thats.html",
 				
 				"content_html": "<p>Very basic widgets but that&rsquo;s just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Very basic widgets but that's just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-20251225-005240.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
+				"content_text": "Very basic widgets but that's just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!\n\n<img src=\"uploads/2025/screenshot-20251225-005240.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
 				"date_published": "2025-12-24T23:53:55+00:00",
 				"url": "https://pawel.orzech.me/2025/12/25/very-basic-widgets-but-thats.html"
 			},
@@ -186,7 +202,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/15/144354.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://eu.uploads.micro.blog/96132/2025/lol.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
+				"content_text": "<img src=\"uploads/2025/lol.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
 				"date_published": "2025-12-15T14:43:54+01:00",
 				"url": "https://pawel.orzech.me/2025/12/15/144354.html"
 			},
@@ -202,7 +218,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/14/my-github-is-wild-love.html",
 				
 				"content_html": "<p>My github is wild. Love this change.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My github is wild. Love this change.\n\n<img src=\"uploads/2025/screenshot-2ocrjtt5-from-chatgpt-atlas-2025-12-14-at-08.19.272x.png\" alt=\"\" width=\"805\" height=\"207\" />\n",
+				"content_text": "My github is wild. Love this change.\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-2ocrjtt5-from-chatgpt-atlas-2025-12-14-at-08.19.272x.png\" alt=\"\" width=\"805\" height=\"207\" />\n",
 				"date_published": "2025-12-14T08:19:54+01:00",
 				"url": "https://pawel.orzech.me/2025/12/14/my-github-is-wild-love.html"
 			},
