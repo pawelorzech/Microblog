@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/01/31/whenever-i-need-a-tool.html",
+				
+				"content_html": "<p>Whenever I need a tool I just make one. A native Android app for managing Fastmail masked emails. Create, view, edit, and manage your masked email addresses directly from your Android device.</p>\n<p><a href=\"https://github.com/pawelorzech/FastMask\">github.com/pawelorze&hellip;</a></p>\n",
+				"content_text": "Whenever I need a tool I just make one. A native Android app for managing Fastmail masked emails. Create, view, edit, and manage your masked email addresses directly from your Android device.\n\n[github.com/pawelorze...](https://github.com/pawelorzech/FastMask)\n",
+				"date_published": "2026-01-31T00:59:30+00:00",
+				"url": "https://pawel.orzech.me/2026/01/31/whenever-i-need-a-tool.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/27/that-app-is-available-for.html",
+				
+				"content_html": "<p>That app is available for free on my github, enjoy!</p>\n<p><a href=\"https://github.com/pawelorzech/SunZones\">github.com/pawelorze&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "That app is available for free on my github, enjoy! \n\n[github.com/pawelorze...](https://github.com/pawelorzech/SunZones)\n\n<img src=\"uploads/2026/screenshot-20260127-153628.png\" alt=\"\" width=\"540\" height=\"1212\" /><img src=\"uploads/2026/screenshot-20260127-163907.png\" alt=\"\" width=\"540\" height=\"1212\" /><img src=\"uploads/2026/027101ff39.png\" alt=\"\" width=\"540\" height=\"1212\" />\n",
+				"date_published": "2026-01-27T15:50:52+00:00",
+				"url": "https://pawel.orzech.me/2026/01/27/that-app-is-available-for.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/01/27/i-wanted-to-feel-something.html",
 				
 				"content_html": "<p>I wanted to feel something (that we are getting more sunlight, day by day) so I built an app.</p>\n<!-- raw HTML omitted -->\n",
