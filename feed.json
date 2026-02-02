@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/02/02/because-this-is-getting-ridiculous.html",
+				
+				"content_html": "<p>Because this is getting ridiculous I&rsquo;ll take a look at what is costing me the most and I should move it to a self hosted version or find a cheaper alternative.</p>\n",
+				"content_text": "Because this is getting ridiculous I'll take a look at what is costing me the most and I should move it to a self hosted version or find a cheaper alternative. \n",
+				"date_published": "2026-02-02T02:19:35+01:00",
+				"url": "https://pawel.orzech.me/2026/02/02/because-this-is-getting-ridiculous.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/01/31/agentic-development-thought-its-now.html",
+				
+				"content_html": "<p>Agentic Development Thought: it&rsquo;s now easy to translate the whole app into LOTS of different languages. Translations might not always be perfect, but with one prompt, you can make your app MUCH easier to use for so many people using other languages than English.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Agentic Development Thought: it's now easy to translate the whole app into LOTS of different languages. Translations might not always be perfect, but with one prompt, you can make your app MUCH easier to use for so many people using other languages than English.\n\n<img src=\"uploads/2026/screenshot-kbvrbuat-from-warp-2026-01-31-at-11.57.382x.png\" alt=\"\" width=\"587\" height=\"457\" />\n",
+				"date_published": "2026-01-31T11:57:54+01:00",
+				"url": "https://pawel.orzech.me/2026/01/31/agentic-development-thought-its-now.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/01/31/whenever-i-need-a-tool.html",
 				
 				"content_html": "<p>Whenever I need a tool I just make one. A native Android app for managing Fastmail masked emails. Create, view, edit, and manage your masked email addresses directly from your Android device.</p>\n<p><a href=\"https://github.com/pawelorzech/FastMask\">github.com/pawelorze&hellip;</a></p>\n",
 				"content_text": "Whenever I need a tool I just make one. A native Android app for managing Fastmail masked emails. Create, view, edit, and manage your masked email addresses directly from your Android device.\n\n[github.com/pawelorze...](https://github.com/pawelorzech/FastMask)\n",
-				"date_published": "2026-01-31T00:59:30+00:00",
+				"date_published": "2026-01-31T01:59:30+01:00",
 				"url": "https://pawel.orzech.me/2026/01/31/whenever-i-need-a-tool.html"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<p>That app is available for free on my github, enjoy!</p>\n<p><a href=\"https://github.com/pawelorzech/SunZones\">github.com/pawelorze&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "That app is available for free on my github, enjoy! \n\n[github.com/pawelorze...](https://github.com/pawelorzech/SunZones)\n\n<img src=\"uploads/2026/screenshot-20260127-153628.png\" alt=\"\" width=\"540\" height=\"1212\" /><img src=\"uploads/2026/screenshot-20260127-163907.png\" alt=\"\" width=\"540\" height=\"1212\" /><img src=\"uploads/2026/027101ff39.png\" alt=\"\" width=\"540\" height=\"1212\" />\n",
-				"date_published": "2026-01-27T15:50:52+00:00",
+				"date_published": "2026-01-27T16:50:52+01:00",
 				"url": "https://pawel.orzech.me/2026/01/27/that-app-is-available-for.html"
 			},
 			{
@@ -27,14 +43,14 @@
 				
 				"content_html": "<p>I wanted to feel something (that we are getting more sunlight, day by day) so I built an app.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I wanted to feel something (that we are getting more sunlight, day by day) so I built an app.\n\n<img src=\"uploads/2026/screenshot-20260127-151435.png\" alt=\"\" width=\"540\" height=\"1212\" />\n",
-				"date_published": "2026-01-27T14:15:29+00:00",
+				"date_published": "2026-01-27T15:15:29+01:00",
 				"url": "https://pawel.orzech.me/2026/01/27/i-wanted-to-feel-something.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2026/01/25/102423.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/6bb4d4756e.jpg\" width=\"600\" height=\"256\" alt=\"\">\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/96132/2026/6bb4d4756e.jpg\" width=\"600\" height=\"256\" alt=\"\">\n",
 				"date_published": "2026-01-25T10:24:23+00:00",
 				"url": "https://pawel.orzech.me/2026/01/25/102423.html"
 			},
@@ -43,14 +59,14 @@
 				
 				"content_html": "<p>Since every single payment went through - I&rsquo;ve got another full year of figuring out how I replace 1Password, micro.blog or Fastmail. Or I won&rsquo;t!</p>\n",
 				"content_text": "Since every single payment went through - I've got another full year of figuring out how I replace 1Password, micro.blog or Fastmail. Or I won't! \n",
-				"date_published": "2026-01-24T21:55:53+00:00",
+				"date_published": "2026-01-24T22:55:53+01:00",
 				"url": "https://pawel.orzech.me/2026/01/24/since-every-single-payment-went.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2026/01/23/im-doing-another-app-this.html",
 				
 				"content_html": "<p>I&rsquo;m doing another app, this one is called TimeNudge.</p>\n<p>It&rsquo;s a simple timer app with Android Live Updates support, but the thing is - it nudges you until you select timer as complete. Great stuff for things you don&rsquo;t want to forget.</p>\n<p>I haven&rsquo;t seen anything like that on Android, so I built my own. It&rsquo;s not yet available on Google Play Store, but if you join the group here: <a href=\"https://groups.google.com/g/bombelapps\">groups.google.com/g/bombela&hellip;</a></p>\n<p>You can get the app then here:</p>\n<ol>\n<li>On your phone: <a href=\"https://play.google.com/store/apps/details?id=com.timenudge\">play.google.com/store/app&hellip;</a></li>\n<li>On the web: <a href=\"https://play.google.com/apps/testing/com.timenudge\">play.google.com/apps/test&hellip;</a></li>\n</ol>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm doing another app, this one is called TimeNudge. \n\nIt's a simple timer app with Android Live Updates support, but the thing is - it nudges you until you select timer as complete. Great stuff for things you don't want to forget.\n\nI haven't seen anything like that on Android, so I built my own. It's not yet available on Google Play Store, but if you join the group here: [groups.google.com/g/bombela...](https://groups.google.com/g/bombelapps)\n\nYou can get the app then here:\n1. On your phone: [play.google.com/store/app...](https://play.google.com/store/apps/details?id=com.timenudge)\n2. On the web: [play.google.com/apps/test...](https://play.google.com/apps/testing/com.timenudge)\n\n\n\n\n<img src=\"uploads/2026/screenshot-20260123-105346.png\" alt=\"\" width=\"720\" height=\"1584\" />\n",
+				"content_text": "I'm doing another app, this one is called TimeNudge. \n\nIt's a simple timer app with Android Live Updates support, but the thing is - it nudges you until you select timer as complete. Great stuff for things you don't want to forget.\n\nI haven't seen anything like that on Android, so I built my own. It's not yet available on Google Play Store, but if you join the group here: [groups.google.com/g/bombela...](https://groups.google.com/g/bombelapps)\n\nYou can get the app then here:\n1. On your phone: [play.google.com/store/app...](https://play.google.com/store/apps/details?id=com.timenudge)\n2. On the web: [play.google.com/apps/test...](https://play.google.com/apps/testing/com.timenudge)\n\n\n\n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/screenshot-20260123-105346.png\" alt=\"\" width=\"720\" height=\"1584\" />\n",
 				"date_published": "2026-01-23T09:54:05+00:00",
 				"url": "https://pawel.orzech.me/2026/01/23/im-doing-another-app-this.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/01/23/im-off-today-at-work.html",
 				
 				"content_html": "<p>I&rsquo;m off today at work, so&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm off today at work, so... \n\n<img src=\"uploads/2026/screenshot-yuwmq8m8-from-brave-browser-2026-01-23-at-09.49.362x.png\" alt=\"\" width=\"164\" height=\"46\" />\n",
+				"content_text": "I'm off today at work, so... \n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/screenshot-yuwmq8m8-from-brave-browser-2026-01-23-at-09.49.362x.png\" alt=\"\" width=\"164\" height=\"46\" />\n",
 				"date_published": "2026-01-23T08:49:51+00:00",
 				"url": "https://pawel.orzech.me/2026/01/23/im-off-today-at-work.html"
 			},
@@ -66,7 +82,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/01/21/my-new-favorite-thing-on.html",
 				
 				"content_html": "<p>My new, favorite thing on my phone is my new app.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My new, favorite thing on my phone is my new app. \n\n<img src=\"uploads/2026/dec438f062.jpg\" width=\"600\" height=\"88\" alt=\"\">\n",
+				"content_text": "My new, favorite thing on my phone is my new app. \n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/dec438f062.jpg\" width=\"600\" height=\"88\" alt=\"\">\n",
 				"date_published": "2026-01-21T12:16:31+00:00",
 				"url": "https://pawel.orzech.me/2026/01/21/my-new-favorite-thing-on.html"
 			},
@@ -98,7 +114,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/01/17/the-itch.html",
 				
 				"content_html": "<p>The Itch.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Itch.\n\n<img src=\"uploads/2026/screenshot-20260117-231703.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
+				"content_text": "The Itch.\n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/screenshot-20260117-231703.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
 				"date_published": "2026-01-17T23:18:11+00:00",
 				"url": "https://pawel.orzech.me/2026/01/17/the-itch.html"
 			},
@@ -139,7 +155,7 @@
 				"title": "This is an espensive computer",
 				"content_html": "<p>It’s been a little while since I got this new MacBook Pro — specifically, the MacBook Pro M4 Pro.\nIt has 24 GB of RAM and a 1 TB SSD, and I went for the version with the matte display.</p>\n<p>And yes — this is an insanely expensive computer. It’s very expensive. But I also have to admit that it works so well, and I’m so happy with it, and it keeps surprising me in positive ways, that if it were even a bit worse, I’d honestly be angry — because this is a lot of money. But it really does its job. The way it behaves, the way it performs — it genuinely makes me say: okay, this thing is worth the money.</p>\n<p>Take the display, for example. I didn’t really know what to expect. Online reviews were mixed — either very positive or kind of “meh, not sure.” But I’m honestly blown away. I use it much more often as a laptop now, partly because of the screen. ProMotion at 120 Hz is great, it’s very bright, the blacks are very deep — all of that is obviously excellent. But beyond that, the display is just kind of insane and amazing.</p>\n<p>What’s interesting is that, overall, I use it in a very similar way to my previous computer. I had a MacBook Air M1 with 16 GB of RAM and a 512 GB SSD — a pretty solid configuration. And in day-to-day use, this computer feels very similar. I often have the impression that it’s just as fast — even though it obviously is much faster. The difference is that the moment when the computer starts getting warm comes much later, and only when I’m doing a lot more things at once.</p>\n<p>And I think the most important part is that even when it does get warmer and the fans kick in, it doesn’t slow down. I can keep doing all the crazy things I’ve decided to do at that moment. That simply wasn’t possible on my previous machine.</p>\n<p>So I’m really happy that this upgrade happened, because it truly is an upgrade. It genuinely changes the way I use a computer and what I’m able to do on it.</p>\n<p>My professional profile has also changed compared to who I was five years ago. Today I program a lot more — genuinely, regularly. I’m actively developing two mobile applications and one CMS. This is ongoing work, it’s real, it’s moving forward, and it actually meets real requirements and constraints. I never really believed my career would evolve in a way where I’d actually need a computer like this.</p>\n<p>I always thought that a MacBook Air was everything I needed for life and happiness — that I wasn’t “pro” enough to need pro hardware. And yet, it turns out I did need pro hardware, because I’m doing pro things. That’s kind of wild.</p>\n<p>Now, someone could say that you don’t need a MacBook to have pro hardware — and that’s true. I also have a Linux PC that’s an absolute beast, and I use it just as often, and I’m just as productive on it for one or two of the things I work on. But one of my apps is an iOS app, so I had to have a Mac. And I’m glad that I can use this Mac and that it handles everything I throw at it.</p>\n<p>I do feel like the battery life is weak — but on the other hand, I’m doing a lot more on battery than I used to. So maybe it feels weak because I’m literally developing for Android and iOS at the same time, running two emulators, plus browsers — and I’m not going to close anything. So yes, the battery drains quickly, but I think I’m just behaving a bit more recklessly on this machine, even when it’s unplugged.</p>\n<p>So overall, I’m very happy. I highly recommend it. I really like it. It’s a shame it’s not a ThinkPad, a shame it doesn’t run Linux, but because of the emulator requirements… I’m happy this is the computer I ended up with.</p>\n<p>And I’m glad I chose the M4 Pro version, because I really did need that power. And that’s a pretty crazy realization for me.</p>\n",
 				"content_text": "It’s been a little while since I got this new MacBook Pro — specifically, the MacBook Pro M4 Pro.\nIt has 24 GB of RAM and a 1 TB SSD, and I went for the version with the matte display.\n\nAnd yes — this is an insanely expensive computer. It’s very expensive. But I also have to admit that it works so well, and I’m so happy with it, and it keeps surprising me in positive ways, that if it were even a bit worse, I’d honestly be angry — because this is a lot of money. But it really does its job. The way it behaves, the way it performs — it genuinely makes me say: okay, this thing is worth the money.\n\nTake the display, for example. I didn’t really know what to expect. Online reviews were mixed — either very positive or kind of “meh, not sure.” But I’m honestly blown away. I use it much more often as a laptop now, partly because of the screen. ProMotion at 120 Hz is great, it’s very bright, the blacks are very deep — all of that is obviously excellent. But beyond that, the display is just kind of insane and amazing.\n\nWhat’s interesting is that, overall, I use it in a very similar way to my previous computer. I had a MacBook Air M1 with 16 GB of RAM and a 512 GB SSD — a pretty solid configuration. And in day-to-day use, this computer feels very similar. I often have the impression that it’s just as fast — even though it obviously is much faster. The difference is that the moment when the computer starts getting warm comes much later, and only when I’m doing a lot more things at once.\n\nAnd I think the most important part is that even when it does get warmer and the fans kick in, it doesn’t slow down. I can keep doing all the crazy things I’ve decided to do at that moment. That simply wasn’t possible on my previous machine.\n\nSo I’m really happy that this upgrade happened, because it truly is an upgrade. It genuinely changes the way I use a computer and what I’m able to do on it.\n\nMy professional profile has also changed compared to who I was five years ago. Today I program a lot more — genuinely, regularly. I’m actively developing two mobile applications and one CMS. This is ongoing work, it’s real, it’s moving forward, and it actually meets real requirements and constraints. I never really believed my career would evolve in a way where I’d actually need a computer like this.\n\nI always thought that a MacBook Air was everything I needed for life and happiness — that I wasn’t “pro” enough to need pro hardware. And yet, it turns out I did need pro hardware, because I’m doing pro things. That’s kind of wild.\n\nNow, someone could say that you don’t need a MacBook to have pro hardware — and that’s true. I also have a Linux PC that’s an absolute beast, and I use it just as often, and I’m just as productive on it for one or two of the things I work on. But one of my apps is an iOS app, so I had to have a Mac. And I’m glad that I can use this Mac and that it handles everything I throw at it.\n\nI do feel like the battery life is weak — but on the other hand, I’m doing a lot more on battery than I used to. So maybe it feels weak because I’m literally developing for Android and iOS at the same time, running two emulators, plus browsers — and I’m not going to close anything. So yes, the battery drains quickly, but I think I’m just behaving a bit more recklessly on this machine, even when it’s unplugged.\n\nSo overall, I’m very happy. I highly recommend it. I really like it. It’s a shame it’s not a ThinkPad, a shame it doesn’t run Linux, but because of the emulator requirements… I’m happy this is the computer I ended up with.\n\nAnd I’m glad I chose the M4 Pro version, because I really did need that power. And that’s a pretty crazy realization for me.\n",
-				"date_published": "2026-01-03T18:43:51+00:00",
+				"date_published": "2026-01-03T19:43:51+01:00",
 				"url": "https://pawel.orzech.me/2026/01/03/this-is-an-expesive-computer.html"
 			},
 			{
@@ -170,7 +186,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/25/very-basic-widgets-but-thats.html",
 				
 				"content_html": "<p>Very basic widgets but that&rsquo;s just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Very basic widgets but that's just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!\n\n<img src=\"uploads/2025/screenshot-20251225-005240.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
+				"content_text": "Very basic widgets but that's just the first step. Getting it out to testers and hopefully I will be publishing it in the next two to three weeks!\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-20251225-005240.png\" alt=\"\" width=\"640\" height=\"1428\" />\n",
 				"date_published": "2025-12-24T23:53:55+00:00",
 				"url": "https://pawel.orzech.me/2025/12/25/very-basic-widgets-but-thats.html"
 			},
@@ -218,7 +234,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/15/144354.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/lol.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/96132/2025/lol.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
 				"date_published": "2025-12-15T14:43:54+01:00",
 				"url": "https://pawel.orzech.me/2025/12/15/144354.html"
 			},
@@ -234,7 +250,7 @@
 				"id": "http://pawelorzech.micro.blog/2025/12/14/my-github-is-wild-love.html",
 				
 				"content_html": "<p>My github is wild. Love this change.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My github is wild. Love this change.\n\n<img src=\"https://eu.uploads.micro.blog/96132/2025/screenshot-2ocrjtt5-from-chatgpt-atlas-2025-12-14-at-08.19.272x.png\" alt=\"\" width=\"805\" height=\"207\" />\n",
+				"content_text": "My github is wild. Love this change.\n\n<img src=\"uploads/2025/screenshot-2ocrjtt5-from-chatgpt-atlas-2025-12-14-at-08.19.272x.png\" alt=\"\" width=\"805\" height=\"207\" />\n",
 				"date_published": "2025-12-14T08:19:54+01:00",
 				"url": "https://pawel.orzech.me/2025/12/14/my-github-is-wild-love.html"
 			},
