@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/02/20/nintendo-is-releasing-gba-classics.html",
+				
+				"content_html": "<p>Nintendo is releasing GBA classics on Switch soon. If you haven&rsquo;t played it - highly recommended. It&rsquo;s a classic.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nintendo is releasing GBA classics on Switch soon. If you haven't played it - highly recommended. It's a classic. \n\n<img src=\"uploads/2026/417e361ea8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-20T18:19:10+01:00",
+				"url": "https://pawel.orzech.me/2026/02/20/nintendo-is-releasing-gba-classics.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/02/15/miniflux-is-better-than-freshrss.html",
+				
+				"content_html": "<p>Miniflux is better than FreshRSS.<!-- raw HTML omitted --></p>\n",
+				"content_text": "Miniflux is better than FreshRSS.<br />\n",
+				"date_published": "2026-02-15T23:51:35+01:00",
+				"url": "https://pawel.orzech.me/2026/02/15/miniflux-is-better-than-freshrss.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/02/15/things-i-didnt-think-i.html",
 				
 				"content_html": "<p>Things I didn&rsquo;t think I would ever say: &lsquo;I am a developer now.&rsquo; The game I play has an app - Torn PDA. I implemented the Android Live Updates feature and now I&rsquo;m recognized as a developer on the app&rsquo;s Discord!</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/01/31/agentic-development-thought-its-now.html",
 				
 				"content_html": "<p>Agentic Development Thought: it&rsquo;s now easy to translate the whole app into LOTS of different languages. Translations might not always be perfect, but with one prompt, you can make your app MUCH easier to use for so many people using other languages than English.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Agentic Development Thought: it's now easy to translate the whole app into LOTS of different languages. Translations might not always be perfect, but with one prompt, you can make your app MUCH easier to use for so many people using other languages than English.\n\n<img src=\"uploads/2026/screenshot-kbvrbuat-from-warp-2026-01-31-at-11.57.382x.png\" alt=\"\" width=\"587\" height=\"457\" />\n",
+				"content_text": "Agentic Development Thought: it's now easy to translate the whole app into LOTS of different languages. Translations might not always be perfect, but with one prompt, you can make your app MUCH easier to use for so many people using other languages than English.\n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/screenshot-kbvrbuat-from-warp-2026-01-31-at-11.57.382x.png\" alt=\"\" width=\"587\" height=\"457\" />\n",
 				"date_published": "2026-01-31T11:57:54+01:00",
 				"url": "https://pawel.orzech.me/2026/01/31/agentic-development-thought-its-now.html"
 			},
