@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/03/01/one-cartridge-works-on-my.html",
+				
+				"content_html": "<p>One cartridge works on my GBA but doesn&rsquo;t on GBA SP. I mean - the game loads, but first action messes up with it. Of course I got to know that fact because I took different GBA with me and tried to play it.</p>\n",
+				"content_text": "One cartridge works on my GBA but doesn't on GBA SP. I mean - the game loads, but first action messes up with it. Of course I got to know that fact because I took different GBA with me and tried to play it.\n",
+				"date_published": "2026-03-01T14:44:51+01:00",
+				"url": "https://pawel.orzech.me/2026/03/01/one-cartridge-works-on-my.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/02/21/a-couple-weeks-ago-i.html",
+				
+				"content_html": "<p>A couple weeks ago I lost my mom to cancer. It has been rough, but we as a family are doing our best. Anyway - the thing I miss the most is being able to call her when I go on my stupid walks for stupid mental health.</p>\n<p>Hug your loved ones.</p>\n",
+				"content_text": "A couple weeks ago I lost my mom to cancer. It has been rough, but we as a family are doing our best. Anyway - the thing I miss the most is being able to call her when I go on my stupid walks for stupid mental health. \n\nHug your loved ones. \n",
+				"date_published": "2026-02-21T12:28:30+01:00",
+				"url": "https://pawel.orzech.me/2026/02/21/a-couple-weeks-ago-i.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/02/20/but-still-having-them-on.html",
+				
+				"content_html": "<p>But still, having them on Switch is great <em>click!</em><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "But still, having them on Switch is great *click!*<br />\n\n\n<img src=\"https://cdn.wspanialy.eu/media_attachments/files/116/105/374/001/028/460/original/6bc80ef7829ff52f.png\" alt=\"\" width=\"600\" height=\"440\" />\n",
+				"date_published": "2026-02-20T23:43:34+01:00",
+				"url": "https://pawel.orzech.me/2026/02/20/but-still-having-them-on.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/02/20/nintendo-is-releasing-gba-classics.html",
 				
-				"content_html": "<p>Nintendo is releasing GBA classics on Switch soon. If you haven&rsquo;t played it - highly recommended. It&rsquo;s a classic.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nintendo is releasing GBA classics on Switch soon. If you haven't played it - highly recommended. It's a classic. \n\n<img src=\"uploads/2026/417e361ea8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Nintendo is releasing GBA classics on Switch soon. If you haven&rsquo;t played it - highly recommended.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nintendo is releasing GBA classics on Switch soon. If you haven't played it - highly recommended. \n\n<img src=\"uploads/2026/417e361ea8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-20T18:19:10+01:00",
 				"url": "https://pawel.orzech.me/2026/02/20/nintendo-is-releasing-gba-classics.html"
 			},
@@ -26,7 +50,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/02/15/things-i-didnt-think-i.html",
 				
 				"content_html": "<p>Things I didn&rsquo;t think I would ever say: &lsquo;I am a developer now.&rsquo; The game I play has an app - Torn PDA. I implemented the Android Live Updates feature and now I&rsquo;m recognized as a developer on the app&rsquo;s Discord!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Things I didn't think I would ever say: 'I am a developer now.' The game I play has an app - Torn PDA. I implemented the Android Live Updates feature and now I'm recognized as a developer on the app's Discord!\n\n<img src=\"uploads/2026/screenshot-wu48xemr-from-discord-2026-02-15-at-12.08.082x.png\" alt=\"\" width=\"264\" height=\"225\" />\n",
+				"content_text": "Things I didn't think I would ever say: 'I am a developer now.' The game I play has an app - Torn PDA. I implemented the Android Live Updates feature and now I'm recognized as a developer on the app's Discord!\n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/screenshot-wu48xemr-from-discord-2026-02-15-at-12.08.082x.png\" alt=\"\" width=\"264\" height=\"225\" />\n",
 				"date_published": "2026-02-15T12:09:23+01:00",
 				"url": "https://pawel.orzech.me/2026/02/15/things-i-didnt-think-i.html"
 			},
