@@ -7,12 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://pawelorzech.micro.blog/2026/04/02/coffee-oclock.html",
+				
+				"content_html": "<p>Coffee o&rsquo;clock.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Coffee o'clock. \n\n<img src=\"uploads/2026/9d31710720.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/9336b7c900.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-02T18:43:26+02:00",
+				"url": "https://pawel.orzech.me/2026/04/02/coffee-oclock.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/04/02/googles-ai-subscription-came-with.html",
+				
+				"content_html": "<p>Google&rsquo;s AI subscription came with 2TB of space, and now it&rsquo;s 5TB for the same price. I don&rsquo;t want to dunk on Apple but holy shit their cloud offering sucks.</p>\n",
+				"content_text": "Google's AI subscription came with 2TB of space, and now it's 5TB for the same price. I don't want to dunk on Apple but holy shit their cloud offering sucks. \n",
+				"date_published": "2026-04-02T10:35:35+02:00",
+				"url": "https://pawel.orzech.me/2026/04/02/googles-ai-subscription-came-with.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/04/02/paid-for-access-to-the.html",
 				
 				"content_html": "<p>Paid for access to The Verge. All of the good stuff had paywall on it and I really like their takes on stuff. And since there was 50% off for a yearly subscription&hellip;</p>\n",
 				"content_text": "Paid for access to The Verge. All of the good stuff had paywall on it and I really like their takes on stuff. And since there was 50% off for a yearly subscription... \n",
-				"date_published": "2026-04-02T07:55:33+01:00",
+				"date_published": "2026-04-02T08:55:33+02:00",
 				"url": "https://pawel.orzech.me/2026/04/02/paid-for-access-to-the.html"
+			},
+			{
+				"id": "http://pawelorzech.micro.blog/2026/04/02/085533.html",
+				"title": "02.04.2026",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Paid for access to The Verge. All of the good stuff had paywall on it and I really like their takes on stuff. And since there was 50% off for a yearly subscription&hellip;</p>\n",
+				"date_published": "2026-04-02T08:55:33+02:00",
+				"url": "https://pawel.orzech.me/2026/04/02/085533.html"
 			},
 			{
 				"id": "http://pawelorzech.micro.blog/2026/03/31/can-this-iphone-stop-asking.html",
@@ -23,11 +47,19 @@
 				"url": "https://pawel.orzech.me/2026/03/31/can-this-iphone-stop-asking.html"
 			},
 			{
+				"id": "http://pawelorzech.micro.blog/2026/03/31/134146.html",
+				"title": "31.03.2026",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Can this iPhone stop asking me to turn on facetime? I don&rsquo;t want to use facetime, stop asking me.</p>\n",
+				"date_published": "2026-03-31T13:41:46+02:00",
+				"url": "https://pawel.orzech.me/2026/03/31/134146.html"
+			},
+			{
 				"id": "http://pawelorzech.micro.blog/2026/03/26/what-im-a-fan-of.html",
 				
 				"content_html": "<p>What I&rsquo;m a fan of in the Android ecosystem is that you can make those trade-offs. With Apple you can pick a colour and everything else is decided by them.</p>\n<p>I can get an Android phone that&rsquo;s basically all battery, I can get an Android phone that is basically a proper camera system with all of the gimmicks you could imagine. I&rsquo;m free to pick whatever different configuration of things I want to. This makes it easier to get what you want - when you know what you want. But also can make you step into the wrong direction, because you could get something that makes wrong trade-offs for you.</p>\n<p>Last 10 years I was sure that I didn&rsquo;t want to make any decisions. I got an iPhone, rode it until the next big upgrade came and got that one. But the grass always looks greener, right? So I picked up an Android phone that had - I thought - great set of trade-offs.</p>\n<p>Pixel 8a was cheap, great camera, amazing OS (Google&rsquo;s take on Android UI is imo the best take). But the battery was BAD, charging was slow and the CPU wasn&rsquo;t fast enough to keep up with my ADHD. That&rsquo;s what pushed me to OnePlus.</p>\n<p>Different trade-offs. Camera ain&rsquo;t great, but the battery is; OS is a bit worse, but it&rsquo;s damn fast. And I&rsquo;d rather make these wrong turns with phones that aren&rsquo;t for me instead of getting an iPhone and just forfeiting my choice of trade-offs for good.</p>\n",
 				"content_text": "What I'm a fan of in the Android ecosystem is that you can make those trade-offs. With Apple you can pick a colour and everything else is decided by them. \n\nI can get an Android phone that's basically all battery, I can get an Android phone that is basically a proper camera system with all of the gimmicks you could imagine. I'm free to pick whatever different configuration of things I want to. This makes it easier to get what you want - when you know what you want. But also can make you step into the wrong direction, because you could get something that makes wrong trade-offs for you. \n\nLast 10 years I was sure that I didn't want to make any decisions. I got an iPhone, rode it until the next big upgrade came and got that one. But the grass always looks greener, right? So I picked up an Android phone that had - I thought - great set of trade-offs. \n\nPixel 8a was cheap, great camera, amazing OS (Google's take on Android UI is imo the best take). But the battery was BAD, charging was slow and the CPU wasn't fast enough to keep up with my ADHD. That's what pushed me to OnePlus.\n\nDifferent trade-offs. Camera ain't great, but the battery is; OS is a bit worse, but it's damn fast. And I'd rather make these wrong turns with phones that aren't for me instead of getting an iPhone and just forfeiting my choice of trade-offs for good.\n",
-				"date_published": "2026-03-26T10:32:03+01:00",
+				"date_published": "2026-03-26T11:32:03+02:00",
 				"url": "https://pawel.orzech.me/2026/03/26/what-im-a-fan-of.html"
 			},
 			{
@@ -42,7 +74,7 @@
 				"id": "http://pawelorzech.micro.blog/2026/03/24/new-home-screen-who-dis.html",
 				
 				"content_html": "<p>New home screen who dis</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New home screen who dis\n\n<img src=\"uploads/2026/0f1065ac8b.jpg\" width=\"272\" height=\"600\" alt=\"\">\n",
+				"content_text": "New home screen who dis\n\n<img src=\"https://eu.uploads.micro.blog/96132/2026/0f1065ac8b.jpg\" width=\"272\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-24T16:59:44+01:00",
 				"url": "https://pawel.orzech.me/2026/03/24/new-home-screen-who-dis.html"
 			},
@@ -347,7 +379,7 @@
 				"title": "This is an espensive computer",
 				"content_html": "<p>It’s been a little while since I got this new MacBook Pro — specifically, the MacBook Pro M4 Pro.\nIt has 24 GB of RAM and a 1 TB SSD, and I went for the version with the matte display.</p>\n<p>And yes — this is an insanely expensive computer. It’s very expensive. But I also have to admit that it works so well, and I’m so happy with it, and it keeps surprising me in positive ways, that if it were even a bit worse, I’d honestly be angry — because this is a lot of money. But it really does its job. The way it behaves, the way it performs — it genuinely makes me say: okay, this thing is worth the money.</p>\n<p>Take the display, for example. I didn’t really know what to expect. Online reviews were mixed — either very positive or kind of “meh, not sure.” But I’m honestly blown away. I use it much more often as a laptop now, partly because of the screen. ProMotion at 120 Hz is great, it’s very bright, the blacks are very deep — all of that is obviously excellent. But beyond that, the display is just kind of insane and amazing.</p>\n<p>What’s interesting is that, overall, I use it in a very similar way to my previous computer. I had a MacBook Air M1 with 16 GB of RAM and a 512 GB SSD — a pretty solid configuration. And in day-to-day use, this computer feels very similar. I often have the impression that it’s just as fast — even though it obviously is much faster. The difference is that the moment when the computer starts getting warm comes much later, and only when I’m doing a lot more things at once.</p>\n<p>And I think the most important part is that even when it does get warmer and the fans kick in, it doesn’t slow down. I can keep doing all the crazy things I’ve decided to do at that moment. That simply wasn’t possible on my previous machine.</p>\n<p>So I’m really happy that this upgrade happened, because it truly is an upgrade. It genuinely changes the way I use a computer and what I’m able to do on it.</p>\n<p>My professional profile has also changed compared to who I was five years ago. Today I program a lot more — genuinely, regularly. I’m actively developing two mobile applications and one CMS. This is ongoing work, it’s real, it’s moving forward, and it actually meets real requirements and constraints. I never really believed my career would evolve in a way where I’d actually need a computer like this.</p>\n<p>I always thought that a MacBook Air was everything I needed for life and happiness — that I wasn’t “pro” enough to need pro hardware. And yet, it turns out I did need pro hardware, because I’m doing pro things. That’s kind of wild.</p>\n<p>Now, someone could say that you don’t need a MacBook to have pro hardware — and that’s true. I also have a Linux PC that’s an absolute beast, and I use it just as often, and I’m just as productive on it for one or two of the things I work on. But one of my apps is an iOS app, so I had to have a Mac. And I’m glad that I can use this Mac and that it handles everything I throw at it.</p>\n<p>I do feel like the battery life is weak — but on the other hand, I’m doing a lot more on battery than I used to. So maybe it feels weak because I’m literally developing for Android and iOS at the same time, running two emulators, plus browsers — and I’m not going to close anything. So yes, the battery drains quickly, but I think I’m just behaving a bit more recklessly on this machine, even when it’s unplugged.</p>\n<p>So overall, I’m very happy. I highly recommend it. I really like it. It’s a shame it’s not a ThinkPad, a shame it doesn’t run Linux, but because of the emulator requirements… I’m happy this is the computer I ended up with.</p>\n<p>And I’m glad I chose the M4 Pro version, because I really did need that power. And that’s a pretty crazy realization for me.</p>\n",
 				"content_text": "It’s been a little while since I got this new MacBook Pro — specifically, the MacBook Pro M4 Pro.\nIt has 24 GB of RAM and a 1 TB SSD, and I went for the version with the matte display.\n\nAnd yes — this is an insanely expensive computer. It’s very expensive. But I also have to admit that it works so well, and I’m so happy with it, and it keeps surprising me in positive ways, that if it were even a bit worse, I’d honestly be angry — because this is a lot of money. But it really does its job. The way it behaves, the way it performs — it genuinely makes me say: okay, this thing is worth the money.\n\nTake the display, for example. I didn’t really know what to expect. Online reviews were mixed — either very positive or kind of “meh, not sure.” But I’m honestly blown away. I use it much more often as a laptop now, partly because of the screen. ProMotion at 120 Hz is great, it’s very bright, the blacks are very deep — all of that is obviously excellent. But beyond that, the display is just kind of insane and amazing.\n\nWhat’s interesting is that, overall, I use it in a very similar way to my previous computer. I had a MacBook Air M1 with 16 GB of RAM and a 512 GB SSD — a pretty solid configuration. And in day-to-day use, this computer feels very similar. I often have the impression that it’s just as fast — even though it obviously is much faster. The difference is that the moment when the computer starts getting warm comes much later, and only when I’m doing a lot more things at once.\n\nAnd I think the most important part is that even when it does get warmer and the fans kick in, it doesn’t slow down. I can keep doing all the crazy things I’ve decided to do at that moment. That simply wasn’t possible on my previous machine.\n\nSo I’m really happy that this upgrade happened, because it truly is an upgrade. It genuinely changes the way I use a computer and what I’m able to do on it.\n\nMy professional profile has also changed compared to who I was five years ago. Today I program a lot more — genuinely, regularly. I’m actively developing two mobile applications and one CMS. This is ongoing work, it’s real, it’s moving forward, and it actually meets real requirements and constraints. I never really believed my career would evolve in a way where I’d actually need a computer like this.\n\nI always thought that a MacBook Air was everything I needed for life and happiness — that I wasn’t “pro” enough to need pro hardware. And yet, it turns out I did need pro hardware, because I’m doing pro things. That’s kind of wild.\n\nNow, someone could say that you don’t need a MacBook to have pro hardware — and that’s true. I also have a Linux PC that’s an absolute beast, and I use it just as often, and I’m just as productive on it for one or two of the things I work on. But one of my apps is an iOS app, so I had to have a Mac. And I’m glad that I can use this Mac and that it handles everything I throw at it.\n\nI do feel like the battery life is weak — but on the other hand, I’m doing a lot more on battery than I used to. So maybe it feels weak because I’m literally developing for Android and iOS at the same time, running two emulators, plus browsers — and I’m not going to close anything. So yes, the battery drains quickly, but I think I’m just behaving a bit more recklessly on this machine, even when it’s unplugged.\n\nSo overall, I’m very happy. I highly recommend it. I really like it. It’s a shame it’s not a ThinkPad, a shame it doesn’t run Linux, but because of the emulator requirements… I’m happy this is the computer I ended up with.\n\nAnd I’m glad I chose the M4 Pro version, because I really did need that power. And that’s a pretty crazy realization for me.\n",
-				"date_published": "2026-01-03T19:43:51+01:00",
+				"date_published": "2026-01-03T20:43:51+02:00",
 				"url": "https://pawel.orzech.me/2026/01/03/this-is-an-expesive-computer.html"
 			},
 			{
